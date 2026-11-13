@@ -1,0 +1,52 @@
+{
+  "chunk_id": "doc_route_95G_1e40872e_c000",
+  "document_id": "doc_route_95G_1e40872e",
+  "chunk_index": 0,
+  "document_type": "route_profile",
+  "title": "Route Profile: Route 95G (3 Service Variants) - Overview & Variants Part 1",
+  "source_dataset": "route_service_summary.json",
+  "dataset_version": "v1.0.0-sholinganallur",
+  "section_heading": "Overview & Initial Operational Variants",
+  "chunk_text": "# MTC BUS ROUTE PROFILE: ROUTE 95G\n\n## Public Transit Line Overview\n- Public Route Number: 95G\n- Total Operational Variants in Feed: 3 service profiles\n- Total Scheduled Daily Trips: 24 trips\n- Total Sholinganallur Stop Departures: 24 recorded departures\n- Key Terminals & Hubs Served: KCBT - KILAMBAKKAM, OKK.THORAIPAKM SEC.COLONY, TAMBARAM WEST\n\n## Timetable Service Window\n- Earliest Scheduled Departure in Area: 05:31:00 (Variant ID: 4330)\n- Latest Scheduled Departure in Area: 19:49:15 (Variant ID: 4327)\n- Span of Operation: From 05:31:00 to 19:49:15\n\n## Operational Service Variants (3 GTFS Service Profiles)\n### Variant Route ID: 4326 — KCBT - KILAMBAKKAM To OKK.THORAIPAKM SEC.COLONY\n- Terminal Path: KCBT - KILAMBAKKAM To OKK.THORAIPAKM SEC.COLONY\n- Scheduled Daily Trips: 10 trips\n- Departures Serving Sholinganallur: 10 stop departures\n- Operational Hours: 07:57:15 to 18:52:15\n\n### Variant Route ID: 4327 — OKK.THORAIPAKM SEC.COLONY To KCBT - KILAMBAKKAM\n- Terminal Path: OKK.THORAIPAKM SEC.COLONY To KCBT - KILAMBAKKAM\n- Scheduled Daily Trips: 12 trips\n- Departures Serving Sholinganallur: 12 stop departures\n- Operational Hours: 06:24:15 to 19:49:15\n\n",
+  "chunk_hash": "dbe317011894ead73d81a747b68afc8b8dd3ca11bd8eb0c61f765d0c5f750f6d",
+  "token_count": 416,
+  "pipeline_version": "v1.0.0-chunking",
+  "source_start_char": 0,
+  "source_end_char": 1166,
+  "injected_context_header": "",
+  "overlap_text": "",
+  "has_overlap": false,
+  "overlap_tokens": 0,
+  "metadata": {
+    "is_atomic": false,
+    "has_overlap": false,
+    "overlap_tokens": 0,
+    "source_start_char": 0,
+    "source_end_char": 1166,
+    "injected_context_header": "",
+    "overlap_text": "",
+    "source_tokens": 586,
+    "document_id": "doc_route_95G_1e40872e",
+    "document_type": "route_profile",
+    "route_number": "95G",
+    "route_hash_suffix": "1e40872e",
+    "variant_count": 3,
+    "variant_route_ids": [
+      "4326",
+      "4327",
+      "4330"
+    ],
+    "total_daily_trips": 24,
+    "total_area_departures": 24,
+    "earliest_departure_time": "05:31:00",
+    "latest_departure_time": "19:49:15",
+    "earliest_departure_seconds": 19860,
+    "latest_departure_seconds": 71355,
+    "terminals": [
+      "KCBT - KILAMBAKKAM",
+      "OKK.THORAIPAKM SEC.COLONY",
+      "TAMBARAM WEST"
+    ],
+    "variant_count_in_chunk": 2
+  }
+}

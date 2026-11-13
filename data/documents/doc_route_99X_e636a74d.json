@@ -1,0 +1,36 @@
+{
+  "document_id": "doc_route_99X_e636a74d",
+  "document_type": "route_profile",
+  "title": "Route Profile: Route 99X (5 Service Variants)",
+  "source_file": "route_service_summary.json",
+  "dataset_version": "v1.0.0-sholinganallur",
+  "metadata": {
+    "document_id": "doc_route_99X_e636a74d",
+    "document_type": "route_profile",
+    "route_number": "99X",
+    "route_hash_suffix": "e636a74d",
+    "variant_count": 5,
+    "variant_route_ids": [
+      "4357",
+      "4358",
+      "4360",
+      "639",
+      "640"
+    ],
+    "total_daily_trips": 79,
+    "total_area_departures": 149,
+    "earliest_departure_time": "00:58:30",
+    "latest_departure_time": "24:29:45",
+    "earliest_departure_seconds": 3510,
+    "latest_departure_seconds": 88185,
+    "terminals": [
+      "ADYAR B.T",
+      "KCBT - KILAMBAKKAM",
+      "KILAMBAKKAM BUS TERMINUS",
+      "SHOLINGANALLUR",
+      "TAMBARAM WEST"
+    ]
+  },
+  "content": "# MTC BUS ROUTE PROFILE: ROUTE 99X\n\n## Public Transit Line Overview\n- Public Route Number: 99X\n- Total Operational Variants in Feed: 5 service profiles\n- Total Scheduled Daily Trips: 79 trips\n- Total Sholinganallur Stop Departures: 149 recorded departures\n- Key Terminals & Hubs Served: ADYAR B.T, KCBT - KILAMBAKKAM, KILAMBAKKAM BUS TERMINUS, SHOLINGANALLUR, TAMBARAM WEST\n\n## Timetable Service Window\n- Earliest Scheduled Departure in Area: 00:58:30 (Variant ID: 640)\n- Latest Scheduled Departure in Area: 24:29:45 (Variant ID: 639)\n- Span of Operation: From 00:58:30 to 24:29:45\n\n## Operational Service Variants (5 GTFS Service Profiles)\n### Variant Route ID: 4357 — KCBT - KILAMBAKKAM To SHOLINGANALLUR\n- Terminal Path: KCBT - KILAMBAKKAM To SHOLINGANALLUR\n- Scheduled Daily Trips: 4 trips\n- Departures Serving Sholinganallur: 4 stop departures\n- Operational Hours: 04:47:00 to 14:22:00\n\n### Variant Route ID: 4358 — SHOLINGANALLUR To KCBT - KILAMBAKKAM\n- Terminal Path: SHOLINGANALLUR To KCBT - KILAMBAKKAM\n- Scheduled Daily Trips: 4 trips\n- Departures Serving Sholinganallur: 4 stop departures\n- Operational Hours: 06:00:15 to 15:35:15\n\n### Variant Route ID: 4360 — ADYAR B.T To TAMBARAM WEST\n- Terminal Path: ADYAR B.T To TAMBARAM WEST\n- Scheduled Daily Trips: 1 trips\n- Departures Serving Sholinganallur: 1 stop departures\n- Operational Hours: 05:52:45 to 05:52:45\n\n### Variant Route ID: 639 — ADYAR B.T To KILAMBAKKAM BUS TERMINUS\n- Terminal Path: ADYAR B.T To KILAMBAKKAM BUS TERMINUS\n- Scheduled Daily Trips: 35 trips\n- Departures Serving Sholinganallur: 70 stop departures\n- Operational Hours: 02:42:30 to 24:29:45\n\n### Variant Route ID: 640 — KILAMBAKKAM BUS TERMINUS To ADYAR B.T\n- Terminal Path: KILAMBAKKAM BUS TERMINUS To ADYAR B.T\n- Scheduled Daily Trips: 35 trips\n- Departures Serving Sholinganallur: 70 stop departures\n- Operational Hours: 00:58:30 to 22:33:45\n\n## Static Schedule Disclaimer\n- All timetable benchmarks are derived from official static Chennai MTC GTFS data. Times indicate scheduled timetable departures and do not reflect real-time traffic conditions or live vehicle tracking.",
+  "document_hash": "91b34068b808483fdeb6028605701551ab5abf778e07e346cd9277a6a9f17bb5"
+}

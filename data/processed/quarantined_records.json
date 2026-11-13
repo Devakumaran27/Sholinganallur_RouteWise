@@ -1,0 +1,18 @@
+[
+  {
+    "entity_type": "bus_stop",
+    "id": "380",
+    "name": "SHOLINGANALLUR",
+    "reason": "Missing or quarantined geographic coordinates (outside Chennai bounds in source GTFS)",
+    "map_eligible": false,
+    "coordinate_status": "QUARANTINED_UNVERIFIED_DO_NOT_MAP"
+  },
+  {
+    "entity_type": "bus_stop",
+    "id": "168",
+    "name": "SHOLINGANALLUR P.U.OFFICE",
+    "reason": "Missing or quarantined geographic coordinates (outside Chennai bounds in source GTFS)",
+    "map_eligible": false,
+    "coordinate_status": "QUARANTINED_UNVERIFIED_DO_NOT_MAP"
+  }
+]

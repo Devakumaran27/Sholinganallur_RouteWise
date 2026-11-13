@@ -1,0 +1,60 @@
+{
+  "chunk_id": "doc_corridor_sholinganallur_t_nagar_c000",
+  "document_id": "doc_corridor_sholinganallur_t_nagar",
+  "chunk_index": 0,
+  "document_type": "corridor_guide",
+  "title": "Corridor Travel Guide: Sholinganallur to T. Nagar (Direct MTC Bus Service) - Routes, Schedules & Boarding Hubs",
+  "source_dataset": "direct_t_nagar_connections.json",
+  "dataset_version": "v1.0.0-sholinganallur",
+  "section_heading": "Corridor Overview, Operating Routes & Terminals",
+  "chunk_text": "# CORRIDOR TRAVEL GUIDE: SHOLINGANALLUR TO T. NAGAR (DIRECT MTC BUS SERVICE)\n\n## Corridor Overview\nDirect public bus connectivity between the Sholinganallur IT hub and Thyagaraya Nagar (T. Nagar) is operated by Chennai MTC across 170 scheduled daily direct runs. All direct trips terminate at CIT Nagar, providing direct pedestrian and feeder access to the central T. Nagar shopping and commercial district.\n\n## Operating Bus Routes & Service Breakdown\n- Total Daily Direct Trips: 170 scheduled runs\n- Line 19: 115 direct scheduled daily trips\n- Line 19A: 42 direct scheduled daily trips\n- Line M51: 10 direct scheduled daily trips\n- Line 19BET: 3 direct scheduled daily trips\n\n## Journey Duration & Operating Hours\n- Average Scheduled Travel Time: 65.65 minutes\n- Journey Duration Range: 62.75 minutes to 67.25 minutes\n- First Morning Direct Bus: 04:34:45 (Route 19A from SHOLINGANALLUR NUCLUEUS COMPANY)\n- Last Night Direct Bus: 22:24:15 (Route 19 from SHOLINGANALLUR KUMARAN NAGAR)\n\n## Primary Boarding Hubs in Sholinganallur\n- SHOLINGANALLUR KUMARAN NAGAR: 118 direct departures daily\n- SHOLINGANALLUR NUCLUEUS COMPANY: 42 direct departures daily\n- SHOLINGANALLUR: 10 direct departures daily\n\n## Destination Terminals in T. Nagar Zone\n- CIT NAGAR: 170 arrivals daily (Gateway terminal to Panagal Park and T. Nagar)\n\n",
+  "chunk_hash": "916521fb063944af6f7abd8fe4b45c00e9d7f950fce08f816930bb691aacc5ee",
+  "token_count": 437,
+  "pipeline_version": "v1.0.0-chunking",
+  "source_start_char": 0,
+  "source_end_char": 1320,
+  "injected_context_header": "",
+  "overlap_text": "",
+  "has_overlap": false,
+  "overlap_tokens": 0,
+  "metadata": {
+    "is_atomic": false,
+    "has_overlap": false,
+    "overlap_tokens": 0,
+    "source_start_char": 0,
+    "source_end_char": 1320,
+    "injected_context_header": "",
+    "overlap_text": "",
+    "source_tokens": 883,
+    "document_type": "corridor_guide",
+    "corridor_id": "sholinganallur_t_nagar",
+    "origin_area": "Sholinganallur",
+    "destination": "T. Nagar (CIT Nagar)",
+    "total_direct_runs": 170,
+    "routes_operating": [
+      "19",
+      "19A",
+      "19BET",
+      "M51"
+    ],
+    "route_breakdown": {
+      "19": 115,
+      "M51": 10,
+      "19A": 42,
+      "19BET": 3
+    },
+    "origin_stops": [
+      "SHOLINGANALLUR",
+      "SHOLINGANALLUR KUMARAN NAGAR",
+      "SHOLINGANALLUR NUCLUEUS COMPANY"
+    ],
+    "destination_stops": [
+      "CIT NAGAR"
+    ],
+    "min_duration_minutes": 62.75,
+    "max_duration_minutes": 67.25,
+    "avg_duration_minutes": 65.65,
+    "earliest_departure_time": "04:34:45",
+    "latest_departure_time": "22:24:15"
+  }
+}

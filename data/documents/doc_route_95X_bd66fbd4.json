@@ -1,0 +1,35 @@
+{
+  "document_id": "doc_route_95X_bd66fbd4",
+  "document_type": "route_profile",
+  "title": "Route Profile: Route 95X (4 Service Variants)",
+  "source_file": "route_service_summary.json",
+  "dataset_version": "v1.0.0-sholinganallur",
+  "metadata": {
+    "document_id": "doc_route_95X_bd66fbd4",
+    "document_type": "route_profile",
+    "route_number": "95X",
+    "route_hash_suffix": "bd66fbd4",
+    "variant_count": 4,
+    "variant_route_ids": [
+      "4337",
+      "5715",
+      "627",
+      "630"
+    ],
+    "total_daily_trips": 217,
+    "total_area_departures": 645,
+    "earliest_departure_time": "00:56:45",
+    "latest_departure_time": "24:37:45",
+    "earliest_departure_seconds": 3405,
+    "latest_departure_seconds": 88665,
+    "terminals": [
+      "KILAMBAKKAM BUS TERMINUS",
+      "SEMMANCHERI TNUHDB",
+      "TAMBARAM WEST",
+      "THIRUVANMIYUR",
+      "THIRUVANMIYUR B.T"
+    ]
+  },
+  "content": "# MTC BUS ROUTE PROFILE: ROUTE 95X\n\n## Public Transit Line Overview\n- Public Route Number: 95X\n- Total Operational Variants in Feed: 4 service profiles\n- Total Scheduled Daily Trips: 217 trips\n- Total Sholinganallur Stop Departures: 645 recorded departures\n- Key Terminals & Hubs Served: KILAMBAKKAM BUS TERMINUS, SEMMANCHERI TNUHDB, TAMBARAM WEST, THIRUVANMIYUR, THIRUVANMIYUR B.T\n\n## Timetable Service Window\n- Earliest Scheduled Departure in Area: 00:56:45 (Variant ID: 630)\n- Latest Scheduled Departure in Area: 24:37:45 (Variant ID: 627)\n- Span of Operation: From 00:56:45 to 24:37:45\n\n## Operational Service Variants (4 GTFS Service Profiles)\n### Variant Route ID: 4337 — THIRUVANMIYUR To TAMBARAM WEST\n- Terminal Path: THIRUVANMIYUR To TAMBARAM WEST\n- Scheduled Daily Trips: 2 trips\n- Departures Serving Sholinganallur: 2 stop departures\n- Operational Hours: 18:33:45 to 19:33:45\n\n### Variant Route ID: 5715 — THIRUVANMIYUR To SEMMANCHERI TNUHDB\n- Terminal Path: THIRUVANMIYUR To SEMMANCHERI TNUHDB\n- Scheduled Daily Trips: 1 trips\n- Departures Serving Sholinganallur: 1 stop departures\n- Operational Hours: 04:48:45 to 04:48:45\n\n### Variant Route ID: 627 — KILAMBAKKAM BUS TERMINUS To THIRUVANMIYUR B.T\n- Terminal Path: KILAMBAKKAM BUS TERMINUS To THIRUVANMIYUR B.T\n- Scheduled Daily Trips: 110 trips\n- Departures Serving Sholinganallur: 330 stop departures\n- Operational Hours: 01:28:15 to 24:37:45\n\n### Variant Route ID: 630 — THIRUVANMIYUR B.T To KILAMBAKKAM BUS TERMINUS\n- Terminal Path: THIRUVANMIYUR B.T To KILAMBAKKAM BUS TERMINUS\n- Scheduled Daily Trips: 104 trips\n- Departures Serving Sholinganallur: 312 stop departures\n- Operational Hours: 00:56:45 to 24:21:15\n\n## Static Schedule Disclaimer\n- All timetable benchmarks are derived from official static Chennai MTC GTFS data. Times indicate scheduled timetable departures and do not reflect real-time traffic conditions or live vehicle tracking.",
+  "document_hash": "9f525c97be18084d6c8b2ed4eeb6f64bae66a6449ab67fa27e5dd7e5e1f252c6"
+}

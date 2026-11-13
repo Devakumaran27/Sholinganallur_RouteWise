@@ -1,0 +1,50 @@
+{
+  "document_id": "doc_route_102_37834f2f",
+  "document_type": "route_profile",
+  "title": "Route Profile: Route 102 (12 Service Variants)",
+  "source_file": "route_service_summary.json",
+  "dataset_version": "v1.0.0-sholinganallur",
+  "metadata": {
+    "document_id": "doc_route_102_37834f2f",
+    "document_type": "route_profile",
+    "route_number": "102",
+    "route_hash_suffix": "37834f2f",
+    "variant_count": 12,
+    "variant_route_ids": [
+      "10",
+      "13",
+      "1945",
+      "1946",
+      "1947",
+      "1948",
+      "3",
+      "333",
+      "337",
+      "7",
+      "8",
+      "9"
+    ],
+    "total_daily_trips": 227,
+    "total_area_departures": 975,
+    "earliest_departure_time": "00:16:00",
+    "latest_departure_time": "22:54:30",
+    "earliest_departure_seconds": 960,
+    "latest_departure_seconds": 82470,
+    "terminals": [
+      "ADYAR B.T",
+      "ADYAR DEPOT",
+      "BROADWAY",
+      "KANNAGI NAGAR TNUHDB",
+      "KELAMBAKKAM",
+      "KELAMBAKKAM B.T",
+      "M.G.R.CENTRAL",
+      "PERUMBAKKAM TNUHDB",
+      "Perumbakkam TNUHDB",
+      "SIRUSERI I.T PARK",
+      "SIRUSERI I.T.PARK",
+      "kelambakkam POLICE STATION"
+    ]
+  },
+  "content": "# MTC BUS ROUTE PROFILE: ROUTE 102\n\n## Public Transit Line Overview\n- Public Route Number: 102\n- Total Operational Variants in Feed: 12 service profiles\n- Total Scheduled Daily Trips: 227 trips\n- Total Sholinganallur Stop Departures: 975 recorded departures\n- Key Terminals & Hubs Served: ADYAR B.T, ADYAR DEPOT, BROADWAY, KANNAGI NAGAR TNUHDB, KELAMBAKKAM, KELAMBAKKAM B.T, M.G.R.CENTRAL, PERUMBAKKAM TNUHDB, Perumbakkam TNUHDB, SIRUSERI I.T PARK, SIRUSERI I.T.PARK, kelambakkam POLICE STATION\n\n## Timetable Service Window\n- Earliest Scheduled Departure in Area: 00:16:00 (Variant ID: 1947)\n- Latest Scheduled Departure in Area: 22:54:30 (Variant ID: 1945)\n- Span of Operation: From 00:16:00 to 22:54:30\n\n## Operational Service Variants (12 GTFS Service Profiles)\n### Variant Route ID: 10 — SIRUSERI I.T.PARK To BROADWAY\n- Terminal Path: SIRUSERI I.T.PARK To BROADWAY\n- Scheduled Daily Trips: 55 trips\n- Departures Serving Sholinganallur: 275 stop departures\n- Operational Hours: 04:55:30 to 21:26:45\n\n### Variant Route ID: 13 — M.G.R.CENTRAL To KELAMBAKKAM\n- Terminal Path: M.G.R.CENTRAL To KELAMBAKKAM\n- Scheduled Daily Trips: 1 trips\n- Departures Serving Sholinganallur: 1 stop departures\n- Operational Hours: 05:11:45 to 05:11:45\n\n### Variant Route ID: 1945 — BROADWAY To PERUMBAKKAM TNUHDB\n- Terminal Path: BROADWAY To PERUMBAKKAM TNUHDB\n- Scheduled Daily Trips: 12 trips\n- Departures Serving Sholinganallur: 12 stop departures\n- Operational Hours: 10:59:30 to 22:54:30\n\n### Variant Route ID: 1946 — PERUMBAKKAM TNUHDB To BROADWAY\n- Terminal Path: PERUMBAKKAM TNUHDB To BROADWAY\n- Scheduled Daily Trips: 1 trips\n- Departures Serving Sholinganallur: 1 stop departures\n- Operational Hours: 05:07:00 to 05:07:00\n\n### Variant Route ID: 1947 — KELAMBAKKAM To KANNAGI NAGAR TNUHDB\n- Terminal Path: KELAMBAKKAM To KANNAGI NAGAR TNUHDB\n- Scheduled Daily Trips: 4 trips\n- Departures Serving Sholinganallur: 4 stop departures\n- Operational Hours: 00:16:00 to 22:11:00\n\n### Variant Route ID: 1948 — Perumbakkam TNUHDB To kelambakkam POLICE STATION\n- Terminal Path: Perumbakkam TNUHDB To kelambakkam POLICE STATION\n- Scheduled Daily Trips: 12 trips\n- Departures Serving Sholinganallur: 12 stop departures\n- Operational Hours: 04:44:45 to 16:29:45\n\n### Variant Route ID: 3 — ADYAR B.T To SIRUSERI I.T PARK\n- Terminal Path: ADYAR B.T To SIRUSERI I.T PARK\n- Scheduled Daily Trips: 2 trips\n- Departures Serving Sholinganallur: 2 stop departures\n- Operational Hours: 00:16:00 to 00:16:00\n\n### Variant Route ID: 333 — ADYAR DEPOT To KELAMBAKKAM\n- Terminal Path: ADYAR DEPOT To KELAMBAKKAM\n- Scheduled Daily Trips: 6 trips\n- Departures Serving Sholinganallur: 6 stop departures\n- Operational Hours: 04:53:45 to 06:43:45\n\n### Variant Route ID: 337 — KELAMBAKKAM To ADYAR DEPOT\n- Terminal Path: KELAMBAKKAM To ADYAR DEPOT\n- Scheduled Daily Trips: 2 trips\n- Departures Serving Sholinganallur: 2 stop departures\n- Operational Hours: 21:06:00 to 22:01:00\n\n### Variant Route ID: 7 — BROADWAY To KELAMBAKKAM B.T\n- Terminal Path: BROADWAY To KELAMBAKKAM B.T\n- Scheduled Daily Trips: 37 trips\n- Departures Serving Sholinganallur: 185 stop departures\n- Operational Hours: 06:12:15 to 22:53:30\n\n### Variant Route ID: 8 — KELAMBAKKAM B.T To BROADWAY\n- Terminal Path: KELAMBAKKAM B.T To BROADWAY\n- Scheduled Daily Trips: 51 trips\n- Departures Serving Sholinganallur: 255 stop departures\n- Operational Hours: 05:14:00 to 21:20:15\n\n### Variant Route ID: 9 — BROADWAY To SIRUSERI I.T.PARK\n- Terminal Path: BROADWAY To SIRUSERI I.T.PARK\n- Scheduled Daily Trips: 44 trips\n- Departures Serving Sholinganallur: 220 stop departures\n- Operational Hours: 07:47:15 to 20:28:30\n\n## Static Schedule Disclaimer\n- All timetable benchmarks are derived from official static Chennai MTC GTFS data. Times indicate scheduled timetable departures and do not reflect real-time traffic conditions or live vehicle tracking.",
+  "document_hash": "8f52ea85e62daf9fb7dcc22c422b2819f9748d64d1c1e6ddb848c25963d6ee03"
+}

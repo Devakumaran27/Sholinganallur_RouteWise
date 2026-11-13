@@ -1,0 +1,24 @@
+{
+  "document_id": "doc_stop_12518ace15a486436b2a17347ed9dd7c",
+  "document_type": "stop_profile",
+  "title": "Bus Stop Profile: SHOLINGANALLUR NUCLUEUS COMPANY (Stop ID: 12518ace15a486436b2a17347ed9dd7c)",
+  "source_file": "bus_stops.json",
+  "dataset_version": "v1.0.0-sholinganallur",
+  "metadata": {
+    "document_type": "stop_profile",
+    "stop_id": "12518ace15a486436b2a17347ed9dd7c",
+    "stop_code": "12518ace15a486436b2a17347ed9dd7c",
+    "stop_name": "SHOLINGANALLUR NUCLUEUS COMPANY",
+    "map_eligible": true,
+    "has_coordinates": true,
+    "latitude": 12.87783,
+    "longitude": 80.21967,
+    "total_departures": 140,
+    "connecting_route_count": 1,
+    "connecting_routes": [
+      "102P"
+    ]
+  },
+  "content": "# BUS STOP DIRECTORY: SHOLINGANALLUR NUCLUEUS COMPANY\n\n## Stop Identification & Locality\n- Official Stop Name: SHOLINGANALLUR NUCLUEUS COMPANY\n- Stop Identifier (GTFS stop_id): 12518ace15a486436b2a17347ed9dd7c\n- Stop Code: 12518ace15a486436b2a17347ed9dd7c\n- Locality: Sholinganallur, Chennai (MTC Transit Zone)\n\n## Geographic Coordinates & Mapping Eligibility\n- Latitude: 12.87783\n- Longitude: 80.21967\n- Map Display Eligible: Yes\n- Coordinate Status: WITHIN_CONFIGURED_BOUNDS_NOT_INDEPENDENTLY_GROUND_TRUTH_VERIFIED\n\n## Bus Services & Operational Departures\n- Total Recorded Stop Departures: 140 scheduled departures\n- Number of Connecting Route Lines: 1 lines\n- Serving Bus Lines: 102P\n\n## Important Notice\n- All departure times and schedules represent official static Chennai MTC GTFS timetable feeds. Real-time GPS tracking and live bus arrival times are not provided.",
+  "document_hash": "e1559e43a4484c3fb68cdd22cac242662fc641a6d07ea93312f15baa397f13fa"
+}

@@ -1,0 +1,49 @@
+{
+  "chunk_id": "doc_route_102C_CD_4bf5e04e_c000",
+  "document_id": "doc_route_102C_CD_4bf5e04e",
+  "chunk_index": 0,
+  "document_type": "route_profile",
+  "title": "Route Profile: Route 102C CD (2 Service Variants)",
+  "source_dataset": "route_service_summary.json",
+  "dataset_version": "v1.0.0-sholinganallur",
+  "section_heading": "Complete Route Profile & Service Variants",
+  "chunk_text": "# MTC BUS ROUTE PROFILE: ROUTE 102C CD\n\n## Public Transit Line Overview\n- Public Route Number: 102C CD\n- Total Operational Variants in Feed: 2 service profiles\n- Total Scheduled Daily Trips: 10 trips\n- Total Sholinganallur Stop Departures: 10 recorded departures\n- Key Terminals & Hubs Served: M.G.R.CENTRAL, SEMMANCHERI TNUHDB\n\n## Timetable Service Window\n- Earliest Scheduled Departure in Area: 05:01:45 (Variant ID: 4819)\n- Latest Scheduled Departure in Area: 21:37:00 (Variant ID: 4820)\n- Span of Operation: From 05:01:45 to 21:37:00\n\n## Operational Service Variants (2 GTFS Service Profiles)\n### Variant Route ID: 4819 — M.G.R.CENTRAL To SEMMANCHERI TNUHDB\n- Terminal Path: M.G.R.CENTRAL To SEMMANCHERI TNUHDB\n- Scheduled Daily Trips: 5 trips\n- Departures Serving Sholinganallur: 5 stop departures\n- Operational Hours: 05:01:45 to 08:21:45\n\n### Variant Route ID: 4820 — SEMMANCHERI TNUHDB To M.G.R.CENTRAL\n- Terminal Path: SEMMANCHERI TNUHDB To M.G.R.CENTRAL\n- Scheduled Daily Trips: 5 trips\n- Departures Serving Sholinganallur: 5 stop departures\n- Operational Hours: 17:37:00 to 21:37:00\n\n## Static Schedule Disclaimer\n- All timetable benchmarks are derived from official static Chennai MTC GTFS data. Times indicate scheduled timetable departures and do not reflect real-time traffic conditions or live vehicle tracking.",
+  "chunk_hash": "bab39e92534c78abfe587131a2d3a3c266ac948644a0f55d4984dcce8a394112",
+  "token_count": 478,
+  "pipeline_version": "v1.0.0-chunking",
+  "source_start_char": 0,
+  "source_end_char": 1327,
+  "injected_context_header": "",
+  "overlap_text": "",
+  "has_overlap": false,
+  "overlap_tokens": 0,
+  "metadata": {
+    "is_atomic": true,
+    "has_overlap": false,
+    "overlap_tokens": 0,
+    "source_start_char": 0,
+    "source_end_char": 1327,
+    "injected_context_header": "",
+    "overlap_text": "",
+    "source_tokens": 478,
+    "document_id": "doc_route_102C_CD_4bf5e04e",
+    "document_type": "route_profile",
+    "route_number": "102C CD",
+    "route_hash_suffix": "4bf5e04e",
+    "variant_count": 2,
+    "variant_route_ids": [
+      "4819",
+      "4820"
+    ],
+    "total_daily_trips": 10,
+    "total_area_departures": 10,
+    "earliest_departure_time": "05:01:45",
+    "latest_departure_time": "21:37:00",
+    "earliest_departure_seconds": 18105,
+    "latest_departure_seconds": 77820,
+    "terminals": [
+      "M.G.R.CENTRAL",
+      "SEMMANCHERI TNUHDB"
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "document_id": "doc_route_19BET_3fa73211",
+  "document_type": "route_profile",
+  "title": "Route Profile: Route 19BET (8 Service Variants)",
+  "source_file": "route_service_summary.json",
+  "dataset_version": "v1.0.0-sholinganallur",
+  "metadata": {
+    "document_id": "doc_route_19BET_3fa73211",
+    "document_type": "route_profile",
+    "route_number": "19BET",
+    "route_hash_suffix": "3fa73211",
+    "variant_count": 8,
+    "variant_route_ids": [
+      "2538",
+      "2539",
+      "2540",
+      "2541",
+      "2543",
+      "2544",
+      "2545",
+      "2546"
+    ],
+    "total_daily_trips": 14,
+    "total_area_departures": 38,
+    "earliest_departure_time": "05:27:00",
+    "latest_departure_time": "21:51:00",
+    "earliest_departure_seconds": 19620,
+    "latest_departure_seconds": 78660,
+    "terminals": [
+      "KELAMBAKKAM",
+      "PERUMBAKKAM TNUHDB",
+      "SAIDAPET",
+      "THAIYUR KOMAN NAGAR",
+      "THAIYUR KOMAN NAGAR ROAD JUNCTION",
+      "THYAGARAYA NAGAR",
+      "THYAGARAYA NAGAR BURKIT ROAD",
+      "THYAGARAYA NAGAR BUS TERMINUS"
+    ]
+  },
+  "content": "# MTC BUS ROUTE PROFILE: ROUTE 19BET\n\n## Public Transit Line Overview\n- Public Route Number: 19BET\n- Total Operational Variants in Feed: 8 service profiles\n- Total Scheduled Daily Trips: 14 trips\n- Total Sholinganallur Stop Departures: 38 recorded departures\n- Key Terminals & Hubs Served: KELAMBAKKAM, PERUMBAKKAM TNUHDB, SAIDAPET, THAIYUR KOMAN NAGAR, THAIYUR KOMAN NAGAR ROAD JUNCTION, THYAGARAYA NAGAR, THYAGARAYA NAGAR BURKIT ROAD, THYAGARAYA NAGAR BUS TERMINUS\n\n## Timetable Service Window\n- Earliest Scheduled Departure in Area: 05:27:00 (Variant ID: 2540)\n- Latest Scheduled Departure in Area: 21:51:00 (Variant ID: 2546)\n- Span of Operation: From 05:27:00 to 21:51:00\n\n## Operational Service Variants (8 GTFS Service Profiles)\n### Variant Route ID: 2538 — SAIDAPET To KELAMBAKKAM\n- Terminal Path: SAIDAPET To KELAMBAKKAM\n- Scheduled Daily Trips: 2 trips\n- Departures Serving Sholinganallur: 2 stop departures\n- Operational Hours: 12:58:15 to 15:48:15\n\n### Variant Route ID: 2539 — KELAMBAKKAM To SAIDAPET\n- Terminal Path: KELAMBAKKAM To SAIDAPET\n- Scheduled Daily Trips: 2 trips\n- Departures Serving Sholinganallur: 2 stop departures\n- Operational Hours: 11:31:00 to 14:26:00\n\n### Variant Route ID: 2540 — PERUMBAKKAM TNUHDB To SAIDAPET\n- Terminal Path: PERUMBAKKAM TNUHDB To SAIDAPET\n- Scheduled Daily Trips: 1 trips\n- Departures Serving Sholinganallur: 1 stop departures\n- Operational Hours: 05:27:00 to 05:27:00\n\n### Variant Route ID: 2541 — SAIDAPET To THAIYUR KOMAN NAGAR\n- Terminal Path: SAIDAPET To THAIYUR KOMAN NAGAR\n- Scheduled Daily Trips: 1 trips\n- Departures Serving Sholinganallur: 1 stop departures\n- Operational Hours: 06:53:15 to 06:53:15\n\n### Variant Route ID: 2543 — THYAGARAYA NAGAR To KELAMBAKKAM\n- Terminal Path: THYAGARAYA NAGAR To KELAMBAKKAM\n- Scheduled Daily Trips: 1 trips\n- Departures Serving Sholinganallur: 1 stop departures\n- Operational Hours: 10:10:30 to 10:10:30\n\n### Variant Route ID: 2544 — KELAMBAKKAM To THYAGARAYA NAGAR\n- Terminal Path: KELAMBAKKAM To THYAGARAYA NAGAR\n- Scheduled Daily Trips: 1 trips\n- Departures Serving Sholinganallur: 1 stop departures\n- Operational Hours: 17:06:00 to 17:06:00\n\n### Variant Route ID: 2545 — THYAGARAYA NAGAR BUS TERMINUS To THAIYUR KOMAN NAGAR ROAD JUNCTION\n- Terminal Path: THYAGARAYA NAGAR BUS TERMINUS To THAIYUR KOMAN NAGAR ROAD JUNCTION\n- Scheduled Daily Trips: 3 trips\n- Departures Serving Sholinganallur: 15 stop departures\n- Operational Hours: 07:19:15 to 19:20:30\n\n### Variant Route ID: 2546 — THAIYUR KOMAN NAGAR ROAD JUNCTION To THYAGARAYA NAGAR BURKIT ROAD\n- Terminal Path: THAIYUR KOMAN NAGAR ROAD JUNCTION To THYAGARAYA NAGAR BURKIT ROAD\n- Scheduled Daily Trips: 3 trips\n- Departures Serving Sholinganallur: 15 stop departures\n- Operational Hours: 09:04:45 to 21:51:00\n\n## Static Schedule Disclaimer\n- All timetable benchmarks are derived from official static Chennai MTC GTFS data. Times indicate scheduled timetable departures and do not reflect real-time traffic conditions or live vehicle tracking.",
+  "document_hash": "5b070a0b7bd35bbaf9b6e8c3be694b0e03f400f0b9036ee15c988b04bc4e235d"
+}

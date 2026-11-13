@@ -1,0 +1,33 @@
+{
+  "document_id": "doc_route_99_8c1f1046",
+  "document_type": "route_profile",
+  "title": "Route Profile: Route 99 (4 Service Variants)",
+  "source_file": "route_service_summary.json",
+  "dataset_version": "v1.0.0-sholinganallur",
+  "metadata": {
+    "document_id": "doc_route_99_8c1f1046",
+    "document_type": "route_profile",
+    "route_number": "99",
+    "route_hash_suffix": "8c1f1046",
+    "variant_count": 4,
+    "variant_route_ids": [
+      "633",
+      "634",
+      "635",
+      "636"
+    ],
+    "total_daily_trips": 213,
+    "total_area_departures": 398,
+    "earliest_departure_time": "04:14:30",
+    "latest_departure_time": "22:26:45",
+    "earliest_departure_seconds": 15270,
+    "latest_departure_seconds": 80805,
+    "terminals": [
+      "ADYAR B.T",
+      "SHOLINGANALLUR",
+      "TAMBARAM WEST BUS STAND"
+    ]
+  },
+  "content": "# MTC BUS ROUTE PROFILE: ROUTE 99\n\n## Public Transit Line Overview\n- Public Route Number: 99\n- Total Operational Variants in Feed: 4 service profiles\n- Total Scheduled Daily Trips: 213 trips\n- Total Sholinganallur Stop Departures: 398 recorded departures\n- Key Terminals & Hubs Served: ADYAR B.T, SHOLINGANALLUR, TAMBARAM WEST BUS STAND\n\n## Timetable Service Window\n- Earliest Scheduled Departure in Area: 04:14:30 (Variant ID: 634)\n- Latest Scheduled Departure in Area: 22:26:45 (Variant ID: 634)\n- Span of Operation: From 04:14:30 to 22:26:45\n\n## Operational Service Variants (4 GTFS Service Profiles)\n### Variant Route ID: 633 — ADYAR B.T To SHOLINGANALLUR\n- Terminal Path: ADYAR B.T To SHOLINGANALLUR\n- Scheduled Daily Trips: 14 trips\n- Departures Serving Sholinganallur: 14 stop departures\n- Operational Hours: 10:47:00 to 19:20:00\n\n### Variant Route ID: 634 — ADYAR B.T To TAMBARAM WEST BUS STAND\n- Terminal Path: ADYAR B.T To TAMBARAM WEST BUS STAND\n- Scheduled Daily Trips: 94 trips\n- Departures Serving Sholinganallur: 188 stop departures\n- Operational Hours: 04:14:30 to 22:26:45\n\n### Variant Route ID: 635 — SHOLINGANALLUR To ADYAR B.T\n- Terminal Path: SHOLINGANALLUR To ADYAR B.T\n- Scheduled Daily Trips: 14 trips\n- Departures Serving Sholinganallur: 14 stop departures\n- Operational Hours: 10:47:15 to 19:25:15\n\n### Variant Route ID: 636 — TAMBARAM WEST BUS STAND To ADYAR B.T\n- Terminal Path: TAMBARAM WEST BUS STAND To ADYAR B.T\n- Scheduled Daily Trips: 91 trips\n- Departures Serving Sholinganallur: 182 stop departures\n- Operational Hours: 04:52:45 to 22:10:00\n\n## Static Schedule Disclaimer\n- All timetable benchmarks are derived from official static Chennai MTC GTFS data. Times indicate scheduled timetable departures and do not reflect real-time traffic conditions or live vehicle tracking.",
+  "document_hash": "8debfc1e94d18b3952738c4f71b7cdba18dff7a066afc1d47c36efb7596b71d9"
+}

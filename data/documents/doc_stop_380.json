@@ -1,0 +1,38 @@
+{
+  "document_id": "doc_stop_380",
+  "document_type": "stop_profile",
+  "title": "Bus Stop Profile: SHOLINGANALLUR (Stop ID: 380)",
+  "source_file": "bus_stops.json",
+  "dataset_version": "v1.0.0-sholinganallur",
+  "metadata": {
+    "document_type": "stop_profile",
+    "stop_id": "380",
+    "stop_code": "380",
+    "stop_name": "SHOLINGANALLUR",
+    "map_eligible": false,
+    "has_coordinates": false,
+    "latitude": null,
+    "longitude": null,
+    "total_departures": 335,
+    "connecting_route_count": 15,
+    "connecting_routes": [
+      "102CT",
+      "102P",
+      "102PCT",
+      "102X",
+      "102x",
+      "19A",
+      "19AX",
+      "568CT",
+      "570CT",
+      "95XCT",
+      "99A",
+      "99X",
+      "B19",
+      "M51",
+      "MAA2CT"
+    ]
+  },
+  "content": "# BUS STOP DIRECTORY: SHOLINGANALLUR\n\n## Stop Identification & Locality\n- Official Stop Name: SHOLINGANALLUR\n- Stop Identifier (GTFS stop_id): 380\n- Stop Code: 380\n- Locality: Sholinganallur, Chennai (MTC Transit Zone)\n\n## Geographic Coordinates & Mapping Eligibility\n- Latitude: Unavailable (Quarantined)\n- Longitude: Unavailable (Quarantined)\n- Map Display Eligible: No\n- Coordinate Status: QUARANTINED_UNVERIFIED_DO_NOT_MAP\n- Data Quality Advisory: Geographic coordinates for this stop were quarantined because source GTFS coordinates were outside verified Chennai boundaries. This stop remains fully active for timetable searches, but is excluded from geographic map pins and distance math.\n\n## Bus Services & Operational Departures\n- Total Recorded Stop Departures: 335 scheduled departures\n- Number of Connecting Route Lines: 15 lines\n- Serving Bus Lines: 102CT, 102P, 102PCT, 102X, 102x, 19A, 19AX, 568CT, 570CT, 95XCT, 99A, 99X, B19, M51, MAA2CT\n\n## Important Notice\n- All departure times and schedules represent official static Chennai MTC GTFS timetable feeds. Real-time GPS tracking and live bus arrival times are not provided.",
+  "document_hash": "5faa95bc6a6fd9089adc5805c208ebf329f4023ccc3a8a789fb0a3cfedb7e310"
+}

@@ -1,0 +1,32 @@
+{
+  "document_id": "doc_route_95G_1e40872e",
+  "document_type": "route_profile",
+  "title": "Route Profile: Route 95G (3 Service Variants)",
+  "source_file": "route_service_summary.json",
+  "dataset_version": "v1.0.0-sholinganallur",
+  "metadata": {
+    "document_id": "doc_route_95G_1e40872e",
+    "document_type": "route_profile",
+    "route_number": "95G",
+    "route_hash_suffix": "1e40872e",
+    "variant_count": 3,
+    "variant_route_ids": [
+      "4326",
+      "4327",
+      "4330"
+    ],
+    "total_daily_trips": 24,
+    "total_area_departures": 24,
+    "earliest_departure_time": "05:31:00",
+    "latest_departure_time": "19:49:15",
+    "earliest_departure_seconds": 19860,
+    "latest_departure_seconds": 71355,
+    "terminals": [
+      "KCBT - KILAMBAKKAM",
+      "OKK.THORAIPAKM SEC.COLONY",
+      "TAMBARAM WEST"
+    ]
+  },
+  "content": "# MTC BUS ROUTE PROFILE: ROUTE 95G\n\n## Public Transit Line Overview\n- Public Route Number: 95G\n- Total Operational Variants in Feed: 3 service profiles\n- Total Scheduled Daily Trips: 24 trips\n- Total Sholinganallur Stop Departures: 24 recorded departures\n- Key Terminals & Hubs Served: KCBT - KILAMBAKKAM, OKK.THORAIPAKM SEC.COLONY, TAMBARAM WEST\n\n## Timetable Service Window\n- Earliest Scheduled Departure in Area: 05:31:00 (Variant ID: 4330)\n- Latest Scheduled Departure in Area: 19:49:15 (Variant ID: 4327)\n- Span of Operation: From 05:31:00 to 19:49:15\n\n## Operational Service Variants (3 GTFS Service Profiles)\n### Variant Route ID: 4326 — KCBT - KILAMBAKKAM To OKK.THORAIPAKM SEC.COLONY\n- Terminal Path: KCBT - KILAMBAKKAM To OKK.THORAIPAKM SEC.COLONY\n- Scheduled Daily Trips: 10 trips\n- Departures Serving Sholinganallur: 10 stop departures\n- Operational Hours: 07:57:15 to 18:52:15\n\n### Variant Route ID: 4327 — OKK.THORAIPAKM SEC.COLONY To KCBT - KILAMBAKKAM\n- Terminal Path: OKK.THORAIPAKM SEC.COLONY To KCBT - KILAMBAKKAM\n- Scheduled Daily Trips: 12 trips\n- Departures Serving Sholinganallur: 12 stop departures\n- Operational Hours: 06:24:15 to 19:49:15\n\n### Variant Route ID: 4330 — TAMBARAM WEST To OKK.THORAIPAKM SEC.COLONY\n- Terminal Path: TAMBARAM WEST To OKK.THORAIPAKM SEC.COLONY\n- Scheduled Daily Trips: 2 trips\n- Departures Serving Sholinganallur: 2 stop departures\n- Operational Hours: 05:31:00 to 05:31:00\n\n## Static Schedule Disclaimer\n- All timetable benchmarks are derived from official static Chennai MTC GTFS data. Times indicate scheduled timetable departures and do not reflect real-time traffic conditions or live vehicle tracking.",
+  "document_hash": "e5950973159cacfcb8263f6972c433d81d2b2e30de6011146180d7d91c428de5"
+}

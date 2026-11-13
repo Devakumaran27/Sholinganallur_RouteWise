@@ -1,0 +1,49 @@
+{
+  "dataset_title": "RouteWise AI — Chennai MTC Bus Data — Sholinganallur Only",
+  "area": "Sholinganallur",
+  "preprocessed_at_utc": "2026-11-08T06:21:03.438872+00:00",
+  "source_uploaded_file": "static_mtc_gtfs_data(3).zip",
+  "source_gtfs_archive": "static_mtc_gtfs_data/chennai.bus.gtfs.zip",
+  "source_tables_used": [
+    "stops.txt",
+    "routes.txt",
+    "trips.txt",
+    "stop_times.txt",
+    "calendar.txt"
+  ],
+  "canonical_counts": {
+    "bus_stops": 26,
+    "route_service_summary": 278,
+    "scheduled_departures": 18439,
+    "direct_t_nagar_connections": 170,
+    "quarantined_stops": 2
+  },
+  "scope": {
+    "target_area": "Sholinganallur",
+    "destination_for_direct_connection_extract": "T. Nagar (including matched T. Nagar/CIT Nagar/Panagal Park stops)",
+    "method": "Stop-name matching against the uploaded static GTFS feed; same-trip direct connection candidates are extracted when a matched origin stop precedes a matched T. Nagar stop in the trip sequence.",
+    "important_note": "The locality list is a set of investigation candidates, not a verified citywide ranking of areas with the fewest buses."
+  },
+  "data_quality_and_limitations": [
+    "Static GTFS schedules only; not live bus arrivals or vehicle positions.",
+    "Scheduled time strings do not prove the current bus is on time or currently approaching.",
+    "The feed contains no verified live or historical passenger occupancy, so crowd levels cannot be confirmed from this file.",
+    "Stop matching is based on names; it can miss stops named using alternate spellings or include nearby named stops. Review matches before production use.",
+    "Some stop coordinates are flagged if outside broad Chennai bounds; review before map display.",
+    "Trip counts and route counts describe records in this feed, not passenger demand, real-world service quality, or frequency ranking by themselves.",
+    "Direct T. Nagar connections are same-trip candidates; this extract does not generate transfer-based itineraries.",
+    "Validate feed freshness, service dates, direction, and route operation before passenger-facing use."
+  ],
+  "coordinate_quality_patch": {
+    "patch_date_utc": "2026-10-30",
+    "method": "Compared the 16-area extracted stop records with the original nested GTFS stops.txt. Every record flagged outside configured Chennai bounds was quarantined from mapping. No replacement coordinates were guessed.",
+    "flagged_extraction_records": 57,
+    "shared_placeholder_coordinate_records_in_extraction": 52,
+    "other_out_of_bounds_records_in_extraction": 5,
+    "original_gtfs_rows_with_shared_placeholder_coordinate": 1634,
+    "original_gtfs_total_stop_rows": 7128,
+    "policy": "Quarantined coordinates are null in the patched dataset and must not be used for map markers, distance calculations, geofencing, or routing until verified. Original values are retained in the accompanying audit CSV."
+  },
+  "static_schedule_disclaimer": "GTFS schedule values are static timetable values, not live bus tracking. RouteWise AI will answer queries using scheduled timetable departure times.",
+  "readme_summary": "ROUTEWISE AI — SHOLINGANALLUR ONLY DATASET\n\nExtracted from the previously reviewed Chennai MTC 16-area GTFS-derived dataset.\nSource upload: static_mtc_gtfs_data(3).zip\nSource archive: static_mtc_gtfs_data/chennai.bus.gtfs.zip\n\nRECORD COUNTS\n- Bus stop records: 26\n- Route service summary records: 278\n- Unique route IDs in route summary: 278\n- Unique route numbers: 58\n- Unique trips serving matched stops: 5285\n- Scheduled stop departure records: 18439\n- Direct scheduled T. Nagar connections from Sholinganallur: 170\n\nFILES\n- bus_stops.csv\n- route_service_summary.csv\n- scheduled_departures.csv\n- direct_t_nagar_connections.csv\n- area_summary.json\n- routewise_sholinganallur_dataset.json\n\nIMPORTANT\nThe area filter uses area_id = sholinganallur. The direct-connection filter uses\norigin_area_id = sholinganallur. The source locality matching and coordinate\nquality flags are preserved; locality boundaries are not independently verified.\nGTFS schedule values are static feed values, not live bus tracking."
+}

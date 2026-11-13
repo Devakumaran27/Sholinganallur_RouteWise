@@ -1,0 +1,30 @@
+{
+  "document_id": "doc_stop_wrFiwNtD",
+  "document_type": "stop_profile",
+  "title": "Bus Stop Profile: P U OFFICE SHOLINGANALLUR (Stop ID: wrFiwNtD)",
+  "source_file": "bus_stops.json",
+  "dataset_version": "v1.0.0-sholinganallur",
+  "metadata": {
+    "document_type": "stop_profile",
+    "stop_id": "wrFiwNtD",
+    "stop_code": "wrFiwNtD",
+    "stop_name": "P U OFFICE SHOLINGANALLUR",
+    "map_eligible": true,
+    "has_coordinates": true,
+    "latitude": 12.90315,
+    "longitude": 80.2279,
+    "total_departures": 399,
+    "connecting_route_count": 7,
+    "connecting_routes": [
+      "19B",
+      "19BET",
+      "19D",
+      "555P",
+      "95",
+      "95X",
+      "M51"
+    ]
+  },
+  "content": "# BUS STOP DIRECTORY: P U OFFICE SHOLINGANALLUR\n\n## Stop Identification & Locality\n- Official Stop Name: P U OFFICE SHOLINGANALLUR\n- Stop Identifier (GTFS stop_id): wrFiwNtD\n- Stop Code: wrFiwNtD\n- Locality: Sholinganallur, Chennai (MTC Transit Zone)\n\n## Geographic Coordinates & Mapping Eligibility\n- Latitude: 12.90315\n- Longitude: 80.2279\n- Map Display Eligible: Yes\n- Coordinate Status: WITHIN_CONFIGURED_BOUNDS_NOT_INDEPENDENTLY_GROUND_TRUTH_VERIFIED\n\n## Bus Services & Operational Departures\n- Total Recorded Stop Departures: 399 scheduled departures\n- Number of Connecting Route Lines: 7 lines\n- Serving Bus Lines: 19B, 19BET, 19D, 555P, 95, 95X, M51\n\n## Important Notice\n- All departure times and schedules represent official static Chennai MTC GTFS timetable feeds. Real-time GPS tracking and live bus arrival times are not provided.",
+  "document_hash": "0d82e8749df234a2008baaa64189d03f283233ac0081a43a39bd4f66f8046dc7"
+}

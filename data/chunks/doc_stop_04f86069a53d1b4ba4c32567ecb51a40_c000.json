@@ -1,0 +1,43 @@
+{
+  "chunk_id": "doc_stop_04f86069a53d1b4ba4c32567ecb51a40_c000",
+  "document_id": "doc_stop_04f86069a53d1b4ba4c32567ecb51a40",
+  "chunk_index": 0,
+  "document_type": "stop_profile",
+  "title": "Bus Stop Profile: SHOLINGANALLUR (Stop ID: 04f86069a53d1b4ba4c32567ecb51a40)",
+  "source_dataset": "bus_stops.json",
+  "dataset_version": "v1.0.0-sholinganallur",
+  "section_heading": "Bus Stop Directory & Transit Profile",
+  "chunk_text": "# BUS STOP DIRECTORY: SHOLINGANALLUR\n\n## Stop Identification & Locality\n- Official Stop Name: SHOLINGANALLUR\n- Stop Identifier (GTFS stop_id): 04f86069a53d1b4ba4c32567ecb51a40\n- Stop Code: 04f86069a53d1b4ba4c32567ecb51a40\n- Locality: Sholinganallur, Chennai (MTC Transit Zone)\n\n## Geographic Coordinates & Mapping Eligibility\n- Latitude: 12.90106\n- Longitude: 80.22705\n- Map Display Eligible: Yes\n- Coordinate Status: WITHIN_CONFIGURED_BOUNDS_NOT_INDEPENDENTLY_GROUND_TRUTH_VERIFIED\n\n## Bus Services & Operational Departures\n- Total Recorded Stop Departures: 43 scheduled departures\n- Number of Connecting Route Lines: 1 lines\n- Serving Bus Lines: 95XCT\n\n## Important Notice\n- All departure times and schedules represent official static Chennai MTC GTFS timetable feeds. Real-time GPS tracking and live bus arrival times are not provided.",
+  "chunk_hash": "b84e3b9cba410f1078cbf70f667792c719c563e2acc45e7ee0775d30f114d303",
+  "token_count": 285,
+  "pipeline_version": "v1.0.0-chunking",
+  "source_start_char": 0,
+  "source_end_char": 838,
+  "injected_context_header": "",
+  "overlap_text": "",
+  "has_overlap": false,
+  "overlap_tokens": 0,
+  "metadata": {
+    "is_atomic": true,
+    "has_overlap": false,
+    "overlap_tokens": 0,
+    "source_start_char": 0,
+    "source_end_char": 838,
+    "injected_context_header": "",
+    "overlap_text": "",
+    "source_tokens": 285,
+    "document_type": "stop_profile",
+    "stop_id": "04f86069a53d1b4ba4c32567ecb51a40",
+    "stop_code": "04f86069a53d1b4ba4c32567ecb51a40",
+    "stop_name": "SHOLINGANALLUR",
+    "map_eligible": true,
+    "has_coordinates": true,
+    "latitude": 12.90106,
+    "longitude": 80.22705,
+    "total_departures": 43,
+    "connecting_route_count": 1,
+    "connecting_routes": [
+      "95XCT"
+    ]
+  }
+}

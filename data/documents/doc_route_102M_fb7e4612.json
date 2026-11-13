@@ -1,0 +1,30 @@
+{
+  "document_id": "doc_route_102M_fb7e4612",
+  "document_type": "route_profile",
+  "title": "Route Profile: Route 102M (2 Service Variants)",
+  "source_file": "route_service_summary.json",
+  "dataset_version": "v1.0.0-sholinganallur",
+  "metadata": {
+    "document_id": "doc_route_102M_fb7e4612",
+    "document_type": "route_profile",
+    "route_number": "102M",
+    "route_hash_suffix": "fb7e4612",
+    "variant_count": 2,
+    "variant_route_ids": [
+      "360",
+      "361"
+    ],
+    "total_daily_trips": 24,
+    "total_area_departures": 120,
+    "earliest_departure_time": "06:06:15",
+    "latest_departure_time": "21:54:30",
+    "earliest_departure_seconds": 21975,
+    "latest_departure_seconds": 78870,
+    "terminals": [
+      "ADYAR B.T",
+      "MANAMATHI ACHARAVAKKAM"
+    ]
+  },
+  "content": "# MTC BUS ROUTE PROFILE: ROUTE 102M\n\n## Public Transit Line Overview\n- Public Route Number: 102M\n- Total Operational Variants in Feed: 2 service profiles\n- Total Scheduled Daily Trips: 24 trips\n- Total Sholinganallur Stop Departures: 120 recorded departures\n- Key Terminals & Hubs Served: ADYAR B.T, MANAMATHI ACHARAVAKKAM\n\n## Timetable Service Window\n- Earliest Scheduled Departure in Area: 06:06:15 (Variant ID: 360)\n- Latest Scheduled Departure in Area: 21:54:30 (Variant ID: 361)\n- Span of Operation: From 06:06:15 to 21:54:30\n\n## Operational Service Variants (2 GTFS Service Profiles)\n### Variant Route ID: 360 — ADYAR B.T To MANAMATHI ACHARAVAKKAM\n- Terminal Path: ADYAR B.T To MANAMATHI ACHARAVAKKAM\n- Scheduled Daily Trips: 12 trips\n- Departures Serving Sholinganallur: 60 stop departures\n- Operational Hours: 06:06:15 to 19:32:30\n\n### Variant Route ID: 361 — MANAMATHI ACHARAVAKKAM To ADYAR B.T\n- Terminal Path: MANAMATHI ACHARAVAKKAM To ADYAR B.T\n- Scheduled Daily Trips: 12 trips\n- Departures Serving Sholinganallur: 60 stop departures\n- Operational Hours: 08:33:15 to 21:54:30\n\n## Static Schedule Disclaimer\n- All timetable benchmarks are derived from official static Chennai MTC GTFS data. Times indicate scheduled timetable departures and do not reflect real-time traffic conditions or live vehicle tracking.",
+  "document_hash": "caf327558ee0d5da96403fc0f44e5995839d727bc014ba23af24a306496d2aab"
+}

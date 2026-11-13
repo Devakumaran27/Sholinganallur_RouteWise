@@ -1,0 +1,34 @@
+{
+  "document_id": "doc_route_M51_44eabd33",
+  "document_type": "route_profile",
+  "title": "Route Profile: Route M51 (4 Service Variants)",
+  "source_file": "route_service_summary.json",
+  "dataset_version": "v1.0.0-sholinganallur",
+  "metadata": {
+    "document_id": "doc_route_M51_44eabd33",
+    "document_type": "route_profile",
+    "route_number": "M51",
+    "route_hash_suffix": "44eabd33",
+    "variant_count": 4,
+    "variant_route_ids": [
+      "1603",
+      "1604",
+      "1694",
+      "1695"
+    ],
+    "total_daily_trips": 24,
+    "total_area_departures": 64,
+    "earliest_departure_time": "05:57:15",
+    "latest_departure_time": "21:47:30",
+    "earliest_departure_seconds": 21435,
+    "latest_departure_seconds": 78450,
+    "terminals": [
+      "CEMENT ROAD",
+      "EZHIL NAGAR PRATYANGIRA TEMPLE",
+      "PRATHYANGIRA DEVI TEMPLE",
+      "THYAGARAYA NAGAR BUS TERMINUS"
+    ]
+  },
+  "content": "# MTC BUS ROUTE PROFILE: ROUTE M51\n\n## Public Transit Line Overview\n- Public Route Number: M51\n- Total Operational Variants in Feed: 4 service profiles\n- Total Scheduled Daily Trips: 24 trips\n- Total Sholinganallur Stop Departures: 64 recorded departures\n- Key Terminals & Hubs Served: CEMENT ROAD, EZHIL NAGAR PRATYANGIRA TEMPLE, PRATHYANGIRA DEVI TEMPLE, THYAGARAYA NAGAR BUS TERMINUS\n\n## Timetable Service Window\n- Earliest Scheduled Departure in Area: 05:57:15 (Variant ID: 1603)\n- Latest Scheduled Departure in Area: 21:47:30 (Variant ID: 1694)\n- Span of Operation: From 05:57:15 to 21:47:30\n\n## Operational Service Variants (4 GTFS Service Profiles)\n### Variant Route ID: 1603 — CEMENT ROAD To PRATHYANGIRA DEVI TEMPLE\n- Terminal Path: CEMENT ROAD To PRATHYANGIRA DEVI TEMPLE\n- Scheduled Daily Trips: 2 trips\n- Departures Serving Sholinganallur: 2 stop departures\n- Operational Hours: 05:57:15 to 07:17:15\n\n### Variant Route ID: 1604 — EZHIL NAGAR PRATYANGIRA TEMPLE To THYAGARAYA NAGAR BUS TERMINUS\n- Terminal Path: EZHIL NAGAR PRATYANGIRA TEMPLE To THYAGARAYA NAGAR BUS TERMINUS\n- Scheduled Daily Trips: 10 trips\n- Departures Serving Sholinganallur: 20 stop departures\n- Operational Hours: 06:47:30 to 19:04:45\n\n### Variant Route ID: 1694 — PRATHYANGIRA DEVI TEMPLE To CEMENT ROAD\n- Terminal Path: PRATHYANGIRA DEVI TEMPLE To CEMENT ROAD\n- Scheduled Daily Trips: 2 trips\n- Departures Serving Sholinganallur: 2 stop departures\n- Operational Hours: 20:27:30 to 21:47:30\n\n### Variant Route ID: 1695 — THYAGARAYA NAGAR BUS TERMINUS To EZHIL NAGAR PRATYANGIRA TEMPLE\n- Terminal Path: THYAGARAYA NAGAR BUS TERMINUS To EZHIL NAGAR PRATYANGIRA TEMPLE\n- Scheduled Daily Trips: 10 trips\n- Departures Serving Sholinganallur: 40 stop departures\n- Operational Hours: 09:15:30 to 21:37:15\n\n## Static Schedule Disclaimer\n- All timetable benchmarks are derived from official static Chennai MTC GTFS data. Times indicate scheduled timetable departures and do not reflect real-time traffic conditions or live vehicle tracking.",
+  "document_hash": "e4a4d3d48380dfcc873cfca31fd77d8191863559390ff51da9a7942b2ac64d7b"
+}

@@ -1,0 +1,35 @@
+{
+  "document_id": "doc_route_568B_3c3adb91",
+  "document_type": "route_profile",
+  "title": "Route Profile: Route 568B (4 Service Variants)",
+  "source_file": "route_service_summary.json",
+  "dataset_version": "v1.0.0-sholinganallur",
+  "metadata": {
+    "document_id": "doc_route_568B_3c3adb91",
+    "document_type": "route_profile",
+    "route_number": "568B",
+    "route_hash_suffix": "3c3adb91",
+    "variant_count": 4,
+    "variant_route_ids": [
+      "531",
+      "532",
+      "533",
+      "534"
+    ],
+    "total_daily_trips": 10,
+    "total_area_departures": 30,
+    "earliest_departure_time": "06:07:45",
+    "latest_departure_time": "20:50:00",
+    "earliest_departure_seconds": 22065,
+    "latest_departure_seconds": 75000,
+    "terminals": [
+      "ADYAR DEPOT",
+      "THIRUPORUR",
+      "THIRUPORUR BUS STAND",
+      "VELACHERY",
+      "VELACHERY B.T"
+    ]
+  },
+  "content": "# MTC BUS ROUTE PROFILE: ROUTE 568B\n\n## Public Transit Line Overview\n- Public Route Number: 568B\n- Total Operational Variants in Feed: 4 service profiles\n- Total Scheduled Daily Trips: 10 trips\n- Total Sholinganallur Stop Departures: 30 recorded departures\n- Key Terminals & Hubs Served: ADYAR DEPOT, THIRUPORUR, THIRUPORUR BUS STAND, VELACHERY, VELACHERY B.T\n\n## Timetable Service Window\n- Earliest Scheduled Departure in Area: 06:07:45 (Variant ID: 531)\n- Latest Scheduled Departure in Area: 20:50:00 (Variant ID: 532)\n- Span of Operation: From 06:07:45 to 20:50:00\n\n## Operational Service Variants (4 GTFS Service Profiles)\n### Variant Route ID: 531 — ADYAR DEPOT To THIRUPORUR BUS STAND\n- Terminal Path: ADYAR DEPOT To THIRUPORUR BUS STAND\n- Scheduled Daily Trips: 1 trips\n- Departures Serving Sholinganallur: 5 stop departures\n- Operational Hours: 06:07:45 to 06:19:00\n\n### Variant Route ID: 532 — THIRUPORUR To ADYAR DEPOT\n- Terminal Path: THIRUPORUR To ADYAR DEPOT\n- Scheduled Daily Trips: 1 trips\n- Departures Serving Sholinganallur: 1 stop departures\n- Operational Hours: 20:50:00 to 20:50:00\n\n### Variant Route ID: 533 — THIRUPORUR To VELACHERY B.T\n- Terminal Path: THIRUPORUR To VELACHERY B.T\n- Scheduled Daily Trips: 4 trips\n- Departures Serving Sholinganallur: 4 stop departures\n- Operational Hours: 07:25:00 to 17:25:00\n\n### Variant Route ID: 534 — VELACHERY To THIRUPORUR BUS STAND\n- Terminal Path: VELACHERY To THIRUPORUR BUS STAND\n- Scheduled Daily Trips: 4 trips\n- Departures Serving Sholinganallur: 20 stop departures\n- Operational Hours: 09:08:30 to 19:29:45\n\n## Static Schedule Disclaimer\n- All timetable benchmarks are derived from official static Chennai MTC GTFS data. Times indicate scheduled timetable departures and do not reflect real-time traffic conditions or live vehicle tracking.",
+  "document_hash": "aabffdb86989614cd719340a08e99b8e88986cd780b815c577b395aaca326876"
+}

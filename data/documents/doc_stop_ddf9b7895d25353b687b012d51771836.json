@@ -1,0 +1,42 @@
+{
+  "document_id": "doc_stop_ddf9b7895d25353b687b012d51771836",
+  "document_type": "stop_profile",
+  "title": "Bus Stop Profile: P U OFFICE SHOLINGANALLUR (Stop ID: ddf9b7895d25353b687b012d51771836)",
+  "source_file": "bus_stops.json",
+  "dataset_version": "v1.0.0-sholinganallur",
+  "metadata": {
+    "document_type": "stop_profile",
+    "stop_id": "ddf9b7895d25353b687b012d51771836",
+    "stop_code": "ddf9b7895d25353b687b012d51771836",
+    "stop_name": "P U OFFICE SHOLINGANALLUR",
+    "map_eligible": true,
+    "has_coordinates": true,
+    "latitude": 12.90205,
+    "longitude": 80.22794,
+    "total_departures": 1200,
+    "connecting_route_count": 19,
+    "connecting_routes": [
+      "102",
+      "102A",
+      "102C",
+      "102CT",
+      "102M",
+      "102P",
+      "102X",
+      "119",
+      "119G",
+      "19",
+      "19A",
+      "221",
+      "519T",
+      "523",
+      "523A",
+      "570",
+      "570ET",
+      "570P",
+      "MAA2"
+    ]
+  },
+  "content": "# BUS STOP DIRECTORY: P U OFFICE SHOLINGANALLUR\n\n## Stop Identification & Locality\n- Official Stop Name: P U OFFICE SHOLINGANALLUR\n- Stop Identifier (GTFS stop_id): ddf9b7895d25353b687b012d51771836\n- Stop Code: ddf9b7895d25353b687b012d51771836\n- Locality: Sholinganallur, Chennai (MTC Transit Zone)\n\n## Geographic Coordinates & Mapping Eligibility\n- Latitude: 12.90205\n- Longitude: 80.22794\n- Map Display Eligible: Yes\n- Coordinate Status: WITHIN_CONFIGURED_BOUNDS_NOT_INDEPENDENTLY_GROUND_TRUTH_VERIFIED\n\n## Bus Services & Operational Departures\n- Total Recorded Stop Departures: 1200 scheduled departures\n- Number of Connecting Route Lines: 19 lines\n- Serving Bus Lines: 102, 102A, 102C, 102CT, 102M, 102P, 102X, 119, 119G, 19, 19A, 221, 519T, 523, 523A, 570, 570ET, 570P, MAA2\n\n## Important Notice\n- All departure times and schedules represent official static Chennai MTC GTFS timetable feeds. Real-time GPS tracking and live bus arrival times are not provided.",
+  "document_hash": "bc0a5328edad5c96cb34c71b94e675208f616e01deb112df19cdb15e5d7f18bb"
+}

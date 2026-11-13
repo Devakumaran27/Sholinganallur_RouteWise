@@ -1,0 +1,37 @@
+{
+  "document_id": "doc_route_B19_d614cbb6",
+  "document_type": "route_profile",
+  "title": "Route Profile: Route B19 (6 Service Variants)",
+  "source_file": "route_service_summary.json",
+  "dataset_version": "v1.0.0-sholinganallur",
+  "metadata": {
+    "document_id": "doc_route_B19_d614cbb6",
+    "document_type": "route_profile",
+    "route_number": "B19",
+    "route_hash_suffix": "d614cbb6",
+    "variant_count": 6,
+    "variant_route_ids": [
+      "4373",
+      "4374",
+      "4375",
+      "4376",
+      "5582",
+      "5583"
+    ],
+    "total_daily_trips": 26,
+    "total_area_departures": 56,
+    "earliest_departure_time": "05:19:15",
+    "latest_departure_time": "22:31:30",
+    "earliest_departure_seconds": 19155,
+    "latest_departure_seconds": 81090,
+    "terminals": [
+      "KANNAGI NAGAR TNUHDB",
+      "KELAMBAKKAM",
+      "SHOLINGANALLUR",
+      "SIRUSERI I.T PARK",
+      "kelambakkam POLICE STATION"
+    ]
+  },
+  "content": "# MTC BUS ROUTE PROFILE: ROUTE B19\n\n## Public Transit Line Overview\n- Public Route Number: B19\n- Total Operational Variants in Feed: 6 service profiles\n- Total Scheduled Daily Trips: 26 trips\n- Total Sholinganallur Stop Departures: 56 recorded departures\n- Key Terminals & Hubs Served: KANNAGI NAGAR TNUHDB, KELAMBAKKAM, SHOLINGANALLUR, SIRUSERI I.T PARK, kelambakkam POLICE STATION\n\n## Timetable Service Window\n- Earliest Scheduled Departure in Area: 05:19:15 (Variant ID: 5582)\n- Latest Scheduled Departure in Area: 22:31:30 (Variant ID: 5583)\n- Span of Operation: From 05:19:15 to 22:31:30\n\n## Operational Service Variants (6 GTFS Service Profiles)\n### Variant Route ID: 4373 — KANNAGI NAGAR TNUHDB To KELAMBAKKAM\n- Terminal Path: KANNAGI NAGAR TNUHDB To KELAMBAKKAM\n- Scheduled Daily Trips: 1 trips\n- Departures Serving Sholinganallur: 1 stop departures\n- Operational Hours: 06:59:15 to 06:59:15\n\n### Variant Route ID: 4374 — KELAMBAKKAM To KANNAGI NAGAR TNUHDB\n- Terminal Path: KELAMBAKKAM To KANNAGI NAGAR TNUHDB\n- Scheduled Daily Trips: 1 trips\n- Departures Serving Sholinganallur: 1 stop departures\n- Operational Hours: 21:56:00 to 21:56:00\n\n### Variant Route ID: 4375 — KELAMBAKKAM To SHOLINGANALLUR\n- Terminal Path: KELAMBAKKAM To SHOLINGANALLUR\n- Scheduled Daily Trips: 10 trips\n- Departures Serving Sholinganallur: 10 stop departures\n- Operational Hours: 08:05:45 to 20:15:45\n\n### Variant Route ID: 4376 — SHOLINGANALLUR To kelambakkam POLICE STATION\n- Terminal Path: SHOLINGANALLUR To kelambakkam POLICE STATION\n- Scheduled Daily Trips: 10 trips\n- Departures Serving Sholinganallur: 40 stop departures\n- Operational Hours: 08:30:15 to 20:49:15\n\n### Variant Route ID: 5582 — KANNAGI NAGAR TNUHDB To SIRUSERI I.T PARK\n- Terminal Path: KANNAGI NAGAR TNUHDB To SIRUSERI I.T PARK\n- Scheduled Daily Trips: 2 trips\n- Departures Serving Sholinganallur: 2 stop departures\n- Operational Hours: 05:19:15 to 15:09:15\n\n### Variant Route ID: 5583 — SIRUSERI I.T PARK To KANNAGI NAGAR TNUHDB\n- Terminal Path: SIRUSERI I.T PARK To KANNAGI NAGAR TNUHDB\n- Scheduled Daily Trips: 2 trips\n- Departures Serving Sholinganallur: 2 stop departures\n- Operational Hours: 12:41:30 to 22:31:30\n\n## Static Schedule Disclaimer\n- All timetable benchmarks are derived from official static Chennai MTC GTFS data. Times indicate scheduled timetable departures and do not reflect real-time traffic conditions or live vehicle tracking.",
+  "document_hash": "cc3a5fcf74ede363a31bfca27055d97624d496a7a23b30e6cbc90585b8fe4973"
+}

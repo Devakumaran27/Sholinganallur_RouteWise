@@ -1,0 +1,34 @@
+{
+  "document_id": "doc_route_570P_70327d52",
+  "document_type": "route_profile",
+  "title": "Route Profile: Route 570P (4 Service Variants)",
+  "source_file": "route_service_summary.json",
+  "dataset_version": "v1.0.0-sholinganallur",
+  "metadata": {
+    "document_id": "doc_route_570P_70327d52",
+    "document_type": "route_profile",
+    "route_number": "570P",
+    "route_hash_suffix": "70327d52",
+    "variant_count": 4,
+    "variant_route_ids": [
+      "3554",
+      "3555",
+      "3556",
+      "3557"
+    ],
+    "total_daily_trips": 29,
+    "total_area_departures": 79,
+    "earliest_departure_time": "00:51:15",
+    "latest_departure_time": "24:11:15",
+    "earliest_departure_seconds": 3075,
+    "latest_departure_seconds": 87075,
+    "terminals": [
+      "KELAMBAKKAM",
+      "M.G.R.KOYAMBEDU",
+      "M.G.R.KOYAMBEDU B.T",
+      "Perumbakkam TNUHDB"
+    ]
+  },
+  "content": "# MTC BUS ROUTE PROFILE: ROUTE 570P\n\n## Public Transit Line Overview\n- Public Route Number: 570P\n- Total Operational Variants in Feed: 4 service profiles\n- Total Scheduled Daily Trips: 29 trips\n- Total Sholinganallur Stop Departures: 79 recorded departures\n- Key Terminals & Hubs Served: KELAMBAKKAM, M.G.R.KOYAMBEDU, M.G.R.KOYAMBEDU B.T, Perumbakkam TNUHDB\n\n## Timetable Service Window\n- Earliest Scheduled Departure in Area: 00:51:15 (Variant ID: 3554)\n- Latest Scheduled Departure in Area: 24:11:15 (Variant ID: 3554)\n- Span of Operation: From 00:51:15 to 24:11:15\n\n## Operational Service Variants (4 GTFS Service Profiles)\n### Variant Route ID: 3554 — M.G.R.KOYAMBEDU To KELAMBAKKAM\n- Terminal Path: M.G.R.KOYAMBEDU To KELAMBAKKAM\n- Scheduled Daily Trips: 10 trips\n- Departures Serving Sholinganallur: 10 stop departures\n- Operational Hours: 00:51:15 to 24:11:15\n\n### Variant Route ID: 3555 — KELAMBAKKAM To M.G.R.KOYAMBEDU\n- Terminal Path: KELAMBAKKAM To M.G.R.KOYAMBEDU\n- Scheduled Daily Trips: 9 trips\n- Departures Serving Sholinganallur: 9 stop departures\n- Operational Hours: 01:31:00 to 16:16:00\n\n### Variant Route ID: 3556 — M.G.R.KOYAMBEDU B.T To Perumbakkam TNUHDB\n- Terminal Path: M.G.R.KOYAMBEDU B.T To Perumbakkam TNUHDB\n- Scheduled Daily Trips: 5 trips\n- Departures Serving Sholinganallur: 30 stop departures\n- Operational Hours: 07:40:45 to 23:17:15\n\n### Variant Route ID: 3557 — Perumbakkam TNUHDB To M.G.R.KOYAMBEDU B.T\n- Terminal Path: Perumbakkam TNUHDB To M.G.R.KOYAMBEDU B.T\n- Scheduled Daily Trips: 5 trips\n- Departures Serving Sholinganallur: 30 stop departures\n- Operational Hours: 08:04:45 to 23:38:15\n\n## Static Schedule Disclaimer\n- All timetable benchmarks are derived from official static Chennai MTC GTFS data. Times indicate scheduled timetable departures and do not reflect real-time traffic conditions or live vehicle tracking.",
+  "document_hash": "78eb699c76a6df3cf934c7925ec23be0de14a8b51a6c628234d12af5e1c4d05f"
+}

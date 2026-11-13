@@ -1,0 +1,29 @@
+{
+  "document_id": "doc_route_102x_0bda064f",
+  "document_type": "route_profile",
+  "title": "Route Profile: Route 102x (1 Service Variants)",
+  "source_file": "route_service_summary.json",
+  "dataset_version": "v1.0.0-sholinganallur",
+  "metadata": {
+    "document_id": "doc_route_102x_0bda064f",
+    "document_type": "route_profile",
+    "route_number": "102x",
+    "route_hash_suffix": "0bda064f",
+    "variant_count": 1,
+    "variant_route_ids": [
+      "5465"
+    ],
+    "total_daily_trips": 4,
+    "total_area_departures": 4,
+    "earliest_departure_time": "19:35:00",
+    "latest_departure_time": "22:50:00",
+    "earliest_departure_seconds": 70500,
+    "latest_departure_seconds": 82200,
+    "terminals": [
+      "ADYAR DEPOT",
+      "THIRUPORUR"
+    ]
+  },
+  "content": "# MTC BUS ROUTE PROFILE: ROUTE 102x\n\n## Public Transit Line Overview\n- Public Route Number: 102x\n- Total Operational Variants in Feed: 1 service profiles\n- Total Scheduled Daily Trips: 4 trips\n- Total Sholinganallur Stop Departures: 4 recorded departures\n- Key Terminals & Hubs Served: ADYAR DEPOT, THIRUPORUR\n\n## Timetable Service Window\n- Earliest Scheduled Departure in Area: 19:35:00 (Variant ID: 5465)\n- Latest Scheduled Departure in Area: 22:50:00 (Variant ID: 5465)\n- Span of Operation: From 19:35:00 to 22:50:00\n\n## Operational Service Variants (1 GTFS Service Profiles)\n### Variant Route ID: 5465 — THIRUPORUR To ADYAR DEPOT\n- Terminal Path: THIRUPORUR To ADYAR DEPOT\n- Scheduled Daily Trips: 4 trips\n- Departures Serving Sholinganallur: 4 stop departures\n- Operational Hours: 19:35:00 to 22:50:00\n\n## Static Schedule Disclaimer\n- All timetable benchmarks are derived from official static Chennai MTC GTFS data. Times indicate scheduled timetable departures and do not reflect real-time traffic conditions or live vehicle tracking.",
+  "document_hash": "d67a38de7f02b8c5e44df8404b8edfc126218ccc2fd51b6a53ba7403b4091bea"
+}

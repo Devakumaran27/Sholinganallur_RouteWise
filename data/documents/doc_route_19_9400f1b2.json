@@ -1,0 +1,50 @@
+{
+  "document_id": "doc_route_19_9400f1b2",
+  "document_type": "route_profile",
+  "title": "Route Profile: Route 19 (14 Service Variants)",
+  "source_file": "route_service_summary.json",
+  "dataset_version": "v1.0.0-sholinganallur",
+  "metadata": {
+    "document_id": "doc_route_19_9400f1b2",
+    "document_type": "route_profile",
+    "route_number": "19",
+    "route_hash_suffix": "9400f1b2",
+    "variant_count": 14,
+    "variant_route_ids": [
+      "2527",
+      "2528",
+      "2533",
+      "2534",
+      "409",
+      "412",
+      "413",
+      "414",
+      "415",
+      "417",
+      "418",
+      "419",
+      "421",
+      "422"
+    ],
+    "total_daily_trips": 293,
+    "total_area_departures": 1257,
+    "earliest_departure_time": "00:46:15",
+    "latest_departure_time": "23:17:00",
+    "earliest_departure_seconds": 2775,
+    "latest_departure_seconds": 83820,
+    "terminals": [
+      "ADYAR DEPOT",
+      "KANNAGI NAGAR TNUHDB",
+      "KELAMBAKKAM",
+      "M.G.R.KOYAMBEDU",
+      "M.G.R.KOYAMBEDU B.T",
+      "PERUMBAKKAM TNUHDB",
+      "THIRUPORUR",
+      "THIRUPORUR BUS STAND",
+      "THYAGARAYA NAGAR",
+      "THYAGARAYA NAGAR BUS TERMINUS"
+    ]
+  },
+  "content": "# MTC BUS ROUTE PROFILE: ROUTE 19\n\n## Public Transit Line Overview\n- Public Route Number: 19\n- Total Operational Variants in Feed: 14 service profiles\n- Total Scheduled Daily Trips: 293 trips\n- Total Sholinganallur Stop Departures: 1257 recorded departures\n- Key Terminals & Hubs Served: ADYAR DEPOT, KANNAGI NAGAR TNUHDB, KELAMBAKKAM, M.G.R.KOYAMBEDU, M.G.R.KOYAMBEDU B.T, PERUMBAKKAM TNUHDB, THIRUPORUR, THIRUPORUR BUS STAND, THYAGARAYA NAGAR, THYAGARAYA NAGAR BUS TERMINUS\n\n## Timetable Service Window\n- Earliest Scheduled Departure in Area: 00:46:15 (Variant ID: 415)\n- Latest Scheduled Departure in Area: 23:17:00 (Variant ID: 2527)\n- Span of Operation: From 00:46:15 to 23:17:00\n\n## Operational Service Variants (14 GTFS Service Profiles)\n### Variant Route ID: 2527 — THIRUPORUR To KANNAGI NAGAR TNUHDB\n- Terminal Path: THIRUPORUR To KANNAGI NAGAR TNUHDB\n- Scheduled Daily Trips: 10 trips\n- Departures Serving Sholinganallur: 10 stop departures\n- Operational Hours: 18:40:00 to 23:17:00\n\n### Variant Route ID: 2528 — KANNAGI NAGAR TNUHDB To THIRUPORUR\n- Terminal Path: KANNAGI NAGAR TNUHDB To THIRUPORUR\n- Scheduled Daily Trips: 3 trips\n- Departures Serving Sholinganallur: 3 stop departures\n- Operational Hours: 05:14:15 to 13:59:15\n\n### Variant Route ID: 2533 — THYAGARAYA NAGAR To PERUMBAKKAM TNUHDB\n- Terminal Path: THYAGARAYA NAGAR To PERUMBAKKAM TNUHDB\n- Scheduled Daily Trips: 11 trips\n- Departures Serving Sholinganallur: 11 stop departures\n- Operational Hours: 11:10:30 to 22:20:30\n\n### Variant Route ID: 2534 — PERUMBAKKAM TNUHDB To THYAGARAYA NAGAR\n- Terminal Path: PERUMBAKKAM TNUHDB To THYAGARAYA NAGAR\n- Scheduled Daily Trips: 11 trips\n- Departures Serving Sholinganallur: 11 stop departures\n- Operational Hours: 04:57:00 to 15:47:00\n\n### Variant Route ID: 409 — ADYAR DEPOT To THIRUPORUR BUS STAND\n- Terminal Path: ADYAR DEPOT To THIRUPORUR BUS STAND\n- Scheduled Daily Trips: 8 trips\n- Departures Serving Sholinganallur: 40 stop departures\n- Operational Hours: 04:49:30 to 07:50:45\n\n### Variant Route ID: 412 — KELAMBAKKAM To ADYAR DEPOT\n- Terminal Path: KELAMBAKKAM To ADYAR DEPOT\n- Scheduled Daily Trips: 1 trips\n- Departures Serving Sholinganallur: 1 stop departures\n- Operational Hours: 05:41:00 to 05:41:00\n\n### Variant Route ID: 413 — KELAMBAKKAM To M.G.R.KOYAMBEDU\n- Terminal Path: KELAMBAKKAM To M.G.R.KOYAMBEDU\n- Scheduled Daily Trips: 1 trips\n- Departures Serving Sholinganallur: 1 stop departures\n- Operational Hours: 02:16:00 to 02:16:00\n\n### Variant Route ID: 414 — KELAMBAKKAM To THYAGARAYA NAGAR\n- Terminal Path: KELAMBAKKAM To THYAGARAYA NAGAR\n- Scheduled Daily Trips: 4 trips\n- Departures Serving Sholinganallur: 4 stop departures\n- Operational Hours: 11:01:00 to 20:06:00\n\n### Variant Route ID: 415 — M.G.R.KOYAMBEDU To KELAMBAKKAM\n- Terminal Path: M.G.R.KOYAMBEDU To KELAMBAKKAM\n- Scheduled Daily Trips: 2 trips\n- Departures Serving Sholinganallur: 2 stop departures\n- Operational Hours: 00:46:15 to 04:12:15\n\n### Variant Route ID: 417 — THIRUPORUR To ADYAR DEPOT\n- Terminal Path: THIRUPORUR To ADYAR DEPOT\n- Scheduled Daily Trips: 5 trips\n- Departures Serving Sholinganallur: 5 stop departures\n- Operational Hours: 20:05:00 to 21:15:00\n\n### Variant Route ID: 418 — THIRUPORUR BUS STAND To M.G.R.KOYAMBEDU B.T\n- Terminal Path: THIRUPORUR BUS STAND To M.G.R.KOYAMBEDU B.T\n- Scheduled Daily Trips: 2 trips\n- Departures Serving Sholinganallur: 10 stop departures\n- Operational Hours: 17:39:15 to 22:30:30\n\n### Variant Route ID: 419 — THIRUPORUR BUS STAND To THYAGARAYA NAGAR BUS TERMINUS\n- Terminal Path: THIRUPORUR BUS STAND To THYAGARAYA NAGAR BUS TERMINUS\n- Scheduled Daily Trips: 115 trips\n- Departures Serving Sholinganallur: 575 stop departures\n- Operational Hours: 05:44:15 to 22:35:30\n\n### Variant Route ID: 421 — THYAGARAYA NAGAR To KELAMBAKKAM\n- Terminal Path: THYAGARAYA NAGAR To KELAMBAKKAM\n- Scheduled Daily Trips: 4 trips\n- Departures Serving Sholinganallur: 4 stop departures\n- Operational Hours: 09:15:30 to 18:15:30\n\n### Variant Route ID: 422 — THYAGARAYA NAGAR BUS TERMINUS To THIRUPORUR BUS STAND\n- Terminal Path: THYAGARAYA NAGAR BUS TERMINUS To THIRUPORUR BUS STAND\n- Scheduled Daily Trips: 116 trips\n- Departures Serving Sholinganallur: 580 stop departures\n- Operational Hours: 06:04:15 to 22:45:30\n\n## Static Schedule Disclaimer\n- All timetable benchmarks are derived from official static Chennai MTC GTFS data. Times indicate scheduled timetable departures and do not reflect real-time traffic conditions or live vehicle tracking.",
+  "document_hash": "36c71e7dd03ed37897a9265f43ca02b8f887d91effbf522142fc592aa08567a1"
+}

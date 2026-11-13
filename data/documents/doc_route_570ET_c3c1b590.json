@@ -1,0 +1,37 @@
+{
+  "document_id": "doc_route_570ET_c3c1b590",
+  "document_type": "route_profile",
+  "title": "Route Profile: Route 570ET (5 Service Variants)",
+  "source_file": "route_service_summary.json",
+  "dataset_version": "v1.0.0-sholinganallur",
+  "metadata": {
+    "document_id": "doc_route_570ET_c3c1b590",
+    "document_type": "route_profile",
+    "route_number": "570ET",
+    "route_hash_suffix": "c3c1b590",
+    "variant_count": 5,
+    "variant_route_ids": [
+      "3543",
+      "3545",
+      "3546",
+      "3550",
+      "3551"
+    ],
+    "total_daily_trips": 56,
+    "total_area_departures": 248,
+    "earliest_departure_time": "02:03:30",
+    "latest_departure_time": "24:51:00",
+    "earliest_departure_seconds": 7410,
+    "latest_departure_seconds": 89460,
+    "terminals": [
+      "M.G.R.KOYAMBEDU",
+      "M.G.R.KOYAMBEDU B.T",
+      "SIRUSERI I.T PARK",
+      "THIRUPORUR",
+      "THIRUPORUR BUS STAND",
+      "VELACHERY B.T"
+    ]
+  },
+  "content": "# MTC BUS ROUTE PROFILE: ROUTE 570ET\n\n## Public Transit Line Overview\n- Public Route Number: 570ET\n- Total Operational Variants in Feed: 5 service profiles\n- Total Scheduled Daily Trips: 56 trips\n- Total Sholinganallur Stop Departures: 248 recorded departures\n- Key Terminals & Hubs Served: M.G.R.KOYAMBEDU, M.G.R.KOYAMBEDU B.T, SIRUSERI I.T PARK, THIRUPORUR, THIRUPORUR BUS STAND, VELACHERY B.T\n\n## Timetable Service Window\n- Earliest Scheduled Departure in Area: 02:03:30 (Variant ID: 3545)\n- Latest Scheduled Departure in Area: 24:51:00 (Variant ID: 3546)\n- Span of Operation: From 02:03:30 to 24:51:00\n\n## Operational Service Variants (5 GTFS Service Profiles)\n### Variant Route ID: 3543 — M.G.R.KOYAMBEDU To SIRUSERI I.T PARK\n- Terminal Path: M.G.R.KOYAMBEDU To SIRUSERI I.T PARK\n- Scheduled Daily Trips: 6 trips\n- Departures Serving Sholinganallur: 6 stop departures\n- Operational Hours: 09:51:15 to 21:31:15\n\n### Variant Route ID: 3545 — M.G.R.KOYAMBEDU B.T To THIRUPORUR BUS STAND\n- Terminal Path: M.G.R.KOYAMBEDU B.T To THIRUPORUR BUS STAND\n- Scheduled Daily Trips: 24 trips\n- Departures Serving Sholinganallur: 120 stop departures\n- Operational Hours: 02:03:30 to 22:44:45\n\n### Variant Route ID: 3546 — THIRUPORUR BUS STAND To M.G.R.KOYAMBEDU B.T\n- Terminal Path: THIRUPORUR BUS STAND To M.G.R.KOYAMBEDU B.T\n- Scheduled Daily Trips: 24 trips\n- Departures Serving Sholinganallur: 120 stop departures\n- Operational Hours: 03:49:45 to 24:51:00\n\n### Variant Route ID: 3550 — VELACHERY B.T To THIRUPORUR\n- Terminal Path: VELACHERY B.T To THIRUPORUR\n- Scheduled Daily Trips: 1 trips\n- Departures Serving Sholinganallur: 1 stop departures\n- Operational Hours: 17:08:00 to 17:08:00\n\n### Variant Route ID: 3551 — THIRUPORUR To VELACHERY B.T\n- Terminal Path: THIRUPORUR To VELACHERY B.T\n- Scheduled Daily Trips: 1 trips\n- Departures Serving Sholinganallur: 1 stop departures\n- Operational Hours: 15:20:00 to 15:20:00\n\n## Static Schedule Disclaimer\n- All timetable benchmarks are derived from official static Chennai MTC GTFS data. Times indicate scheduled timetable departures and do not reflect real-time traffic conditions or live vehicle tracking.",
+  "document_hash": "26fe1af6fd8810afcf37104adcc2e64e88058903161b8c24ac92c43df4f8fc05"
+}

@@ -1,0 +1,3175 @@
+[
+  {
+    "document_id": "doc_stop_04f86069a53d1b4ba4c32567ecb51a40",
+    "document_type": "stop_profile",
+    "title": "Bus Stop Profile: SHOLINGANALLUR (Stop ID: 04f86069a53d1b4ba4c32567ecb51a40)",
+    "source_file": "bus_stops.json",
+    "dataset_version": "v1.0.0-sholinganallur",
+    "document_hash": "b84e3b9cba410f1078cbf70f667792c719c563e2acc45e7ee0775d30f114d303",
+    "content_length_chars": 838,
+    "content_lines": 21,
+    "metadata": {
+      "document_type": "stop_profile",
+      "stop_id": "04f86069a53d1b4ba4c32567ecb51a40",
+      "stop_code": "04f86069a53d1b4ba4c32567ecb51a40",
+      "stop_name": "SHOLINGANALLUR",
+      "map_eligible": true,
+      "has_coordinates": true,
+      "latitude": 12.90106,
+      "longitude": 80.22705,
+      "total_departures": 43,
+      "connecting_route_count": 1,
+      "connecting_routes": [
+        "95XCT"
+      ]
+    }
+  },
+  {
+    "document_id": "doc_stop_12518ace15a486436b2a17347ed9dd7c",
+    "document_type": "stop_profile",
+    "title": "Bus Stop Profile: SHOLINGANALLUR NUCLUEUS COMPANY (Stop ID: 12518ace15a486436b2a17347ed9dd7c)",
+    "source_file": "bus_stops.json",
+    "dataset_version": "v1.0.0-sholinganallur",
+    "document_hash": "e1559e43a4484c3fb68cdd22cac242662fc641a6d07ea93312f15baa397f13fa",
+    "content_length_chars": 872,
+    "content_lines": 21,
+    "metadata": {
+      "document_type": "stop_profile",
+      "stop_id": "12518ace15a486436b2a17347ed9dd7c",
+      "stop_code": "12518ace15a486436b2a17347ed9dd7c",
+      "stop_name": "SHOLINGANALLUR NUCLUEUS COMPANY",
+      "map_eligible": true,
+      "has_coordinates": true,
+      "latitude": 12.87783,
+      "longitude": 80.21967,
+      "total_departures": 140,
+      "connecting_route_count": 1,
+      "connecting_routes": [
+        "102P"
+      ]
+    }
+  },
+  {
+    "document_id": "doc_stop_168",
+    "document_type": "stop_profile",
+    "title": "Bus Stop Profile: SHOLINGANALLUR P.U.OFFICE (Stop ID: 168)",
+    "source_file": "bus_stops.json",
+    "dataset_version": "v1.0.0-sholinganallur",
+    "document_hash": "2e7a0d0f0eae80554da9d0c8bab21b339037608ba40c8c95ec518aae4f95b935",
+    "content_length_chars": 1341,
+    "content_lines": 22,
+    "metadata": {
+      "document_type": "stop_profile",
+      "stop_id": "168",
+      "stop_code": "168",
+      "stop_name": "SHOLINGANALLUR P.U.OFFICE",
+      "map_eligible": false,
+      "has_coordinates": false,
+      "latitude": null,
+      "longitude": null,
+      "total_departures": 926,
+      "connecting_route_count": 45,
+      "connecting_routes": [
+        "102",
+        "102C",
+        "102C CD",
+        "102CCT",
+        "102CT",
+        "102E",
+        "102K",
+        "102P",
+        "102P CD",
+        "102PCT",
+        "102S",
+        "102X",
+        "102X CD",
+        "119",
+        "119G",
+        "19",
+        "19A",
+        "19B",
+        "19BET",
+        "19D",
+        "19D PAD",
+        "19PCT",
+        "221",
+        "221CT",
+        "23C",
+        "523",
+        "523A",
+        "552K",
+        "555P",
+        "568B",
+        "570",
+        "570ET",
+        "570P",
+        "570T",
+        "570V",
+        "76V",
+        "95",
+        "95G",
+        "95X",
+        "95XCT",
+        "99A",
+        "99CT",
+        "99X",
+        "B19",
+        "B19CT"
+      ]
+    }
+  },
+  {
+    "document_id": "doc_stop_172bacebb7dba857432588d1cb692048",
+    "document_type": "stop_profile",
+    "title": "Bus Stop Profile: SHOLINGANALLUR KUMARAN NAGAR (Stop ID: 172bacebb7dba857432588d1cb692048)",
+    "source_file": "bus_stops.json",
+    "dataset_version": "v1.0.0-sholinganallur",
+    "document_hash": "dfd8aa495c3ee046f6bd31e859a426292780fa17c55ca8d49a68a44395a47851",
+    "content_length_chars": 872,
+    "content_lines": 21,
+    "metadata": {
+      "document_type": "stop_profile",
+      "stop_id": "172bacebb7dba857432588d1cb692048",
+      "stop_code": "172bacebb7dba857432588d1cb692048",
+      "stop_name": "SHOLINGANALLUR KUMARAN NAGAR",
+      "map_eligible": true,
+      "has_coordinates": true,
+      "latitude": 12.87651,
+      "longitude": 80.22666,
+      "total_departures": 169,
+      "connecting_route_count": 2,
+      "connecting_routes": [
+        "102C",
+        "102P"
+      ]
+    }
+  },
+  {
+    "document_id": "doc_stop_24e7a438c8360f233d74a8f962941d7f",
+    "document_type": "stop_profile",
+    "title": "Bus Stop Profile: SHOLINGANALLUR (Stop ID: 24e7a438c8360f233d74a8f962941d7f)",
+    "source_file": "bus_stops.json",
+    "dataset_version": "v1.0.0-sholinganallur",
+    "document_hash": "566f832cf12f89e907c9a12f49d2f3581efd7de66402c81a0c3d0ab65cde853d",
+    "content_length_chars": 845,
+    "content_lines": 21,
+    "metadata": {
+      "document_type": "stop_profile",
+      "stop_id": "24e7a438c8360f233d74a8f962941d7f",
+      "stop_code": "24e7a438c8360f233d74a8f962941d7f",
+      "stop_name": "SHOLINGANALLUR",
+      "map_eligible": true,
+      "has_coordinates": true,
+      "latitude": 12.90091,
+      "longitude": 80.22754,
+      "total_departures": 151,
+      "connecting_route_count": 3,
+      "connecting_routes": [
+        "95",
+        "99",
+        "99X"
+      ]
+    }
+  },
+  {
+    "document_id": "doc_stop_374cd9d37f0af09bb60465a548d6d842",
+    "document_type": "stop_profile",
+    "title": "Bus Stop Profile: SHOLINGANALLUR KUMARAN NAGAR (Stop ID: 374cd9d37f0af09bb60465a548d6d842)",
+    "source_file": "bus_stops.json",
+    "dataset_version": "v1.0.0-sholinganallur",
+    "document_hash": "622f8b8db003b0c4d896b1370baa302f9ecb2c63d6a86404d5b73bbe65478dff",
+    "content_length_chars": 863,
+    "content_lines": 21,
+    "metadata": {
+      "document_type": "stop_profile",
+      "stop_id": "374cd9d37f0af09bb60465a548d6d842",
+      "stop_code": "374cd9d37f0af09bb60465a548d6d842",
+      "stop_name": "SHOLINGANALLUR KUMARAN NAGAR",
+      "map_eligible": true,
+      "has_coordinates": true,
+      "latitude": 12.87651,
+      "longitude": 80.22671,
+      "total_departures": 6,
+      "connecting_route_count": 1,
+      "connecting_routes": [
+        "19D"
+      ]
+    }
+  },
+  {
+    "document_id": "doc_stop_380",
+    "document_type": "stop_profile",
+    "title": "Bus Stop Profile: SHOLINGANALLUR (Stop ID: 380)",
+    "source_file": "bus_stops.json",
+    "dataset_version": "v1.0.0-sholinganallur",
+    "document_hash": "5faa95bc6a6fd9089adc5805c208ebf329f4023ccc3a8a789fb0a3cfedb7e310",
+    "content_length_chars": 1138,
+    "content_lines": 22,
+    "metadata": {
+      "document_type": "stop_profile",
+      "stop_id": "380",
+      "stop_code": "380",
+      "stop_name": "SHOLINGANALLUR",
+      "map_eligible": false,
+      "has_coordinates": false,
+      "latitude": null,
+      "longitude": null,
+      "total_departures": 335,
+      "connecting_route_count": 15,
+      "connecting_routes": [
+        "102CT",
+        "102P",
+        "102PCT",
+        "102X",
+        "102x",
+        "19A",
+        "19AX",
+        "568CT",
+        "570CT",
+        "95XCT",
+        "99A",
+        "99X",
+        "B19",
+        "M51",
+        "MAA2CT"
+      ]
+    }
+  },
+  {
+    "document_id": "doc_stop_BMDeXhVp",
+    "document_type": "stop_profile",
+    "title": "Bus Stop Profile: SHOLINGANALLUR HCL COMPANY (Stop ID: BMDeXhVp)",
+    "source_file": "bus_stops.json",
+    "dataset_version": "v1.0.0-sholinganallur",
+    "document_hash": "a6de8e025ca714265f69129603d6eb989c2eaea5f801f9127de79bb14e55c091",
+    "content_length_chars": 849,
+    "content_lines": 21,
+    "metadata": {
+      "document_type": "stop_profile",
+      "stop_id": "BMDeXhVp",
+      "stop_code": "BMDeXhVp",
+      "stop_name": "SHOLINGANALLUR HCL COMPANY",
+      "map_eligible": true,
+      "has_coordinates": true,
+      "latitude": 12.90163,
+      "longitude": 80.21826,
+      "total_departures": 671,
+      "connecting_route_count": 8,
+      "connecting_routes": [
+        "552K",
+        "95",
+        "95X",
+        "95XCT",
+        "99",
+        "99A",
+        "99X",
+        "M51"
+      ]
+    }
+  },
+  {
+    "document_id": "doc_stop_GMrJWgHs",
+    "document_type": "stop_profile",
+    "title": "Bus Stop Profile: SHOLINGANALLUR KUMARAN NAGAR (Stop ID: GMrJWgHs)",
+    "source_file": "bus_stops.json",
+    "dataset_version": "v1.0.0-sholinganallur",
+    "document_hash": "0178722ec392b31069be0b534b830c284048b4c23183cb875b39f3ed5ccea987",
+    "content_length_chars": 953,
+    "content_lines": 21,
+    "metadata": {
+      "document_type": "stop_profile",
+      "stop_id": "GMrJWgHs",
+      "stop_code": "GMrJWgHs",
+      "stop_name": "SHOLINGANALLUR KUMARAN NAGAR",
+      "map_eligible": true,
+      "has_coordinates": true,
+      "latitude": 12.87793,
+      "longitude": 80.22701,
+      "total_departures": 1133,
+      "connecting_route_count": 24,
+      "connecting_routes": [
+        "102",
+        "102A",
+        "102CT",
+        "102M",
+        "102PCT",
+        "102X",
+        "119",
+        "119G",
+        "19",
+        "19A",
+        "19B",
+        "19BET",
+        "221",
+        "519T",
+        "523",
+        "552K",
+        "555G",
+        "555P",
+        "555S",
+        "568B",
+        "570",
+        "570ET",
+        "B19",
+        "MAA2"
+      ]
+    }
+  },
+  {
+    "document_id": "doc_stop_HxnLIWQq",
+    "document_type": "stop_profile",
+    "title": "Bus Stop Profile: SHOLINGANALLUR ACCENTURE (Stop ID: HxnLIWQq)",
+    "source_file": "bus_stops.json",
+    "dataset_version": "v1.0.0-sholinganallur",
+    "document_hash": "766495e9b9781e43e2dafcc1397aca3aa3eed1c095fc06839bd51ceb1f2d12da",
+    "content_length_chars": 943,
+    "content_lines": 21,
+    "metadata": {
+      "document_type": "stop_profile",
+      "stop_id": "HxnLIWQq",
+      "stop_code": "HxnLIWQq",
+      "stop_name": "SHOLINGANALLUR ACCENTURE",
+      "map_eligible": true,
+      "has_coordinates": true,
+      "latitude": 12.90631,
+      "longitude": 80.22833,
+      "total_departures": 1553,
+      "connecting_route_count": 24,
+      "connecting_routes": [
+        "102",
+        "102A",
+        "102C",
+        "102CT",
+        "102M",
+        "102P",
+        "102PCT",
+        "102X",
+        "119",
+        "119G",
+        "19",
+        "19A",
+        "19B",
+        "19BET",
+        "19D",
+        "221",
+        "519T",
+        "568B",
+        "570",
+        "570ET",
+        "570P",
+        "95",
+        "95X",
+        "MAA2"
+      ]
+    }
+  },
+  {
+    "document_id": "doc_stop_OaJoPLeC",
+    "document_type": "stop_profile",
+    "title": "Bus Stop Profile: SHOLINGANALLUR NUCLUEUS COMPANY (Stop ID: OaJoPLeC)",
+    "source_file": "bus_stops.json",
+    "dataset_version": "v1.0.0-sholinganallur",
+    "document_hash": "4a408c7c9a2cbc66033caa2093e518079cd4276290c6f5a0d4361a918178530a",
+    "content_length_chars": 864,
+    "content_lines": 21,
+    "metadata": {
+      "document_type": "stop_profile",
+      "stop_id": "OaJoPLeC",
+      "stop_code": "OaJoPLeC",
+      "stop_name": "SHOLINGANALLUR NUCLUEUS COMPANY",
+      "map_eligible": true,
+      "has_coordinates": true,
+      "latitude": 12.87785,
+      "longitude": 80.2193,
+      "total_departures": 466,
+      "connecting_route_count": 8,
+      "connecting_routes": [
+        "102C",
+        "102P",
+        "102PCT",
+        "119",
+        "119G",
+        "19A",
+        "19D",
+        "570P"
+      ]
+    }
+  },
+  {
+    "document_id": "doc_stop_ZqBGCTqq",
+    "document_type": "stop_profile",
+    "title": "Bus Stop Profile: P U OFFICE SHOLINGANALLUR (Stop ID: ZqBGCTqq)",
+    "source_file": "bus_stops.json",
+    "dataset_version": "v1.0.0-sholinganallur",
+    "document_hash": "5196d46ed98c5e09ff4b6d5f28c249e96f9b8460e7509b82dafac504803fbc99",
+    "content_length_chars": 955,
+    "content_lines": 21,
+    "metadata": {
+      "document_type": "stop_profile",
+      "stop_id": "ZqBGCTqq",
+      "stop_code": "ZqBGCTqq",
+      "stop_name": "P U OFFICE SHOLINGANALLUR",
+      "map_eligible": true,
+      "has_coordinates": true,
+      "latitude": 12.9031,
+      "longitude": 80.22816,
+      "total_departures": 1450,
+      "connecting_route_count": 26,
+      "connecting_routes": [
+        "102",
+        "102A",
+        "102C",
+        "102CT",
+        "102M",
+        "102P",
+        "102PCT",
+        "102X",
+        "119",
+        "119G",
+        "19",
+        "19A",
+        "19B",
+        "19BET",
+        "19D",
+        "221",
+        "519T",
+        "523",
+        "552K",
+        "555P",
+        "568B",
+        "570",
+        "570ET",
+        "570P",
+        "95",
+        "95X"
+      ]
+    }
+  },
+  {
+    "document_id": "doc_stop_aZtqChJJ",
+    "document_type": "stop_profile",
+    "title": "Bus Stop Profile: SHOLINGANALLUR ACCENTURE (Stop ID: aZtqChJJ)",
+    "source_file": "bus_stops.json",
+    "dataset_version": "v1.0.0-sholinganallur",
+    "document_hash": "a7f8d0c944ac8634844cc8309378f3bad98895409c53bf738a24519bb42298a4",
+    "content_length_chars": 940,
+    "content_lines": 21,
+    "metadata": {
+      "document_type": "stop_profile",
+      "stop_id": "aZtqChJJ",
+      "stop_code": "aZtqChJJ",
+      "stop_name": "SHOLINGANALLUR ACCENTURE",
+      "map_eligible": true,
+      "has_coordinates": true,
+      "latitude": 12.90748,
+      "longitude": 80.22819,
+      "total_departures": 1555,
+      "connecting_route_count": 24,
+      "connecting_routes": [
+        "102",
+        "102A",
+        "102C",
+        "102CT",
+        "102M",
+        "102P",
+        "102X",
+        "119",
+        "119G",
+        "19",
+        "19A",
+        "19B",
+        "19BET",
+        "19D",
+        "221",
+        "519T",
+        "523A",
+        "570",
+        "570ET",
+        "570P",
+        "95",
+        "95X",
+        "M51",
+        "MAA2"
+      ]
+    }
+  },
+  {
+    "document_id": "doc_stop_ddf9b7895d25353b687b012d51771836",
+    "document_type": "stop_profile",
+    "title": "Bus Stop Profile: P U OFFICE SHOLINGANALLUR (Stop ID: ddf9b7895d25353b687b012d51771836)",
+    "source_file": "bus_stops.json",
+    "dataset_version": "v1.0.0-sholinganallur",
+    "document_hash": "bc0a5328edad5c96cb34c71b94e675208f616e01deb112df19cdb15e5d7f18bb",
+    "content_length_chars": 964,
+    "content_lines": 21,
+    "metadata": {
+      "document_type": "stop_profile",
+      "stop_id": "ddf9b7895d25353b687b012d51771836",
+      "stop_code": "ddf9b7895d25353b687b012d51771836",
+      "stop_name": "P U OFFICE SHOLINGANALLUR",
+      "map_eligible": true,
+      "has_coordinates": true,
+      "latitude": 12.90205,
+      "longitude": 80.22794,
+      "total_departures": 1200,
+      "connecting_route_count": 19,
+      "connecting_routes": [
+        "102",
+        "102A",
+        "102C",
+        "102CT",
+        "102M",
+        "102P",
+        "102X",
+        "119",
+        "119G",
+        "19",
+        "19A",
+        "221",
+        "519T",
+        "523",
+        "523A",
+        "570",
+        "570ET",
+        "570P",
+        "MAA2"
+      ]
+    }
+  },
+  {
+    "document_id": "doc_stop_deapEAbC",
+    "document_type": "stop_profile",
+    "title": "Bus Stop Profile: SHOLINGANALLUR (Stop ID: deapEAbC)",
+    "source_file": "bus_stops.json",
+    "dataset_version": "v1.0.0-sholinganallur",
+    "document_hash": "eac31300f646f6c9b2c4e6463b8046cdbab4703c29076e2bc8f40620eadf1a8c",
+    "content_length_chars": 800,
+    "content_lines": 21,
+    "metadata": {
+      "document_type": "stop_profile",
+      "stop_id": "deapEAbC",
+      "stop_code": "deapEAbC",
+      "stop_name": "SHOLINGANALLUR",
+      "map_eligible": true,
+      "has_coordinates": true,
+      "latitude": 12.89991,
+      "longitude": 80.22773,
+      "total_departures": 75,
+      "connecting_route_count": 3,
+      "connecting_routes": [
+        "19B",
+        "555G",
+        "555S"
+      ]
+    }
+  },
+  {
+    "document_id": "doc_stop_elxmPCDf",
+    "document_type": "stop_profile",
+    "title": "Bus Stop Profile: GOVERNMENT SCHOOL SHOLINGANALLUR (Stop ID: elxmPCDf)",
+    "source_file": "bus_stops.json",
+    "dataset_version": "v1.0.0-sholinganallur",
+    "document_hash": "67cea1cf0a59dfb3d38940e967016e857a97c4a6cb1b0c79221992b1d3ddebb2",
+    "content_length_chars": 984,
+    "content_lines": 21,
+    "metadata": {
+      "document_type": "stop_profile",
+      "stop_id": "elxmPCDf",
+      "stop_code": "elxmPCDf",
+      "stop_name": "GOVERNMENT SCHOOL SHOLINGANALLUR",
+      "map_eligible": true,
+      "has_coordinates": true,
+      "latitude": 12.89353,
+      "longitude": 80.22767,
+      "total_departures": 1313,
+      "connecting_route_count": 28,
+      "connecting_routes": [
+        "102",
+        "102A",
+        "102C",
+        "102CT",
+        "102M",
+        "102P",
+        "102PCT",
+        "102X",
+        "119",
+        "119G",
+        "19",
+        "19A",
+        "19B",
+        "19BET",
+        "19D",
+        "221",
+        "519T",
+        "523",
+        "552K",
+        "555G",
+        "555P",
+        "555S",
+        "568B",
+        "570",
+        "570ET",
+        "570P",
+        "B19",
+        "MAA2"
+      ]
+    }
+  },
+  {
+    "document_id": "doc_stop_fd33ffa78a20fbe7d4ee10febdad0c08",
+    "document_type": "stop_profile",
+    "title": "Bus Stop Profile: SHOLINGANALLUR (Stop ID: fd33ffa78a20fbe7d4ee10febdad0c08)",
+    "source_file": "bus_stops.json",
+    "dataset_version": "v1.0.0-sholinganallur",
+    "document_hash": "5bbc259c0a0d292d1443c348327d29aa816580e3ea45b239f949013d2c24001d",
+    "content_length_chars": 858,
+    "content_lines": 21,
+    "metadata": {
+      "document_type": "stop_profile",
+      "stop_id": "fd33ffa78a20fbe7d4ee10febdad0c08",
+      "stop_code": "fd33ffa78a20fbe7d4ee10febdad0c08",
+      "stop_name": "SHOLINGANALLUR",
+      "map_eligible": true,
+      "has_coordinates": true,
+      "latitude": 12.90105,
+      "longitude": 80.22636,
+      "total_departures": 366,
+      "connecting_route_count": 5,
+      "connecting_routes": [
+        "95XCT",
+        "99",
+        "99A",
+        "99X",
+        "M51"
+      ]
+    }
+  },
+  {
+    "document_id": "doc_stop_gHieypBQ",
+    "document_type": "stop_profile",
+    "title": "Bus Stop Profile: SHOLINGANALLUR HCL COMPANY (Stop ID: gHieypBQ)",
+    "source_file": "bus_stops.json",
+    "dataset_version": "v1.0.0-sholinganallur",
+    "document_hash": "e47251c973cec2fd47175c6a7d5e326b2c6443007cfb5c14a84930fe72645d89",
+    "content_length_chars": 849,
+    "content_lines": 21,
+    "metadata": {
+      "document_type": "stop_profile",
+      "stop_id": "gHieypBQ",
+      "stop_code": "gHieypBQ",
+      "stop_name": "SHOLINGANALLUR HCL COMPANY",
+      "map_eligible": true,
+      "has_coordinates": true,
+      "latitude": 12.90176,
+      "longitude": 80.21837,
+      "total_departures": 714,
+      "connecting_route_count": 8,
+      "connecting_routes": [
+        "552K",
+        "95",
+        "95X",
+        "95XCT",
+        "99",
+        "99A",
+        "99X",
+        "M51"
+      ]
+    }
+  },
+  {
+    "document_id": "doc_stop_jQytwadI",
+    "document_type": "stop_profile",
+    "title": "Bus Stop Profile: SHOLINGANALLUR (Stop ID: jQytwadI)",
+    "source_file": "bus_stops.json",
+    "dataset_version": "v1.0.0-sholinganallur",
+    "document_hash": "5a5125922be8f5d961a8bb309e7bd5a645624605fbceb109ee9b53dadde71add",
+    "content_length_chars": 800,
+    "content_lines": 21,
+    "metadata": {
+      "document_type": "stop_profile",
+      "stop_id": "jQytwadI",
+      "stop_code": "jQytwadI",
+      "stop_name": "SHOLINGANALLUR",
+      "map_eligible": true,
+      "has_coordinates": true,
+      "latitude": 12.90085,
+      "longitude": 80.22754,
+      "total_departures": 181,
+      "connecting_route_count": 3,
+      "connecting_routes": [
+        "552K",
+        "99A",
+        "M51"
+      ]
+    }
+  },
+  {
+    "document_id": "doc_stop_nunLDRbE",
+    "document_type": "stop_profile",
+    "title": "Bus Stop Profile: GOVERNMENT SCHOOL SHOLINGANALLUR (Stop ID: nunLDRbE)",
+    "source_file": "bus_stops.json",
+    "dataset_version": "v1.0.0-sholinganallur",
+    "document_hash": "8f5746c7a3ee62ce4cc4b0d93f51d0899dc7f9f998a06acf3a1c38d417a340a9",
+    "content_length_chars": 971,
+    "content_lines": 21,
+    "metadata": {
+      "document_type": "stop_profile",
+      "stop_id": "nunLDRbE",
+      "stop_code": "nunLDRbE",
+      "stop_name": "GOVERNMENT SCHOOL SHOLINGANALLUR",
+      "map_eligible": true,
+      "has_coordinates": true,
+      "latitude": 12.89455,
+      "longitude": 80.22743,
+      "total_departures": 1290,
+      "connecting_route_count": 26,
+      "connecting_routes": [
+        "102",
+        "102A",
+        "102C",
+        "102CT",
+        "102M",
+        "102P",
+        "102X",
+        "119",
+        "119G",
+        "19",
+        "19A",
+        "19B",
+        "19BET",
+        "19D",
+        "221",
+        "519T",
+        "523",
+        "523A",
+        "552K",
+        "555G",
+        "555P",
+        "555S",
+        "570",
+        "570ET",
+        "570P",
+        "MAA2"
+      ]
+    }
+  },
+  {
+    "document_id": "doc_stop_oRUBDfuD",
+    "document_type": "stop_profile",
+    "title": "Bus Stop Profile: SHOLINGANALLUR PONNIAMMAN TEMPLE (Stop ID: oRUBDfuD)",
+    "source_file": "bus_stops.json",
+    "dataset_version": "v1.0.0-sholinganallur",
+    "document_hash": "21d1d3d507f13e13219b039c5e11ad8c8ea0c257ea549468db5b913823622ec5",
+    "content_length_chars": 971,
+    "content_lines": 21,
+    "metadata": {
+      "document_type": "stop_profile",
+      "stop_id": "oRUBDfuD",
+      "stop_code": "oRUBDfuD",
+      "stop_name": "SHOLINGANALLUR PONNIAMMAN TEMPLE",
+      "map_eligible": true,
+      "has_coordinates": true,
+      "latitude": 12.88606,
+      "longitude": 80.22673,
+      "total_departures": 1290,
+      "connecting_route_count": 26,
+      "connecting_routes": [
+        "102",
+        "102A",
+        "102C",
+        "102CT",
+        "102M",
+        "102P",
+        "102X",
+        "119",
+        "119G",
+        "19",
+        "19A",
+        "19B",
+        "19BET",
+        "19D",
+        "221",
+        "519T",
+        "523",
+        "523A",
+        "552K",
+        "555G",
+        "555P",
+        "555S",
+        "570",
+        "570ET",
+        "570P",
+        "MAA2"
+      ]
+    }
+  },
+  {
+    "document_id": "doc_stop_qQJgvOFz",
+    "document_type": "stop_profile",
+    "title": "Bus Stop Profile: SHOLINGANALLUR KUMARAN NAGAR (Stop ID: qQJgvOFz)",
+    "source_file": "bus_stops.json",
+    "dataset_version": "v1.0.0-sholinganallur",
+    "document_hash": "59bb1e3861d07fad378bcc20e62093617c0b56b15e9e1bd642868431caf43f51",
+    "content_length_chars": 963,
+    "content_lines": 21,
+    "metadata": {
+      "document_type": "stop_profile",
+      "stop_id": "qQJgvOFz",
+      "stop_code": "qQJgvOFz",
+      "stop_name": "SHOLINGANALLUR KUMARAN NAGAR",
+      "map_eligible": true,
+      "has_coordinates": true,
+      "latitude": 12.87765,
+      "longitude": 80.22672,
+      "total_departures": 1295,
+      "connecting_route_count": 26,
+      "connecting_routes": [
+        "102",
+        "102A",
+        "102C",
+        "102CT",
+        "102M",
+        "102P",
+        "102X",
+        "119",
+        "119G",
+        "19",
+        "19A",
+        "19B",
+        "19BET",
+        "19D",
+        "221",
+        "519T",
+        "523",
+        "523A",
+        "552K",
+        "555G",
+        "555P",
+        "555S",
+        "570",
+        "570ET",
+        "570P",
+        "MAA2"
+      ]
+    }
+  },
+  {
+    "document_id": "doc_stop_qVPPKIYf",
+    "document_type": "stop_profile",
+    "title": "Bus Stop Profile: SHOLINGANALLUR NUCLUEUS COMPANY (Stop ID: qVPPKIYf)",
+    "source_file": "bus_stops.json",
+    "dataset_version": "v1.0.0-sholinganallur",
+    "document_hash": "3611149054b738ea87563f579b1f522fe492e408f61c4e29ff54929ce6d29c84",
+    "content_length_chars": 856,
+    "content_lines": 21,
+    "metadata": {
+      "document_type": "stop_profile",
+      "stop_id": "qVPPKIYf",
+      "stop_code": "qVPPKIYf",
+      "stop_name": "SHOLINGANALLUR NUCLUEUS COMPANY",
+      "map_eligible": true,
+      "has_coordinates": true,
+      "latitude": 12.87782,
+      "longitude": 80.21971,
+      "total_departures": 313,
+      "connecting_route_count": 7,
+      "connecting_routes": [
+        "102",
+        "102C",
+        "119",
+        "119G",
+        "19A",
+        "19D",
+        "570P"
+      ]
+    }
+  },
+  {
+    "document_id": "doc_stop_tTjpyeuP",
+    "document_type": "stop_profile",
+    "title": "Bus Stop Profile: SHOLINGANALLUR PONNIAMMAN TEMPLE (Stop ID: tTjpyeuP)",
+    "source_file": "bus_stops.json",
+    "dataset_version": "v1.0.0-sholinganallur",
+    "document_hash": "74265270a06f05c65c06ec52b14ee430a5c74417d8856e1e9aef4b9712778d9f",
+    "content_length_chars": 978,
+    "content_lines": 21,
+    "metadata": {
+      "document_type": "stop_profile",
+      "stop_id": "tTjpyeuP",
+      "stop_code": "tTjpyeuP",
+      "stop_name": "SHOLINGANALLUR PONNIAMMAN TEMPLE",
+      "map_eligible": true,
+      "has_coordinates": true,
+      "latitude": 12.88575,
+      "longitude": 80.22699,
+      "total_departures": 1210,
+      "connecting_route_count": 27,
+      "connecting_routes": [
+        "102",
+        "102A",
+        "102C",
+        "102CT",
+        "102M",
+        "102P",
+        "102PCT",
+        "102X",
+        "119",
+        "19",
+        "19A",
+        "19B",
+        "19BET",
+        "19D",
+        "221",
+        "519T",
+        "523",
+        "552K",
+        "555G",
+        "555P",
+        "555S",
+        "568B",
+        "570",
+        "570ET",
+        "570P",
+        "B19",
+        "MAA2"
+      ]
+    }
+  },
+  {
+    "document_id": "doc_stop_tcbhlVZo",
+    "document_type": "stop_profile",
+    "title": "Bus Stop Profile: SHOLINGANALLUR (Stop ID: tcbhlVZo)",
+    "source_file": "bus_stops.json",
+    "dataset_version": "v1.0.0-sholinganallur",
+    "document_hash": "891da9be4f3b4fbc33602fbab1af3ecc3b6f32c3385500c3baa3ced9e2b24357",
+    "content_length_chars": 811,
+    "content_lines": 21,
+    "metadata": {
+      "document_type": "stop_profile",
+      "stop_id": "tcbhlVZo",
+      "stop_code": "tcbhlVZo",
+      "stop_name": "SHOLINGANALLUR",
+      "map_eligible": true,
+      "has_coordinates": true,
+      "latitude": 12.89887,
+      "longitude": 80.22799,
+      "total_departures": 195,
+      "connecting_route_count": 5,
+      "connecting_routes": [
+        "555G",
+        "555S",
+        "99",
+        "B19",
+        "MAA2"
+      ]
+    }
+  },
+  {
+    "document_id": "doc_stop_wrFiwNtD",
+    "document_type": "stop_profile",
+    "title": "Bus Stop Profile: P U OFFICE SHOLINGANALLUR (Stop ID: wrFiwNtD)",
+    "source_file": "bus_stops.json",
+    "dataset_version": "v1.0.0-sholinganallur",
+    "document_hash": "0d82e8749df234a2008baaa64189d03f283233ac0081a43a39bd4f66f8046dc7",
+    "content_length_chars": 842,
+    "content_lines": 21,
+    "metadata": {
+      "document_type": "stop_profile",
+      "stop_id": "wrFiwNtD",
+      "stop_code": "wrFiwNtD",
+      "stop_name": "P U OFFICE SHOLINGANALLUR",
+      "map_eligible": true,
+      "has_coordinates": true,
+      "latitude": 12.90315,
+      "longitude": 80.2279,
+      "total_departures": 399,
+      "connecting_route_count": 7,
+      "connecting_routes": [
+        "19B",
+        "19BET",
+        "19D",
+        "555P",
+        "95",
+        "95X",
+        "M51"
+      ]
+    }
+  },
+  {
+    "document_id": "doc_route_102_37834f2f",
+    "document_type": "route_profile",
+    "title": "Route Profile: Route 102 (12 Service Variants)",
+    "source_file": "route_service_summary.json",
+    "dataset_version": "v1.0.0-sholinganallur",
+    "document_hash": "8f52ea85e62daf9fb7dcc22c422b2819f9748d64d1c1e6ddb848c25963d6ee03",
+    "content_length_chars": 3873,
+    "content_lines": 89,
+    "metadata": {
+      "document_id": "doc_route_102_37834f2f",
+      "document_type": "route_profile",
+      "route_number": "102",
+      "route_hash_suffix": "37834f2f",
+      "variant_count": 12,
+      "variant_route_ids": [
+        "10",
+        "13",
+        "1945",
+        "1946",
+        "1947",
+        "1948",
+        "3",
+        "333",
+        "337",
+        "7",
+        "8",
+        "9"
+      ],
+      "total_daily_trips": 227,
+      "total_area_departures": 975,
+      "earliest_departure_time": "00:16:00",
+      "latest_departure_time": "22:54:30",
+      "earliest_departure_seconds": 960,
+      "latest_departure_seconds": 82470,
+      "terminals": [
+        "ADYAR B.T",
+        "ADYAR DEPOT",
+        "BROADWAY",
+        "KANNAGI NAGAR TNUHDB",
+        "KELAMBAKKAM",
+        "KELAMBAKKAM B.T",
+        "M.G.R.CENTRAL",
+        "PERUMBAKKAM TNUHDB",
+        "Perumbakkam TNUHDB",
+        "SIRUSERI I.T PARK",
+        "SIRUSERI I.T.PARK",
+        "kelambakkam POLICE STATION"
+      ]
+    }
+  },
+  {
+    "document_id": "doc_route_102A_34722ae8",
+    "document_type": "route_profile",
+    "title": "Route Profile: Route 102A (2 Service Variants)",
+    "source_file": "route_service_summary.json",
+    "dataset_version": "v1.0.0-sholinganallur",
+    "document_hash": "e8cbbcc2e1c01b31c67a8865b6cdbcf19cb07c181fecfd3ff3fba615a2f2f06a",
+    "content_length_chars": 1434,
+    "content_lines": 29,
+    "metadata": {
+      "document_id": "doc_route_102A_34722ae8",
+      "document_type": "route_profile",
+      "route_number": "102A",
+      "route_hash_suffix": "34722ae8",
+      "variant_count": 2,
+      "variant_route_ids": [
+        "787",
+        "857"
+      ],
+      "total_daily_trips": 12,
+      "total_area_departures": 60,
+      "earliest_departure_time": "05:36:45",
+      "latest_departure_time": "20:57:30",
+      "earliest_departure_seconds": 20205,
+      "latest_departure_seconds": 75450,
+      "terminals": [
+        "PUDUPAKKAM OR VANDALOOR ROAD JUNCTION",
+        "THIRUVANMIYUR B.T"
+      ]
+    }
+  },
+  {
+    "document_id": "doc_route_102C_b8e2e5e4",
+    "document_type": "route_profile",
+    "title": "Route Profile: Route 102C (6 Service Variants)",
+    "source_file": "route_service_summary.json",
+    "dataset_version": "v1.0.0-sholinganallur",
+    "document_hash": "1f3540aac31f03bf3bde5024c6adaf157fd4f538e6fc9e8bdc0ee5914f8162d6",
+    "content_length_chars": 2346,
+    "content_lines": 53,
+    "metadata": {
+      "document_id": "doc_route_102C_b8e2e5e4",
+      "document_type": "route_profile",
+      "route_number": "102C",
+      "route_hash_suffix": "b8e2e5e4",
+      "variant_count": 6,
+      "variant_route_ids": [
+        "17",
+        "18",
+        "19",
+        "20",
+        "5648",
+        "5649"
+      ],
+      "total_daily_trips": 43,
+      "total_area_departures": 218,
+      "earliest_departure_time": "04:34:45",
+      "latest_departure_time": "20:55:45",
+      "earliest_departure_seconds": 16485,
+      "latest_departure_seconds": 75345,
+      "terminals": [
+        "BROADWAY",
+        "SANTHOME SCHOOL",
+        "SEMMANCHERI BUS STAND",
+        "SEMMANCHERI TNUHDB",
+        "TIDEL PARK"
+      ]
+    }
+  },
+  {
+    "document_id": "doc_route_102C_CD_4bf5e04e",
+    "document_type": "route_profile",
+    "title": "Route Profile: Route 102C CD (2 Service Variants)",
+    "source_file": "route_service_summary.json",
+    "dataset_version": "v1.0.0-sholinganallur",
+    "document_hash": "bab39e92534c78abfe587131a2d3a3c266ac948644a0f55d4984dcce8a394112",
+    "content_length_chars": 1327,
+    "content_lines": 29,
+    "metadata": {
+      "document_id": "doc_route_102C_CD_4bf5e04e",
+      "document_type": "route_profile",
+      "route_number": "102C CD",
+      "route_hash_suffix": "4bf5e04e",
+      "variant_count": 2,
+      "variant_route_ids": [
+        "4819",
+        "4820"
+      ],
+      "total_daily_trips": 10,
+      "total_area_departures": 10,
+      "earliest_departure_time": "05:01:45",
+      "latest_departure_time": "21:37:00",
+      "earliest_departure_seconds": 18105,
+      "latest_departure_seconds": 77820,
+      "terminals": [
+        "M.G.R.CENTRAL",
+        "SEMMANCHERI TNUHDB"
+      ]
+    }
+  },
+  {
+    "document_id": "doc_route_102CCT_41fb6448",
+    "document_type": "route_profile",
+    "title": "Route Profile: Route 102CCT (2 Service Variants)",
+    "source_file": "route_service_summary.json",
+    "dataset_version": "v1.0.0-sholinganallur",
+    "document_hash": "94c0173c1697b988a2e88c634f97380cd78803c11eb65e118cfcf44a3f6ee0b6",
+    "content_length_chars": 1328,
+    "content_lines": 29,
+    "metadata": {
+      "document_id": "doc_route_102CCT_41fb6448",
+      "document_type": "route_profile",
+      "route_number": "102CCT",
+      "route_hash_suffix": "41fb6448",
+      "variant_count": 2,
+      "variant_route_ids": [
+        "5824",
+        "5825"
+      ],
+      "total_daily_trips": 2,
+      "total_area_departures": 2,
+      "earliest_departure_time": "07:52:00",
+      "latest_departure_time": "16:06:30",
+      "earliest_departure_seconds": 28320,
+      "latest_departure_seconds": 57990,
+      "terminals": [
+        "SEMMANCHERI TNUHDB",
+        "YMCA HR.SCHOOL"
+      ]
+    }
+  },
+  {
+    "document_id": "doc_route_102CT_7bdd93c4",
+    "document_type": "route_profile",
+    "title": "Route Profile: Route 102CT (17 Service Variants)",
+    "source_file": "route_service_summary.json",
+    "dataset_version": "v1.0.0-sholinganallur",
+    "document_hash": "44bf10eac47895a6fcb5caad643296b9300fddabbd3cac3eb05eeb3fbd3308ce",
+    "content_length_chars": 5192,
+    "content_lines": 119,
+    "metadata": {
+      "document_id": "doc_route_102CT_7bdd93c4",
+      "document_type": "route_profile",
+      "route_number": "102CT",
+      "route_hash_suffix": "7bdd93c4",
+      "variant_count": 17,
+      "variant_route_ids": [
+        "1964",
+        "339",
+        "340",
+        "343",
+        "346",
+        "348",
+        "350",
+        "351",
+        "352",
+        "355",
+        "356",
+        "357",
+        "4920",
+        "4921",
+        "5643",
+        "789",
+        "859"
+      ],
+      "total_daily_trips": 219,
+      "total_area_departures": 823,
+      "earliest_departure_time": "04:58:45",
+      "latest_departure_time": "22:21:45",
+      "earliest_departure_seconds": 17925,
+      "latest_departure_seconds": 80505,
+      "terminals": [
+        "ADYAR B.T",
+        "BROADWAY",
+        "KANNAGI NAGAR TNUHDB",
+        "KELAMBAKKAM",
+        "PERUMBAKKAM TNUHDB",
+        "SHOLINGANALLUR",
+        "SIRUSERI I.T PARK",
+        "SIRUSERI I.T.PARK",
+        "THAIYUR KOMAN NAGAR",
+        "THIRUVANMIYUR",
+        "THIRUVANMIYUR B.T",
+        "TIDEL PARK",
+        "WELLINGTON SCHOOL-V.HOUSE"
+      ]
+    }
+  },
+  {
+    "document_id": "doc_route_102E_018917ed",
+    "document_type": "route_profile",
+    "title": "Route Profile: Route 102E (2 Service Variants)",
+    "source_file": "route_service_summary.json",
+    "dataset_version": "v1.0.0-sholinganallur",
+    "document_hash": "f54c64b5cfc23038e9ad0fe38f00dce9696d547b3201fe7631eaf425823f942d",
+    "content_length_chars": 1320,
+    "content_lines": 29,
+    "metadata": {
+      "document_id": "doc_route_102E_018917ed",
+      "document_type": "route_profile",
+      "route_number": "102E",
+      "route_hash_suffix": "018917ed",
+      "variant_count": 2,
+      "variant_route_ids": [
+        "5915",
+        "5916"
+      ],
+      "total_daily_trips": 90,
+      "total_area_departures": 90,
+      "earliest_departure_time": "05:38:45",
+      "latest_departure_time": "20:51:30",
+      "earliest_departure_seconds": 20325,
+      "latest_departure_seconds": 75090,
+      "terminals": [
+        "SIRUSERI I.T PARK",
+        "THIRUVANMIYUR"
+      ]
+    }
+  },
+  {
+    "document_id": "doc_route_102K_8bd479ca",
+    "document_type": "route_profile",
+    "title": "Route Profile: Route 102K (1 Service Variants)",
+    "source_file": "route_service_summary.json",
+    "dataset_version": "v1.0.0-sholinganallur",
+    "document_hash": "6a8d091f0cc6d17fab7b3ddc50508810a7d04a2d0d66839c663ed94f5f059661",
+    "content_length_chars": 1052,
+    "content_lines": 23,
+    "metadata": {
+      "document_id": "doc_route_102K_8bd479ca",
+      "document_type": "route_profile",
+      "route_number": "102K",
+      "route_hash_suffix": "8bd479ca",
+      "variant_count": 1,
+      "variant_route_ids": [
+        "794"
+      ],
+      "total_daily_trips": 2,
+      "total_area_departures": 2,
+      "earliest_departure_time": "15:31:30",
+      "latest_departure_time": "16:31:30",
+      "earliest_departure_seconds": 55890,
+      "latest_departure_seconds": 59490,
+      "terminals": [
+        "BROADWAY",
+        "PERUMBAKKAM TNUHDB"
+      ]
+    }
+  },
+  {
+    "document_id": "doc_route_102M_fb7e4612",
+    "document_type": "route_profile",
+    "title": "Route Profile: Route 102M (2 Service Variants)",
+    "source_file": "route_service_summary.json",
+    "dataset_version": "v1.0.0-sholinganallur",
+    "document_hash": "caf327558ee0d5da96403fc0f44e5995839d727bc014ba23af24a306496d2aab",
+    "content_length_chars": 1322,
+    "content_lines": 29,
+    "metadata": {
+      "document_id": "doc_route_102M_fb7e4612",
+      "document_type": "route_profile",
+      "route_number": "102M",
+      "route_hash_suffix": "fb7e4612",
+      "variant_count": 2,
+      "variant_route_ids": [
+        "360",
+        "361"
+      ],
+      "total_daily_trips": 24,
+      "total_area_departures": 120,
+      "earliest_departure_time": "06:06:15",
+      "latest_departure_time": "21:54:30",
+      "earliest_departure_seconds": 21975,
+      "latest_departure_seconds": 78870,
+      "terminals": [
+        "ADYAR B.T",
+        "MANAMATHI ACHARAVAKKAM"
+      ]
+    }
+  },
+  {
+    "document_id": "doc_route_102P_a8774f31",
+    "document_type": "route_profile",
+    "title": "Route Profile: Route 102P (14 Service Variants)",
+    "source_file": "route_service_summary.json",
+    "dataset_version": "v1.0.0-sholinganallur",
+    "document_hash": "525ca1144187cc440c8a20d33ec7ed6de096cb9cfc518405849853e7e5e7cb03",
+    "content_length_chars": 4486,
+    "content_lines": 101,
+    "metadata": {
+      "document_id": "doc_route_102P_a8774f31",
+      "document_type": "route_profile",
+      "route_number": "102P",
+      "route_hash_suffix": "a8774f31",
+      "variant_count": 14,
+      "variant_route_ids": [
+        "1955",
+        "1956",
+        "1957",
+        "366",
+        "368",
+        "37",
+        "371",
+        "38",
+        "42",
+        "43",
+        "44",
+        "5581",
+        "5726",
+        "5767"
+      ],
+      "total_daily_trips": 326,
+      "total_area_departures": 1776,
+      "earliest_departure_time": "04:04:45",
+      "latest_departure_time": "24:10:45",
+      "earliest_departure_seconds": 14685,
+      "latest_departure_seconds": 87045,
+      "terminals": [
+        "ADYAR B.T",
+        "ADYAR GATE",
+        "BROADWAY",
+        "GREAMS ROAD",
+        "KANNAGI NAGAR TNUHDB",
+        "PERUMBAKKAM COLLEGE",
+        "PERUMBAKKAM TNUHDB",
+        "Perumbakkam TNUHDB",
+        "SANTHOME SCHOOL",
+        "SHOLINGANALLUR",
+        "THIRUVANMIYUR",
+        "WELLINGTON SCHOOL-V.HOUSE"
+      ]
+    }
+  },
+  {
+    "document_id": "doc_route_102P_CD_24f46c1a",
+    "document_type": "route_profile",
+    "title": "Route Profile: Route 102P CD (2 Service Variants)",
+    "source_file": "route_service_summary.json",
+    "dataset_version": "v1.0.0-sholinganallur",
+    "document_hash": "ec67c69361eefc6b4dd34bb8c82505260932e0a54d39fac77de803465936d317",
+    "content_length_chars": 1325,
+    "content_lines": 29,
+    "metadata": {
+      "document_id": "doc_route_102P_CD_24f46c1a",
+      "document_type": "route_profile",
+      "route_number": "102P CD",
+      "route_hash_suffix": "24f46c1a",
+      "variant_count": 2,
+      "variant_route_ids": [
+        "4823",
+        "4824"
+      ],
+      "total_daily_trips": 6,
+      "total_area_departures": 6,
+      "earliest_departure_time": "06:01:45",
+      "latest_departure_time": "20:17:00",
+      "earliest_departure_seconds": 21705,
+      "latest_departure_seconds": 73020,
+      "terminals": [
+        "M.G.R.CENTRAL",
+        "PERUMBAKKAM TNUHDB"
+      ]
+    }
+  },
+  {
+    "document_id": "doc_route_102PCT_d1798435",
+    "document_type": "route_profile",
+    "title": "Route Profile: Route 102PCT (9 Service Variants)",
+    "source_file": "route_service_summary.json",
+    "dataset_version": "v1.0.0-sholinganallur",
+    "document_hash": "31914e0456b8f91086fd42af02a05e9c0bfed9464d0c45fa198c7e7278677d29",
+    "content_length_chars": 3178,
+    "content_lines": 71,
+    "metadata": {
+      "document_id": "doc_route_102PCT_d1798435",
+      "document_type": "route_profile",
+      "route_number": "102PCT",
+      "route_hash_suffix": "d1798435",
+      "variant_count": 9,
+      "variant_route_ids": [
+        "1954",
+        "1958",
+        "4680",
+        "4765",
+        "5772",
+        "793",
+        "798",
+        "862",
+        "864"
+      ],
+      "total_daily_trips": 87,
+      "total_area_departures": 187,
+      "earliest_departure_time": "04:37:00",
+      "latest_departure_time": "23:32:00",
+      "earliest_departure_seconds": 16620,
+      "latest_departure_seconds": 84720,
+      "terminals": [
+        "ADYAR B.T",
+        "ADYAR DEPOT",
+        "BROADWAY",
+        "PERUMBAKKAM TNUHDB",
+        "Perumbakkam TNUHDB",
+        "SHOLINGANALLUR",
+        "THIRUVANMIYUR",
+        "THIRUVANMIYUR B.T",
+        "WELLINGTON SCHOOL-V.HOUSE"
+      ]
+    }
+  },
+  {
+    "document_id": "doc_route_102S_6daea2bd",
+    "document_type": "route_profile",
+    "title": "Route Profile: Route 102S (2 Service Variants)",
+    "source_file": "route_service_summary.json",
+    "dataset_version": "v1.0.0-sholinganallur",
+    "document_hash": "b25319a3f7e30c0fec03e85941027e50c0d8c286a2b3f179533d5e0dd1194300",
+    "content_length_chars": 1259,
+    "content_lines": 29,
+    "metadata": {
+      "document_id": "doc_route_102S_6daea2bd",
+      "document_type": "route_profile",
+      "route_number": "102S",
+      "route_hash_suffix": "6daea2bd",
+      "variant_count": 2,
+      "variant_route_ids": [
+        "1960",
+        "1961"
+      ],
+      "total_daily_trips": 5,
+      "total_area_departures": 5,
+      "earliest_departure_time": "10:26:30",
+      "latest_departure_time": "20:49:30",
+      "earliest_departure_seconds": 37590,
+      "latest_departure_seconds": 74970,
+      "terminals": [
+        "BROADWAY",
+        "KELAMBAKKAM"
+      ]
+    }
+  },
+  {
+    "document_id": "doc_route_102X_19066bd4",
+    "document_type": "route_profile",
+    "title": "Route Profile: Route 102X (9 Service Variants)",
+    "source_file": "route_service_summary.json",
+    "dataset_version": "v1.0.0-sholinganallur",
+    "document_hash": "8f1304947fab3d3d6f02c3f4944a7e2f8d3aaaf207bb12beccb03b45456f8758",
+    "content_length_chars": 3171,
+    "content_lines": 71,
+    "metadata": {
+      "document_id": "doc_route_102X_19066bd4",
+      "document_type": "route_profile",
+      "route_number": "102X",
+      "route_hash_suffix": "19066bd4",
+      "variant_count": 9,
+      "variant_route_ids": [
+        "1884",
+        "1885",
+        "1965",
+        "1970",
+        "45",
+        "46",
+        "49",
+        "50",
+        "5464"
+      ],
+      "total_daily_trips": 148,
+      "total_area_departures": 688,
+      "earliest_departure_time": "04:23:45",
+      "latest_departure_time": "24:22:45",
+      "earliest_departure_seconds": 15825,
+      "latest_departure_seconds": 87765,
+      "terminals": [
+        "ADYAR DEPOT",
+        "BROADWAY",
+        "KCBT - KILAMBAKKAM",
+        "KELAMBAKKAM",
+        "M.G.R.CENTRAL",
+        "M.G.R.CENTRAL R.S",
+        "PERUMBAKKAM TNUHDB",
+        "THIRUPORUR",
+        "THIRUPORUR BUS STAND",
+        "THIRUVANMIYUR B.T"
+      ]
+    }
+  },
+  {
+    "document_id": "doc_route_102X_CD_f900c3e3",
+    "document_type": "route_profile",
+    "title": "Route Profile: Route 102X CD (2 Service Variants)",
+    "source_file": "route_service_summary.json",
+    "dataset_version": "v1.0.0-sholinganallur",
+    "document_hash": "a2bf41eac966569736fef76fc25193a018287ef9ee29e441521f2af590f5698e",
+    "content_length_chars": 1285,
+    "content_lines": 29,
+    "metadata": {
+      "document_id": "doc_route_102X_CD_f900c3e3",
+      "document_type": "route_profile",
+      "route_number": "102X CD",
+      "route_hash_suffix": "f900c3e3",
+      "variant_count": 2,
+      "variant_route_ids": [
+        "4825",
+        "4826"
+      ],
+      "total_daily_trips": 8,
+      "total_area_departures": 8,
+      "earliest_departure_time": "05:01:45",
+      "latest_departure_time": "21:30:00",
+      "earliest_departure_seconds": 18105,
+      "latest_departure_seconds": 77400,
+      "terminals": [
+        "M.G.R.CENTRAL",
+        "THIRUPORUR"
+      ]
+    }
+  },
+  {
+    "document_id": "doc_route_102x_0bda064f",
+    "document_type": "route_profile",
+    "title": "Route Profile: Route 102x (1 Service Variants)",
+    "source_file": "route_service_summary.json",
+    "dataset_version": "v1.0.0-sholinganallur",
+    "document_hash": "d67a38de7f02b8c5e44df8404b8edfc126218ccc2fd51b6a53ba7403b4091bea",
+    "content_length_chars": 1040,
+    "content_lines": 23,
+    "metadata": {
+      "document_id": "doc_route_102x_0bda064f",
+      "document_type": "route_profile",
+      "route_number": "102x",
+      "route_hash_suffix": "0bda064f",
+      "variant_count": 1,
+      "variant_route_ids": [
+        "5465"
+      ],
+      "total_daily_trips": 4,
+      "total_area_departures": 4,
+      "earliest_departure_time": "19:35:00",
+      "latest_departure_time": "22:50:00",
+      "earliest_departure_seconds": 70500,
+      "latest_departure_seconds": 82200,
+      "terminals": [
+        "ADYAR DEPOT",
+        "THIRUPORUR"
+      ]
+    }
+  },
+  {
+    "document_id": "doc_route_119_3038bfb5",
+    "document_type": "route_profile",
+    "title": "Route Profile: Route 119 (10 Service Variants)",
+    "source_file": "route_service_summary.json",
+    "dataset_version": "v1.0.0-sholinganallur",
+    "document_hash": "20bb009d4c07dfe2ee4b51fcd77c235f7872ac8426fbd4a54afab6ce35c5b875",
+    "content_length_chars": 3368,
+    "content_lines": 77,
+    "metadata": {
+      "document_id": "doc_route_119_3038bfb5",
+      "document_type": "route_profile",
+      "route_number": "119",
+      "route_hash_suffix": "3038bfb5",
+      "variant_count": 10,
+      "variant_route_ids": [
+        "1033",
+        "1034",
+        "1035",
+        "1299",
+        "2154",
+        "2155",
+        "384",
+        "385",
+        "386",
+        "387"
+      ],
+      "total_daily_trips": 276,
+      "total_area_departures": 1526,
+      "earliest_departure_time": "04:24:45",
+      "latest_departure_time": "22:45:00",
+      "earliest_departure_seconds": 15885,
+      "latest_departure_seconds": 81900,
+      "terminals": [
+        "ADYAR B.T",
+        "ADYAR DEPOT",
+        "CEMENT ROAD",
+        "GUINDY B.T",
+        "K.K.NAGAR",
+        "SEMMANCHERI BUS STAND",
+        "SEMMANCHERI TNUHDB",
+        "VELACHERY"
+      ]
+    }
+  },
+  {
+    "document_id": "doc_route_119G_f1e115d1",
+    "document_type": "route_profile",
+    "title": "Route Profile: Route 119G (4 Service Variants)",
+    "source_file": "route_service_summary.json",
+    "dataset_version": "v1.0.0-sholinganallur",
+    "document_hash": "6a8120fe333449e1435ef7fa0fc518b7a741773aee90c15f6f13654cda9f278b",
+    "content_length_chars": 1854,
+    "content_lines": 41,
+    "metadata": {
+      "document_id": "doc_route_119G_f1e115d1",
+      "document_type": "route_profile",
+      "route_number": "119G",
+      "route_hash_suffix": "f1e115d1",
+      "variant_count": 4,
+      "variant_route_ids": [
+        "2156",
+        "2157",
+        "2158",
+        "2159"
+      ],
+      "total_daily_trips": 236,
+      "total_area_departures": 1163,
+      "earliest_departure_time": "04:34:45",
+      "latest_departure_time": "23:25:00",
+      "earliest_departure_seconds": 16485,
+      "latest_departure_seconds": 84300,
+      "terminals": [
+        "GUINDY B.T",
+        "PERUMBAKKAM TNUHDB",
+        "Perumbakkam TNUHDB",
+        "VELACHERY B.T"
+      ]
+    }
+  },
+  {
+    "document_id": "doc_route_19_9400f1b2",
+    "document_type": "route_profile",
+    "title": "Route Profile: Route 19 (14 Service Variants)",
+    "source_file": "route_service_summary.json",
+    "dataset_version": "v1.0.0-sholinganallur",
+    "document_hash": "36c71e7dd03ed37897a9265f43ca02b8f887d91effbf522142fc592aa08567a1",
+    "content_length_chars": 4491,
+    "content_lines": 101,
+    "metadata": {
+      "document_id": "doc_route_19_9400f1b2",
+      "document_type": "route_profile",
+      "route_number": "19",
+      "route_hash_suffix": "9400f1b2",
+      "variant_count": 14,
+      "variant_route_ids": [
+        "2527",
+        "2528",
+        "2533",
+        "2534",
+        "409",
+        "412",
+        "413",
+        "414",
+        "415",
+        "417",
+        "418",
+        "419",
+        "421",
+        "422"
+      ],
+      "total_daily_trips": 293,
+      "total_area_departures": 1257,
+      "earliest_departure_time": "00:46:15",
+      "latest_departure_time": "23:17:00",
+      "earliest_departure_seconds": 2775,
+      "latest_departure_seconds": 83820,
+      "terminals": [
+        "ADYAR DEPOT",
+        "KANNAGI NAGAR TNUHDB",
+        "KELAMBAKKAM",
+        "M.G.R.KOYAMBEDU",
+        "M.G.R.KOYAMBEDU B.T",
+        "PERUMBAKKAM TNUHDB",
+        "THIRUPORUR",
+        "THIRUPORUR BUS STAND",
+        "THYAGARAYA NAGAR",
+        "THYAGARAYA NAGAR BUS TERMINUS"
+      ]
+    }
+  },
+  {
+    "document_id": "doc_route_19A_69a56467",
+    "document_type": "route_profile",
+    "title": "Route Profile: Route 19A (5 Service Variants)",
+    "source_file": "route_service_summary.json",
+    "dataset_version": "v1.0.0-sholinganallur",
+    "document_hash": "3a0a39204c5f57ca5c824cfa51abf409be13cf790ea735f91088f958292ab910",
+    "content_length_chars": 2237,
+    "content_lines": 47,
+    "metadata": {
+      "document_id": "doc_route_19A_69a56467",
+      "document_type": "route_profile",
+      "route_number": "19A",
+      "route_hash_suffix": "69a56467",
+      "variant_count": 5,
+      "variant_route_ids": [
+        "2535",
+        "2536",
+        "5640",
+        "5641",
+        "5765"
+      ],
+      "total_daily_trips": 90,
+      "total_area_departures": 510,
+      "earliest_departure_time": "04:34:45",
+      "latest_departure_time": "23:00:30",
+      "earliest_departure_seconds": 16485,
+      "latest_departure_seconds": 82830,
+      "terminals": [
+        "ADYAR DEPOT",
+        "PERUMBAKKAM TNUHDB",
+        "SEMMANCHERI BUS STAND",
+        "SEMMANCHERI TNUHDB",
+        "THYAGARAYA NAGAR",
+        "THYAGARAYA NAGAR BUS TERMINUS"
+      ]
+    }
+  },
+  {
+    "document_id": "doc_route_19AX_235a0219",
+    "document_type": "route_profile",
+    "title": "Route Profile: Route 19AX (2 Service Variants)",
+    "source_file": "route_service_summary.json",
+    "dataset_version": "v1.0.0-sholinganallur",
+    "document_hash": "11f43275802c1b59931ad2c41deb09a938f28af619503bc6c4655f525fe52272",
+    "content_length_chars": 1342,
+    "content_lines": 29,
+    "metadata": {
+      "document_id": "doc_route_19AX_235a0219",
+      "document_type": "route_profile",
+      "route_number": "19AX",
+      "route_hash_suffix": "235a0219",
+      "variant_count": 2,
+      "variant_route_ids": [
+        "5919",
+        "5920"
+      ],
+      "total_daily_trips": 105,
+      "total_area_departures": 105,
+      "earliest_departure_time": "04:07:00",
+      "latest_departure_time": "22:05:30",
+      "earliest_departure_seconds": 14820,
+      "latest_departure_seconds": 79530,
+      "terminals": [
+        "PERUMBAKKAM TNUHDB",
+        "THYAGARAYA NAGAR"
+      ]
+    }
+  },
+  {
+    "document_id": "doc_route_19B_f6a6a85b",
+    "document_type": "route_profile",
+    "title": "Route Profile: Route 19B (4 Service Variants)",
+    "source_file": "route_service_summary.json",
+    "dataset_version": "v1.0.0-sholinganallur",
+    "document_hash": "f1af1cc0359b331105b57a4c3d8624543be15c78b67feccc1e8aa0ddcc129c90",
+    "content_length_chars": 1855,
+    "content_lines": 41,
+    "metadata": {
+      "document_id": "doc_route_19B_f6a6a85b",
+      "document_type": "route_profile",
+      "route_number": "19B",
+      "route_hash_suffix": "f6a6a85b",
+      "variant_count": 4,
+      "variant_route_ids": [
+        "1749",
+        "1750",
+        "1753",
+        "1754"
+      ],
+      "total_daily_trips": 48,
+      "total_area_departures": 192,
+      "earliest_departure_time": "06:12:30",
+      "latest_departure_time": "22:18:00",
+      "earliest_departure_seconds": 22350,
+      "latest_departure_seconds": 80280,
+      "terminals": [
+        "KELAMBAKKAM B.T",
+        "SAIDAPET",
+        "SAIDAPET METRO",
+        "SIRUSERI I.T PARK",
+        "kelambakkam POLICE STATION"
+      ]
+    }
+  },
+  {
+    "document_id": "doc_route_19BET_3fa73211",
+    "document_type": "route_profile",
+    "title": "Route Profile: Route 19BET (8 Service Variants)",
+    "source_file": "route_service_summary.json",
+    "dataset_version": "v1.0.0-sholinganallur",
+    "document_hash": "5b070a0b7bd35bbaf9b6e8c3be694b0e03f400f0b9036ee15c988b04bc4e235d",
+    "content_length_chars": 3002,
+    "content_lines": 65,
+    "metadata": {
+      "document_id": "doc_route_19BET_3fa73211",
+      "document_type": "route_profile",
+      "route_number": "19BET",
+      "route_hash_suffix": "3fa73211",
+      "variant_count": 8,
+      "variant_route_ids": [
+        "2538",
+        "2539",
+        "2540",
+        "2541",
+        "2543",
+        "2544",
+        "2545",
+        "2546"
+      ],
+      "total_daily_trips": 14,
+      "total_area_departures": 38,
+      "earliest_departure_time": "05:27:00",
+      "latest_departure_time": "21:51:00",
+      "earliest_departure_seconds": 19620,
+      "latest_departure_seconds": 78660,
+      "terminals": [
+        "KELAMBAKKAM",
+        "PERUMBAKKAM TNUHDB",
+        "SAIDAPET",
+        "THAIYUR KOMAN NAGAR",
+        "THAIYUR KOMAN NAGAR ROAD JUNCTION",
+        "THYAGARAYA NAGAR",
+        "THYAGARAYA NAGAR BURKIT ROAD",
+        "THYAGARAYA NAGAR BUS TERMINUS"
+      ]
+    }
+  },
+  {
+    "document_id": "doc_route_19D_6fd206a0",
+    "document_type": "route_profile",
+    "title": "Route Profile: Route 19D (10 Service Variants)",
+    "source_file": "route_service_summary.json",
+    "dataset_version": "v1.0.0-sholinganallur",
+    "document_hash": "9d7680fb2424e43746127faaeb90892d750e7bf13bab0a2132397362029841b7",
+    "content_length_chars": 3343,
+    "content_lines": 77,
+    "metadata": {
+      "document_id": "doc_route_19D_6fd206a0",
+      "document_type": "route_profile",
+      "route_number": "19D",
+      "route_hash_suffix": "6fd206a0",
+      "variant_count": 10,
+      "variant_route_ids": [
+        "2549",
+        "2550",
+        "2556",
+        "2557",
+        "432",
+        "433",
+        "434",
+        "436",
+        "437",
+        "438"
+      ],
+      "total_daily_trips": 22,
+      "total_area_departures": 82,
+      "earliest_departure_time": "05:41:15",
+      "latest_departure_time": "21:53:15",
+      "earliest_departure_seconds": 20475,
+      "latest_departure_seconds": 78795,
+      "terminals": [
+        "ADYAR B.T",
+        "ADYAR GATE",
+        "BESANT NAGAR",
+        "MANDAVELI",
+        "PERUMBAKKAM TNUHDB",
+        "SEMMANCHERI BUS STAND",
+        "SEMMANCHERI TNUHDB"
+      ]
+    }
+  },
+  {
+    "document_id": "doc_route_19D_PAD_2714f18a",
+    "document_type": "route_profile",
+    "title": "Route Profile: Route 19D PAD (2 Service Variants)",
+    "source_file": "route_service_summary.json",
+    "dataset_version": "v1.0.0-sholinganallur",
+    "document_hash": "eae6e17b010a364d351f3e254a4634c408fb1d5dcaf0c8035a61bb8173feb258",
+    "content_length_chars": 1310,
+    "content_lines": 29,
+    "metadata": {
+      "document_id": "doc_route_19D_PAD_2714f18a",
+      "document_type": "route_profile",
+      "route_number": "19D PAD",
+      "route_hash_suffix": "2714f18a",
+      "variant_count": 2,
+      "variant_route_ids": [
+        "4870",
+        "4871"
+      ],
+      "total_daily_trips": 2,
+      "total_area_departures": 2,
+      "earliest_departure_time": "09:40:30",
+      "latest_departure_time": "14:27:00",
+      "earliest_departure_seconds": 34830,
+      "latest_departure_seconds": 52020,
+      "terminals": [
+        "ADYAR GATE",
+        "PERUMBAKKAM TNUHDB"
+      ]
+    }
+  },
+  {
+    "document_id": "doc_route_19PCT_8f531671",
+    "document_type": "route_profile",
+    "title": "Route Profile: Route 19PCT (2 Service Variants)",
+    "source_file": "route_service_summary.json",
+    "dataset_version": "v1.0.0-sholinganallur",
+    "document_hash": "bfbc1da9837964ffd0bc7037c32a92351f64bec5c5faf1e1e4a8b1471ee7aed0",
+    "content_length_chars": 1286,
+    "content_lines": 29,
+    "metadata": {
+      "document_id": "doc_route_19PCT_8f531671",
+      "document_type": "route_profile",
+      "route_number": "19PCT",
+      "route_hash_suffix": "8f531671",
+      "variant_count": 2,
+      "variant_route_ids": [
+        "4856",
+        "4857"
+      ],
+      "total_daily_trips": 2,
+      "total_area_departures": 2,
+      "earliest_departure_time": "07:13:45",
+      "latest_departure_time": "17:02:45",
+      "earliest_departure_seconds": 26025,
+      "latest_departure_seconds": 61365,
+      "terminals": [
+        "KELAMBAKKAM",
+        "THIRUVANMIYUR"
+      ]
+    }
+  },
+  {
+    "document_id": "doc_route_221_67e9c3ac",
+    "document_type": "route_profile",
+    "title": "Route Profile: Route 221 (4 Service Variants)",
+    "source_file": "route_service_summary.json",
+    "dataset_version": "v1.0.0-sholinganallur",
+    "document_hash": "e6301cde38bc59061f6afa08eb72ef57d01834a7d410544cba604c93139fe806",
+    "content_length_chars": 1982,
+    "content_lines": 41,
+    "metadata": {
+      "document_id": "doc_route_221_67e9c3ac",
+      "document_type": "route_profile",
+      "route_number": "221",
+      "route_hash_suffix": "67e9c3ac",
+      "variant_count": 4,
+      "variant_route_ids": [
+        "127",
+        "128",
+        "129",
+        "130"
+      ],
+      "total_daily_trips": 14,
+      "total_area_departures": 42,
+      "earliest_departure_time": "03:56:00",
+      "latest_departure_time": "22:38:00",
+      "earliest_departure_seconds": 14160,
+      "latest_departure_seconds": 81480,
+      "terminals": [
+        "KELAMBAKKAM",
+        "M.G.R.CENTRAL",
+        "M.G.R.CENTRAL OR RAJIV GANDHI GOVERNMENT GENERAL HOSPITAL",
+        "M.G.R.CENTRAL R.S",
+        "THIRUPORUR BUS STAND"
+      ]
+    }
+  },
+  {
+    "document_id": "doc_route_221CT_3e867ea2",
+    "document_type": "route_profile",
+    "title": "Route Profile: Route 221CT (4 Service Variants)",
+    "source_file": "route_service_summary.json",
+    "dataset_version": "v1.0.0-sholinganallur",
+    "document_hash": "d46a8c95bc6c19850ee0ee9ffbef102fd256702f5e668d2725f17e22d7142423",
+    "content_length_chars": 1801,
+    "content_lines": 41,
+    "metadata": {
+      "document_id": "doc_route_221CT_3e867ea2",
+      "document_type": "route_profile",
+      "route_number": "221CT",
+      "route_hash_suffix": "3e867ea2",
+      "variant_count": 4,
+      "variant_route_ids": [
+        "2616",
+        "2617",
+        "2618",
+        "2619"
+      ],
+      "total_daily_trips": 29,
+      "total_area_departures": 29,
+      "earliest_departure_time": "04:47:00",
+      "latest_departure_time": "22:31:45",
+      "earliest_departure_seconds": 17220,
+      "latest_departure_seconds": 81105,
+      "terminals": [
+        "BROADWAY",
+        "GREAMS ROAD",
+        "PERUMBAKKAM TNUHDB"
+      ]
+    }
+  },
+  {
+    "document_id": "doc_route_23C_0932433f",
+    "document_type": "route_profile",
+    "title": "Route Profile: Route 23C (4 Service Variants)",
+    "source_file": "route_service_summary.json",
+    "dataset_version": "v1.0.0-sholinganallur",
+    "document_hash": "c21c647ab83a2403cc5fc7677a36c9c85f15d2fc85bdd6d8e6aa3a7ce38f8eee",
+    "content_length_chars": 1844,
+    "content_lines": 41,
+    "metadata": {
+      "document_id": "doc_route_23C_0932433f",
+      "document_type": "route_profile",
+      "route_number": "23C",
+      "route_hash_suffix": "0932433f",
+      "variant_count": 4,
+      "variant_route_ids": [
+        "447",
+        "454",
+        "455",
+        "456"
+      ],
+      "total_daily_trips": 4,
+      "total_area_departures": 4,
+      "earliest_departure_time": "06:11:15",
+      "latest_departure_time": "17:37:00",
+      "earliest_departure_seconds": 22275,
+      "latest_departure_seconds": 63420,
+      "terminals": [
+        "AYANAVARAM B.T",
+        "MOUNT ROAD T.V.S",
+        "PERUMBAKKAM TNUHDB"
+      ]
+    }
+  },
+  {
+    "document_id": "doc_route_519T_9b51f6cc",
+    "document_type": "route_profile",
+    "title": "Route Profile: Route 519T (2 Service Variants)",
+    "source_file": "route_service_summary.json",
+    "dataset_version": "v1.0.0-sholinganallur",
+    "document_hash": "9cf62b4981b28e18abd8f84ee61ee17a9d9b3f5bc6985d59a37ec111aa5d3918",
+    "content_length_chars": 1374,
+    "content_lines": 29,
+    "metadata": {
+      "document_id": "doc_route_519T_9b51f6cc",
+      "document_type": "route_profile",
+      "route_number": "519T",
+      "route_hash_suffix": "9b51f6cc",
+      "variant_count": 2,
+      "variant_route_ids": [
+        "495",
+        "496"
+      ],
+      "total_daily_trips": 10,
+      "total_area_departures": 50,
+      "earliest_departure_time": "05:49:00",
+      "latest_departure_time": "20:24:15",
+      "earliest_departure_seconds": 20940,
+      "latest_departure_seconds": 73455,
+      "terminals": [
+        "ADYAR B.T",
+        "THAIYUR KOMAN NAGAR ROAD JUNCTION"
+      ]
+    }
+  },
+  {
+    "document_id": "doc_route_523_a1e8154b",
+    "document_type": "route_profile",
+    "title": "Route Profile: Route 523 (6 Service Variants)",
+    "source_file": "route_service_summary.json",
+    "dataset_version": "v1.0.0-sholinganallur",
+    "document_hash": "a5b655ef06cdcb79fa18dc3a83337e1209223f1fc0d0fd7d54934b95c817e8a0",
+    "content_length_chars": 2396,
+    "content_lines": 53,
+    "metadata": {
+      "document_id": "doc_route_523_a1e8154b",
+      "document_type": "route_profile",
+      "route_number": "523",
+      "route_hash_suffix": "a1e8154b",
+      "variant_count": 6,
+      "variant_route_ids": [
+        "803",
+        "805",
+        "806",
+        "896",
+        "898",
+        "900"
+      ],
+      "total_daily_trips": 18,
+      "total_area_departures": 36,
+      "earliest_departure_time": "06:38:45",
+      "latest_departure_time": "21:39:45",
+      "earliest_departure_seconds": 23925,
+      "latest_departure_seconds": 77985,
+      "terminals": [
+        "MULLIPAKKAM",
+        "P U OFFICE SHOLINGANALLUR",
+        "PERUNTHANDALAM",
+        "SHOLINGANALLUR P.U.OFFICE",
+        "THIRUVANMIYUR"
+      ]
+    }
+  },
+  {
+    "document_id": "doc_route_523A_0b516ab4",
+    "document_type": "route_profile",
+    "title": "Route Profile: Route 523A (4 Service Variants)",
+    "source_file": "route_service_summary.json",
+    "dataset_version": "v1.0.0-sholinganallur",
+    "document_hash": "49381637999f310a939eb86e2f2734db4c47a9c04fdb3edcb70642eca05d30bb",
+    "content_length_chars": 1948,
+    "content_lines": 41,
+    "metadata": {
+      "document_id": "doc_route_523A_0b516ab4",
+      "document_type": "route_profile",
+      "route_number": "523A",
+      "route_hash_suffix": "0b516ab4",
+      "variant_count": 4,
+      "variant_route_ids": [
+        "809",
+        "810",
+        "904",
+        "905"
+      ],
+      "total_daily_trips": 12,
+      "total_area_departures": 36,
+      "earliest_departure_time": "05:23:45",
+      "latest_departure_time": "21:01:00",
+      "earliest_departure_seconds": 19425,
+      "latest_departure_seconds": 75660,
+      "terminals": [
+        "DEVI KARUMARIAMMAN TEMPLE",
+        "KARUMBAKKAM",
+        "THIRUVADAISOOLAM DEVI KARUMARIAMMAN TEMPLE",
+        "THIRUVANMIYUR",
+        "THIRUVANMIYUR B.T"
+      ]
+    }
+  },
+  {
+    "document_id": "doc_route_552K_5d7b85f9",
+    "document_type": "route_profile",
+    "title": "Route Profile: Route 552K (6 Service Variants)",
+    "source_file": "route_service_summary.json",
+    "dataset_version": "v1.0.0-sholinganallur",
+    "document_hash": "ddb30d4916aa2cdd5db0d4af43ae26b0c651e0adc0951d290919def3c704395e",
+    "content_length_chars": 2267,
+    "content_lines": 53,
+    "metadata": {
+      "document_id": "doc_route_552K_5d7b85f9",
+      "document_type": "route_profile",
+      "route_number": "552K",
+      "route_hash_suffix": "5d7b85f9",
+      "variant_count": 6,
+      "variant_route_ids": [
+        "1809",
+        "1810",
+        "1811",
+        "1812",
+        "1813",
+        "1814"
+      ],
+      "total_daily_trips": 12,
+      "total_area_departures": 28,
+      "earliest_departure_time": "06:18:15",
+      "latest_departure_time": "21:01:00",
+      "earliest_departure_seconds": 22695,
+      "latest_departure_seconds": 75660,
+      "terminals": [
+        "KEELKATTALAI",
+        "KELAMBAKKAM",
+        "SAIDAPET",
+        "THIRUPORUR BUS STAND"
+      ]
+    }
+  },
+  {
+    "document_id": "doc_route_555G_2b7b93fc",
+    "document_type": "route_profile",
+    "title": "Route Profile: Route 555G (2 Service Variants)",
+    "source_file": "route_service_summary.json",
+    "dataset_version": "v1.0.0-sholinganallur",
+    "document_hash": "dacfd07ebb36ebaf06a3a00ce5cfb373a4ec35e355655e21d6d7836427dea239",
+    "content_length_chars": 1366,
+    "content_lines": 29,
+    "metadata": {
+      "document_id": "doc_route_555G_2b7b93fc",
+      "document_type": "route_profile",
+      "route_number": "555G",
+      "route_hash_suffix": "2b7b93fc",
+      "variant_count": 2,
+      "variant_route_ids": [
+        "3324",
+        "3325"
+      ],
+      "total_daily_trips": 30,
+      "total_area_departures": 120,
+      "earliest_departure_time": "05:30:15",
+      "latest_departure_time": "21:59:15",
+      "earliest_departure_seconds": 19815,
+      "latest_departure_seconds": 79155,
+      "terminals": [
+        "GUDUVANCHERI B.T",
+        "GUDUVANCHERI BUS TERMINUS",
+        "SHOLINGANALLUR"
+      ]
+    }
+  },
+  {
+    "document_id": "doc_route_555P_b7a10ba1",
+    "document_type": "route_profile",
+    "title": "Route Profile: Route 555P (4 Service Variants)",
+    "source_file": "route_service_summary.json",
+    "dataset_version": "v1.0.0-sholinganallur",
+    "document_hash": "66a7d01a1221e0c8d9d05f60dcedeb29ed06234d2d8c951d45c51d94bc397f13",
+    "content_length_chars": 1901,
+    "content_lines": 41,
+    "metadata": {
+      "document_id": "doc_route_555P_b7a10ba1",
+      "document_type": "route_profile",
+      "route_number": "555P",
+      "route_hash_suffix": "b7a10ba1",
+      "variant_count": 4,
+      "variant_route_ids": [
+        "3334",
+        "3335",
+        "3336",
+        "3337"
+      ],
+      "total_daily_trips": 10,
+      "total_area_departures": 34,
+      "earliest_departure_time": "05:55:00",
+      "latest_departure_time": "19:35:15",
+      "earliest_departure_seconds": 21300,
+      "latest_departure_seconds": 70515,
+      "terminals": [
+        "P U OFFICE SHOLINGANALLUR",
+        "PADAPPAI",
+        "SHOLINGANALLUR P.U.OFFICE",
+        "TAMBARAM WEST"
+      ]
+    }
+  },
+  {
+    "document_id": "doc_route_555S_d7375511",
+    "document_type": "route_profile",
+    "title": "Route Profile: Route 555S (2 Service Variants)",
+    "source_file": "route_service_summary.json",
+    "dataset_version": "v1.0.0-sholinganallur",
+    "document_hash": "ff675da84390a0eb127f2feb43b47ff3690dfec651d0c12d9697a6fea3b892e3",
+    "content_length_chars": 1363,
+    "content_lines": 29,
+    "metadata": {
+      "document_id": "doc_route_555S_d7375511",
+      "document_type": "route_profile",
+      "route_number": "555S",
+      "route_hash_suffix": "d7375511",
+      "variant_count": 2,
+      "variant_route_ids": [
+        "3342",
+        "3343"
+      ],
+      "total_daily_trips": 88,
+      "total_area_departures": 352,
+      "earliest_departure_time": "00:00:15",
+      "latest_departure_time": "22:09:15",
+      "earliest_departure_seconds": 15,
+      "latest_departure_seconds": 79755,
+      "terminals": [
+        "KILAMBAKKAM BUS TERMINUS",
+        "SHOLINGANALLUR"
+      ]
+    }
+  },
+  {
+    "document_id": "doc_route_568B_3c3adb91",
+    "document_type": "route_profile",
+    "title": "Route Profile: Route 568B (4 Service Variants)",
+    "source_file": "route_service_summary.json",
+    "dataset_version": "v1.0.0-sholinganallur",
+    "document_hash": "aabffdb86989614cd719340a08e99b8e88986cd780b815c577b395aaca326876",
+    "content_length_chars": 1812,
+    "content_lines": 41,
+    "metadata": {
+      "document_id": "doc_route_568B_3c3adb91",
+      "document_type": "route_profile",
+      "route_number": "568B",
+      "route_hash_suffix": "3c3adb91",
+      "variant_count": 4,
+      "variant_route_ids": [
+        "531",
+        "532",
+        "533",
+        "534"
+      ],
+      "total_daily_trips": 10,
+      "total_area_departures": 30,
+      "earliest_departure_time": "06:07:45",
+      "latest_departure_time": "20:50:00",
+      "earliest_departure_seconds": 22065,
+      "latest_departure_seconds": 75000,
+      "terminals": [
+        "ADYAR DEPOT",
+        "THIRUPORUR",
+        "THIRUPORUR BUS STAND",
+        "VELACHERY",
+        "VELACHERY B.T"
+      ]
+    }
+  },
+  {
+    "document_id": "doc_route_568CT_5bd6ab14",
+    "document_type": "route_profile",
+    "title": "Route Profile: Route 568CT (1 Service Variants)",
+    "source_file": "route_service_summary.json",
+    "dataset_version": "v1.0.0-sholinganallur",
+    "document_hash": "e36757ad8b0ea805d7d429dd8633b867c8d9ea75114d3b7be28e363901a9f8e5",
+    "content_length_chars": 1048,
+    "content_lines": 23,
+    "metadata": {
+      "document_id": "doc_route_568CT_5bd6ab14",
+      "document_type": "route_profile",
+      "route_number": "568CT",
+      "route_hash_suffix": "5bd6ab14",
+      "variant_count": 1,
+      "variant_route_ids": [
+        "5799"
+      ],
+      "total_daily_trips": 6,
+      "total_area_departures": 6,
+      "earliest_departure_time": "05:33:45",
+      "latest_departure_time": "21:25:45",
+      "earliest_departure_seconds": 20025,
+      "latest_departure_seconds": 77145,
+      "terminals": [
+        "ADYAR DEPOT",
+        "MAMALLAPURAM"
+      ]
+    }
+  },
+  {
+    "document_id": "doc_route_570_085b2a38",
+    "document_type": "route_profile",
+    "title": "Route Profile: Route 570 (10 Service Variants)",
+    "source_file": "route_service_summary.json",
+    "dataset_version": "v1.0.0-sholinganallur",
+    "document_hash": "23e82ec335f4f2bbe90a594a6deb0652a465f218dbfaef556e580a9e3812e512",
+    "content_length_chars": 3442,
+    "content_lines": 77,
+    "metadata": {
+      "document_id": "doc_route_570_085b2a38",
+      "document_type": "route_profile",
+      "route_number": "570",
+      "route_hash_suffix": "085b2a38",
+      "variant_count": 10,
+      "variant_route_ids": [
+        "3529",
+        "3530",
+        "3531",
+        "3533",
+        "539",
+        "540",
+        "542",
+        "543",
+        "545",
+        "546"
+      ],
+      "total_daily_trips": 578,
+      "total_area_departures": 2470,
+      "earliest_departure_time": "01:04:45",
+      "latest_departure_time": "25:17:30",
+      "earliest_departure_seconds": 3885,
+      "latest_departure_seconds": 91050,
+      "terminals": [
+        "ADYAR DEPOT",
+        "K.K.NAGAR",
+        "KELAMBAKKAM",
+        "KELAMBAKKAM B.T",
+        "M.G.R.KOYAMBEDU",
+        "M.G.R.KOYAMBEDU B.T",
+        "M.M.B.T",
+        "PERUMBAKKAM TNUHDB",
+        "SIRUSERI I.T PARK",
+        "SIRUSERI I.T.PARK"
+      ]
+    }
+  },
+  {
+    "document_id": "doc_route_570CT_1c56d69f",
+    "document_type": "route_profile",
+    "title": "Route Profile: Route 570CT (2 Service Variants)",
+    "source_file": "route_service_summary.json",
+    "dataset_version": "v1.0.0-sholinganallur",
+    "document_hash": "c9a42881390c9a8e096799429696136139329055980225bcc9daaa7ef3ec3f81",
+    "content_length_chars": 1342,
+    "content_lines": 29,
+    "metadata": {
+      "document_id": "doc_route_570CT_1c56d69f",
+      "document_type": "route_profile",
+      "route_number": "570CT",
+      "route_hash_suffix": "1c56d69f",
+      "variant_count": 2,
+      "variant_route_ids": [
+        "5797",
+        "5798"
+      ],
+      "total_daily_trips": 82,
+      "total_area_departures": 82,
+      "earliest_departure_time": "08:06:30",
+      "latest_departure_time": "18:05:00",
+      "earliest_departure_seconds": 29190,
+      "latest_departure_seconds": 65100,
+      "terminals": [
+        "GUINDY TVK ESTATE",
+        "SIRUSERI I.T PARK"
+      ]
+    }
+  },
+  {
+    "document_id": "doc_route_570ET_c3c1b590",
+    "document_type": "route_profile",
+    "title": "Route Profile: Route 570ET (5 Service Variants)",
+    "source_file": "route_service_summary.json",
+    "dataset_version": "v1.0.0-sholinganallur",
+    "document_hash": "26fe1af6fd8810afcf37104adcc2e64e88058903161b8c24ac92c43df4f8fc05",
+    "content_length_chars": 2150,
+    "content_lines": 47,
+    "metadata": {
+      "document_id": "doc_route_570ET_c3c1b590",
+      "document_type": "route_profile",
+      "route_number": "570ET",
+      "route_hash_suffix": "c3c1b590",
+      "variant_count": 5,
+      "variant_route_ids": [
+        "3543",
+        "3545",
+        "3546",
+        "3550",
+        "3551"
+      ],
+      "total_daily_trips": 56,
+      "total_area_departures": 248,
+      "earliest_departure_time": "02:03:30",
+      "latest_departure_time": "24:51:00",
+      "earliest_departure_seconds": 7410,
+      "latest_departure_seconds": 89460,
+      "terminals": [
+        "M.G.R.KOYAMBEDU",
+        "M.G.R.KOYAMBEDU B.T",
+        "SIRUSERI I.T PARK",
+        "THIRUPORUR",
+        "THIRUPORUR BUS STAND",
+        "VELACHERY B.T"
+      ]
+    }
+  },
+  {
+    "document_id": "doc_route_570P_70327d52",
+    "document_type": "route_profile",
+    "title": "Route Profile: Route 570P (4 Service Variants)",
+    "source_file": "route_service_summary.json",
+    "dataset_version": "v1.0.0-sholinganallur",
+    "document_hash": "78eb699c76a6df3cf934c7925ec23be0de14a8b51a6c628234d12af5e1c4d05f",
+    "content_length_chars": 1863,
+    "content_lines": 41,
+    "metadata": {
+      "document_id": "doc_route_570P_70327d52",
+      "document_type": "route_profile",
+      "route_number": "570P",
+      "route_hash_suffix": "70327d52",
+      "variant_count": 4,
+      "variant_route_ids": [
+        "3554",
+        "3555",
+        "3556",
+        "3557"
+      ],
+      "total_daily_trips": 29,
+      "total_area_departures": 79,
+      "earliest_departure_time": "00:51:15",
+      "latest_departure_time": "24:11:15",
+      "earliest_departure_seconds": 3075,
+      "latest_departure_seconds": 87075,
+      "terminals": [
+        "KELAMBAKKAM",
+        "M.G.R.KOYAMBEDU",
+        "M.G.R.KOYAMBEDU B.T",
+        "Perumbakkam TNUHDB"
+      ]
+    }
+  },
+  {
+    "document_id": "doc_route_570T_2facc23d",
+    "document_type": "route_profile",
+    "title": "Route Profile: Route 570T (2 Service Variants)",
+    "source_file": "route_service_summary.json",
+    "dataset_version": "v1.0.0-sholinganallur",
+    "document_hash": "af1570341842ae4130bb944417787a2fc720d6d97d31ca7244f527d1ff0f8487",
+    "content_length_chars": 1284,
+    "content_lines": 29,
+    "metadata": {
+      "document_id": "doc_route_570T_2facc23d",
+      "document_type": "route_profile",
+      "route_number": "570T",
+      "route_hash_suffix": "2facc23d",
+      "variant_count": 2,
+      "variant_route_ids": [
+        "3558",
+        "3559"
+      ],
+      "total_daily_trips": 8,
+      "total_area_departures": 8,
+      "earliest_departure_time": "07:06:15",
+      "latest_departure_time": "20:39:15",
+      "earliest_departure_seconds": 25575,
+      "latest_departure_seconds": 74355,
+      "terminals": [
+        "M.G.R.KOYAMBEDU",
+        "THALAMBUR"
+      ]
+    }
+  },
+  {
+    "document_id": "doc_route_570V_360e7e1a",
+    "document_type": "route_profile",
+    "title": "Route Profile: Route 570V (3 Service Variants)",
+    "source_file": "route_service_summary.json",
+    "dataset_version": "v1.0.0-sholinganallur",
+    "document_hash": "59d7d126d385a5b17b52f5fe4c4cd38dff671ff7db92991754bf2b405bd01adf",
+    "content_length_chars": 1538,
+    "content_lines": 35,
+    "metadata": {
+      "document_id": "doc_route_570V_360e7e1a",
+      "document_type": "route_profile",
+      "route_number": "570V",
+      "route_hash_suffix": "360e7e1a",
+      "variant_count": 3,
+      "variant_route_ids": [
+        "550",
+        "553",
+        "555"
+      ],
+      "total_daily_trips": 24,
+      "total_area_departures": 24,
+      "earliest_departure_time": "04:53:45",
+      "latest_departure_time": "20:46:00",
+      "earliest_departure_seconds": 17625,
+      "latest_departure_seconds": 74760,
+      "terminals": [
+        "ADYAR DEPOT",
+        "KELAMBAKKAM",
+        "VADAPALANI",
+        "VADAPALANI B.T"
+      ]
+    }
+  },
+  {
+    "document_id": "doc_route_76V_b6a5c06f",
+    "document_type": "route_profile",
+    "title": "Route Profile: Route 76V (2 Service Variants)",
+    "source_file": "route_service_summary.json",
+    "dataset_version": "v1.0.0-sholinganallur",
+    "document_hash": "7f807acdefef2c7d891bc2e967d2caee5b50bc2c5b6ab6107d6cd1a66c22c7ec",
+    "content_length_chars": 1324,
+    "content_lines": 29,
+    "metadata": {
+      "document_id": "doc_route_76V_b6a5c06f",
+      "document_type": "route_profile",
+      "route_number": "76V",
+      "route_hash_suffix": "b6a5c06f",
+      "variant_count": 2,
+      "variant_route_ids": [
+        "4164",
+        "4165"
+      ],
+      "total_daily_trips": 10,
+      "total_area_departures": 10,
+      "earliest_departure_time": "06:04:00",
+      "latest_departure_time": "19:46:30",
+      "earliest_departure_seconds": 21840,
+      "latest_departure_seconds": 71190,
+      "terminals": [
+        "M.G.R.KOYAMBEDU",
+        "SIRUSERI I.T PARK"
+      ]
+    }
+  },
+  {
+    "document_id": "doc_route_95_ad48ff99",
+    "document_type": "route_profile",
+    "title": "Route Profile: Route 95 (7 Service Variants)",
+    "source_file": "route_service_summary.json",
+    "dataset_version": "v1.0.0-sholinganallur",
+    "document_hash": "621f4f82bea27c47dcf8713ade546ff37807309952c1adebcea890d7353ea4d2",
+    "content_length_chars": 2797,
+    "content_lines": 59,
+    "metadata": {
+      "document_id": "doc_route_95_ad48ff99",
+      "document_type": "route_profile",
+      "route_number": "95",
+      "route_hash_suffix": "ad48ff99",
+      "variant_count": 7,
+      "variant_route_ids": [
+        "616",
+        "618",
+        "619",
+        "620",
+        "622",
+        "623",
+        "624"
+      ],
+      "total_daily_trips": 467,
+      "total_area_departures": 1380,
+      "earliest_departure_time": "00:31:45",
+      "latest_departure_time": "24:22:30",
+      "earliest_departure_seconds": 1905,
+      "latest_departure_seconds": 87750,
+      "terminals": [
+        "KCBT - KILAMBAKKAM",
+        "P U OFFICE SHOLINGANALLUR",
+        "TAMBARAM EAST",
+        "TAMBARAM RAILWAY STATION EAST",
+        "TAMBARAM WEST BUS STAND",
+        "THIRUVANMIYUR",
+        "THIRUVANMIYUR B.T"
+      ]
+    }
+  },
+  {
+    "document_id": "doc_route_95G_1e40872e",
+    "document_type": "route_profile",
+    "title": "Route Profile: Route 95G (3 Service Variants)",
+    "source_file": "route_service_summary.json",
+    "dataset_version": "v1.0.0-sholinganallur",
+    "document_hash": "e5950973159cacfcb8263f6972c433d81d2b2e30de6011146180d7d91c428de5",
+    "content_length_chars": 1661,
+    "content_lines": 35,
+    "metadata": {
+      "document_id": "doc_route_95G_1e40872e",
+      "document_type": "route_profile",
+      "route_number": "95G",
+      "route_hash_suffix": "1e40872e",
+      "variant_count": 3,
+      "variant_route_ids": [
+        "4326",
+        "4327",
+        "4330"
+      ],
+      "total_daily_trips": 24,
+      "total_area_departures": 24,
+      "earliest_departure_time": "05:31:00",
+      "latest_departure_time": "19:49:15",
+      "earliest_departure_seconds": 19860,
+      "latest_departure_seconds": 71355,
+      "terminals": [
+        "KCBT - KILAMBAKKAM",
+        "OKK.THORAIPAKM SEC.COLONY",
+        "TAMBARAM WEST"
+      ]
+    }
+  },
+  {
+    "document_id": "doc_route_95X_bd66fbd4",
+    "document_type": "route_profile",
+    "title": "Route Profile: Route 95X (4 Service Variants)",
+    "source_file": "route_service_summary.json",
+    "dataset_version": "v1.0.0-sholinganallur",
+    "document_hash": "9f525c97be18084d6c8b2ed4eeb6f64bae66a6449ab67fa27e5dd7e5e1f252c6",
+    "content_length_chars": 1913,
+    "content_lines": 41,
+    "metadata": {
+      "document_id": "doc_route_95X_bd66fbd4",
+      "document_type": "route_profile",
+      "route_number": "95X",
+      "route_hash_suffix": "bd66fbd4",
+      "variant_count": 4,
+      "variant_route_ids": [
+        "4337",
+        "5715",
+        "627",
+        "630"
+      ],
+      "total_daily_trips": 217,
+      "total_area_departures": 645,
+      "earliest_departure_time": "00:56:45",
+      "latest_departure_time": "24:37:45",
+      "earliest_departure_seconds": 3405,
+      "latest_departure_seconds": 88665,
+      "terminals": [
+        "KILAMBAKKAM BUS TERMINUS",
+        "SEMMANCHERI TNUHDB",
+        "TAMBARAM WEST",
+        "THIRUVANMIYUR",
+        "THIRUVANMIYUR B.T"
+      ]
+    }
+  },
+  {
+    "document_id": "doc_route_95XCT_6e71735f",
+    "document_type": "route_profile",
+    "title": "Route Profile: Route 95XCT (9 Service Variants)",
+    "source_file": "route_service_summary.json",
+    "dataset_version": "v1.0.0-sholinganallur",
+    "document_hash": "0d2c0502b71ced16af1b4f3619010ff2636a26009423afe8f02aab06c8179bce",
+    "content_length_chars": 3276,
+    "content_lines": 71,
+    "metadata": {
+      "document_id": "doc_route_95XCT_6e71735f",
+      "document_type": "route_profile",
+      "route_number": "95XCT",
+      "route_hash_suffix": "6e71735f",
+      "variant_count": 9,
+      "variant_route_ids": [
+        "4339",
+        "4340",
+        "4341",
+        "4342",
+        "4343",
+        "5469",
+        "5710",
+        "5717",
+        "617"
+      ],
+      "total_daily_trips": 167,
+      "total_area_departures": 255,
+      "earliest_departure_time": "00:10:15",
+      "latest_departure_time": "23:57:00",
+      "earliest_departure_seconds": 615,
+      "latest_departure_seconds": 86220,
+      "terminals": [
+        "KCBT - KILAMBAKKAM",
+        "KILAMBAKKAM BUS TERMINUS",
+        "NEHRU NAGAR",
+        "PERUMBAKKAM TNUHDB",
+        "SEMMANCHERI TNUHDB",
+        "SHOLINGANALLUR",
+        "SHOLINGANALLUR P.U.OFFICE",
+        "TAMBARAM EAST",
+        "TAMBARAM WEST"
+      ]
+    }
+  },
+  {
+    "document_id": "doc_route_99_8c1f1046",
+    "document_type": "route_profile",
+    "title": "Route Profile: Route 99 (4 Service Variants)",
+    "source_file": "route_service_summary.json",
+    "dataset_version": "v1.0.0-sholinganallur",
+    "document_hash": "8debfc1e94d18b3952738c4f71b7cdba18dff7a066afc1d47c36efb7596b71d9",
+    "content_length_chars": 1810,
+    "content_lines": 41,
+    "metadata": {
+      "document_id": "doc_route_99_8c1f1046",
+      "document_type": "route_profile",
+      "route_number": "99",
+      "route_hash_suffix": "8c1f1046",
+      "variant_count": 4,
+      "variant_route_ids": [
+        "633",
+        "634",
+        "635",
+        "636"
+      ],
+      "total_daily_trips": 213,
+      "total_area_departures": 398,
+      "earliest_departure_time": "04:14:30",
+      "latest_departure_time": "22:26:45",
+      "earliest_departure_seconds": 15270,
+      "latest_departure_seconds": 80805,
+      "terminals": [
+        "ADYAR B.T",
+        "SHOLINGANALLUR",
+        "TAMBARAM WEST BUS STAND"
+      ]
+    }
+  },
+  {
+    "document_id": "doc_route_99A_4eed2e87",
+    "document_type": "route_profile",
+    "title": "Route Profile: Route 99A (10 Service Variants)",
+    "source_file": "route_service_summary.json",
+    "dataset_version": "v1.0.0-sholinganallur",
+    "document_hash": "41ba45bb361cd24acf301f84ab6467697ca5bb2125fe32265f87a00e97f786b1",
+    "content_length_chars": 3461,
+    "content_lines": 77,
+    "metadata": {
+      "document_id": "doc_route_99A_4eed2e87",
+      "document_type": "route_profile",
+      "route_number": "99A",
+      "route_hash_suffix": "4eed2e87",
+      "variant_count": 10,
+      "variant_route_ids": [
+        "4346",
+        "4347",
+        "4348",
+        "4350",
+        "4351",
+        "4352",
+        "4353",
+        "4354",
+        "4810",
+        "4811"
+      ],
+      "total_daily_trips": 447,
+      "total_area_departures": 787,
+      "earliest_departure_time": "00:50:15",
+      "latest_departure_time": "24:02:00",
+      "earliest_departure_seconds": 3015,
+      "latest_departure_seconds": 86520,
+      "terminals": [
+        "KCBT - KILAMBAKKAM",
+        "PERUMBAKKAM COLLEGE",
+        "PERUMBAKKAM TNUHDB",
+        "SEMMANCHERI TNUHDB",
+        "SHOLINGANALLUR",
+        "TAMBARAM WEST",
+        "TAMBARAM WEST BUS STAND"
+      ]
+    }
+  },
+  {
+    "document_id": "doc_route_99CT_511e46dd",
+    "document_type": "route_profile",
+    "title": "Route Profile: Route 99CT (3 Service Variants)",
+    "source_file": "route_service_summary.json",
+    "dataset_version": "v1.0.0-sholinganallur",
+    "document_hash": "dd68658f1b1664683c8c2377203132571b8d822f2fafa554ec835b5fe7cc4068",
+    "content_length_chars": 1562,
+    "content_lines": 35,
+    "metadata": {
+      "document_id": "doc_route_99CT_511e46dd",
+      "document_type": "route_profile",
+      "route_number": "99CT",
+      "route_hash_suffix": "511e46dd",
+      "variant_count": 3,
+      "variant_route_ids": [
+        "5718",
+        "5941",
+        "5942"
+      ],
+      "total_daily_trips": 16,
+      "total_area_departures": 16,
+      "earliest_departure_time": "05:47:00",
+      "latest_departure_time": "19:47:45",
+      "earliest_departure_seconds": 20820,
+      "latest_departure_seconds": 71265,
+      "terminals": [
+        "ADYAR B.T",
+        "PERUMBAKKAM TNUHDB",
+        "SEMMANCHERI TNUHDB"
+      ]
+    }
+  },
+  {
+    "document_id": "doc_route_99X_e636a74d",
+    "document_type": "route_profile",
+    "title": "Route Profile: Route 99X (5 Service Variants)",
+    "source_file": "route_service_summary.json",
+    "dataset_version": "v1.0.0-sholinganallur",
+    "document_hash": "91b34068b808483fdeb6028605701551ab5abf778e07e346cd9277a6a9f17bb5",
+    "content_length_chars": 2114,
+    "content_lines": 47,
+    "metadata": {
+      "document_id": "doc_route_99X_e636a74d",
+      "document_type": "route_profile",
+      "route_number": "99X",
+      "route_hash_suffix": "e636a74d",
+      "variant_count": 5,
+      "variant_route_ids": [
+        "4357",
+        "4358",
+        "4360",
+        "639",
+        "640"
+      ],
+      "total_daily_trips": 79,
+      "total_area_departures": 149,
+      "earliest_departure_time": "00:58:30",
+      "latest_departure_time": "24:29:45",
+      "earliest_departure_seconds": 3510,
+      "latest_departure_seconds": 88185,
+      "terminals": [
+        "ADYAR B.T",
+        "KCBT - KILAMBAKKAM",
+        "KILAMBAKKAM BUS TERMINUS",
+        "SHOLINGANALLUR",
+        "TAMBARAM WEST"
+      ]
+    }
+  },
+  {
+    "document_id": "doc_route_B19_d614cbb6",
+    "document_type": "route_profile",
+    "title": "Route Profile: Route B19 (6 Service Variants)",
+    "source_file": "route_service_summary.json",
+    "dataset_version": "v1.0.0-sholinganallur",
+    "document_hash": "cc3a5fcf74ede363a31bfca27055d97624d496a7a23b30e6cbc90585b8fe4973",
+    "content_length_chars": 2412,
+    "content_lines": 53,
+    "metadata": {
+      "document_id": "doc_route_B19_d614cbb6",
+      "document_type": "route_profile",
+      "route_number": "B19",
+      "route_hash_suffix": "d614cbb6",
+      "variant_count": 6,
+      "variant_route_ids": [
+        "4373",
+        "4374",
+        "4375",
+        "4376",
+        "5582",
+        "5583"
+      ],
+      "total_daily_trips": 26,
+      "total_area_departures": 56,
+      "earliest_departure_time": "05:19:15",
+      "latest_departure_time": "22:31:30",
+      "earliest_departure_seconds": 19155,
+      "latest_departure_seconds": 81090,
+      "terminals": [
+        "KANNAGI NAGAR TNUHDB",
+        "KELAMBAKKAM",
+        "SHOLINGANALLUR",
+        "SIRUSERI I.T PARK",
+        "kelambakkam POLICE STATION"
+      ]
+    }
+  },
+  {
+    "document_id": "doc_route_B19CT_73b1feb7",
+    "document_type": "route_profile",
+    "title": "Route Profile: Route B19CT (2 Service Variants)",
+    "source_file": "route_service_summary.json",
+    "dataset_version": "v1.0.0-sholinganallur",
+    "document_hash": "9ff4e353f057ec2e95703bb7bfc62c7a06e56ca876fea5ef1a0ce01daaf1b914",
+    "content_length_chars": 1378,
+    "content_lines": 29,
+    "metadata": {
+      "document_id": "doc_route_B19CT_73b1feb7",
+      "document_type": "route_profile",
+      "route_number": "B19CT",
+      "route_hash_suffix": "73b1feb7",
+      "variant_count": 2,
+      "variant_route_ids": [
+        "4379",
+        "4380"
+      ],
+      "total_daily_trips": 16,
+      "total_area_departures": 16,
+      "earliest_departure_time": "06:11:15",
+      "latest_departure_time": "20:20:15",
+      "earliest_departure_seconds": 22275,
+      "latest_departure_seconds": 73215,
+      "terminals": [
+        "SHOLINGANALLUR P.U.OFFICE",
+        "SIRUSERI I.T PARK"
+      ]
+    }
+  },
+  {
+    "document_id": "doc_route_M51_44eabd33",
+    "document_type": "route_profile",
+    "title": "Route Profile: Route M51 (4 Service Variants)",
+    "source_file": "route_service_summary.json",
+    "dataset_version": "v1.0.0-sholinganallur",
+    "document_hash": "e4a4d3d48380dfcc873cfca31fd77d8191863559390ff51da9a7942b2ac64d7b",
+    "content_length_chars": 2016,
+    "content_lines": 41,
+    "metadata": {
+      "document_id": "doc_route_M51_44eabd33",
+      "document_type": "route_profile",
+      "route_number": "M51",
+      "route_hash_suffix": "44eabd33",
+      "variant_count": 4,
+      "variant_route_ids": [
+        "1603",
+        "1604",
+        "1694",
+        "1695"
+      ],
+      "total_daily_trips": 24,
+      "total_area_departures": 64,
+      "earliest_departure_time": "05:57:15",
+      "latest_departure_time": "21:47:30",
+      "earliest_departure_seconds": 21435,
+      "latest_departure_seconds": 78450,
+      "terminals": [
+        "CEMENT ROAD",
+        "EZHIL NAGAR PRATYANGIRA TEMPLE",
+        "PRATHYANGIRA DEVI TEMPLE",
+        "THYAGARAYA NAGAR BUS TERMINUS"
+      ]
+    }
+  },
+  {
+    "document_id": "doc_route_MAA2_e3e29c07",
+    "document_type": "route_profile",
+    "title": "Route Profile: Route MAA2 (2 Service Variants)",
+    "source_file": "route_service_summary.json",
+    "dataset_version": "v1.0.0-sholinganallur",
+    "document_hash": "6064c8c744c6bbc83373ea35b8285b42949e291c3e1b8895f01c7e89753859fe",
+    "content_length_chars": 1337,
+    "content_lines": 29,
+    "metadata": {
+      "document_id": "doc_route_MAA2_e3e29c07",
+      "document_type": "route_profile",
+      "route_number": "MAA2",
+      "route_hash_suffix": "e3e29c07",
+      "variant_count": 2,
+      "variant_route_ids": [
+        "5174",
+        "5179"
+      ],
+      "total_daily_trips": 213,
+      "total_area_departures": 1065,
+      "earliest_departure_time": "05:18:15",
+      "latest_departure_time": "23:18:45",
+      "earliest_departure_seconds": 19095,
+      "latest_departure_seconds": 83925,
+      "terminals": [
+        "CHENNAI AIRPORT",
+        "SIRUSERI I.T.PARK"
+      ]
+    }
+  },
+  {
+    "document_id": "doc_route_MAA2CT_07501c88",
+    "document_type": "route_profile",
+    "title": "Route Profile: Route MAA2CT (2 Service Variants)",
+    "source_file": "route_service_summary.json",
+    "dataset_version": "v1.0.0-sholinganallur",
+    "document_hash": "8c5738e92e1b7432abd481da441bfdf2c6e7593e9a73be9459172a2d1fee8bf9",
+    "content_length_chars": 1339,
+    "content_lines": 29,
+    "metadata": {
+      "document_id": "doc_route_MAA2CT_07501c88",
+      "document_type": "route_profile",
+      "route_number": "MAA2CT",
+      "route_hash_suffix": "07501c88",
+      "variant_count": 2,
+      "variant_route_ids": [
+        "5790",
+        "5791"
+      ],
+      "total_daily_trips": 45,
+      "total_area_departures": 45,
+      "earliest_departure_time": "05:37:00",
+      "latest_departure_time": "22:39:30",
+      "earliest_departure_seconds": 20220,
+      "latest_departure_seconds": 81570,
+      "terminals": [
+        "CHENNAI AIRPORT",
+        "PERUMBAKKAM TNUHDB"
+      ]
+    }
+  },
+  {
+    "document_id": "doc_corridor_sholinganallur_t_nagar",
+    "document_type": "corridor_guide",
+    "title": "Corridor Travel Guide: Sholinganallur to T. Nagar (Direct MTC Bus Service)",
+    "source_file": "direct_t_nagar_connections.json",
+    "dataset_version": "v1.0.0-sholinganallur",
+    "document_hash": "301b8de5e7faa1abe09cdd528aca3cf2feaaabf271c9814dcdd648a8fd2c716b",
+    "content_length_chars": 2632,
+    "content_lines": 37,
+    "metadata": {
+      "document_type": "corridor_guide",
+      "corridor_id": "sholinganallur_t_nagar",
+      "origin_area": "Sholinganallur",
+      "destination": "T. Nagar (CIT Nagar)",
+      "total_direct_runs": 170,
+      "routes_operating": [
+        "19",
+        "19A",
+        "19BET",
+        "M51"
+      ],
+      "route_breakdown": {
+        "19": 115,
+        "M51": 10,
+        "19A": 42,
+        "19BET": 3
+      },
+      "origin_stops": [
+        "SHOLINGANALLUR",
+        "SHOLINGANALLUR KUMARAN NAGAR",
+        "SHOLINGANALLUR NUCLUEUS COMPANY"
+      ],
+      "destination_stops": [
+        "CIT NAGAR"
+      ],
+      "min_duration_minutes": 62.75,
+      "max_duration_minutes": 67.25,
+      "avg_duration_minutes": 65.65,
+      "earliest_departure_time": "04:34:45",
+      "latest_departure_time": "22:24:15"
+    }
+  },
+  {
+    "document_id": "doc_system_governance_limitations",
+    "document_type": "system_governance",
+    "title": "System Governance: MTC Transit Data Limitations & Operational Boundaries",
+    "source_file": "dataset_metadata.json",
+    "dataset_version": "v1.0.0-sholinganallur",
+    "document_hash": "b8905f2f76ed46599bc219c2ff48f7412ae4d2b745faaed392bcb7465ddc7d6b",
+    "content_length_chars": 3376,
+    "content_lines": 32,
+    "metadata": {
+      "document_type": "system_governance",
+      "area": "Sholinganallur",
+      "data_nature": "static_gtfs_timetable",
+      "live_tracking_supported": false,
+      "upstream_provenance_file": "static_mtc_gtfs_data(3).zip",
+      "upstream_gtfs_archive": "static_mtc_gtfs_data/chennai.bus.gtfs.zip",
+      "project_input_archive": "data/raw/Simple_RouteWise_Sholinganallur_Dataset.zip",
+      "stop_matching_method": "exact_gtfs_stop_id_relational_join",
+      "quarantined_stops_count": 2,
+      "quarantined_stop_ids": [
+        "380",
+        "168"
+      ],
+      "limitations_count": 8
+    }
+  }
+]

@@ -1,0 +1,49 @@
+{
+  "chunk_id": "doc_route_519T_9b51f6cc_c000",
+  "document_id": "doc_route_519T_9b51f6cc",
+  "chunk_index": 0,
+  "document_type": "route_profile",
+  "title": "Route Profile: Route 519T (2 Service Variants)",
+  "source_dataset": "route_service_summary.json",
+  "dataset_version": "v1.0.0-sholinganallur",
+  "section_heading": "Complete Route Profile & Service Variants",
+  "chunk_text": "# MTC BUS ROUTE PROFILE: ROUTE 519T\n\n## Public Transit Line Overview\n- Public Route Number: 519T\n- Total Operational Variants in Feed: 2 service profiles\n- Total Scheduled Daily Trips: 10 trips\n- Total Sholinganallur Stop Departures: 50 recorded departures\n- Key Terminals & Hubs Served: ADYAR B.T, THAIYUR KOMAN NAGAR ROAD JUNCTION\n\n## Timetable Service Window\n- Earliest Scheduled Departure in Area: 05:49:00 (Variant ID: 495)\n- Latest Scheduled Departure in Area: 20:24:15 (Variant ID: 496)\n- Span of Operation: From 05:49:00 to 20:24:15\n\n## Operational Service Variants (2 GTFS Service Profiles)\n### Variant Route ID: 495 — ADYAR B.T To THAIYUR KOMAN NAGAR ROAD JUNCTION\n- Terminal Path: ADYAR B.T To THAIYUR KOMAN NAGAR ROAD JUNCTION\n- Scheduled Daily Trips: 5 trips\n- Departures Serving Sholinganallur: 25 stop departures\n- Operational Hours: 05:49:00 to 18:35:15\n\n### Variant Route ID: 496 — THAIYUR KOMAN NAGAR ROAD JUNCTION To ADYAR B.T\n- Terminal Path: THAIYUR KOMAN NAGAR ROAD JUNCTION To ADYAR B.T\n- Scheduled Daily Trips: 5 trips\n- Departures Serving Sholinganallur: 25 stop departures\n- Operational Hours: 07:25:15 to 20:24:15\n\n## Static Schedule Disclaimer\n- All timetable benchmarks are derived from official static Chennai MTC GTFS data. Times indicate scheduled timetable departures and do not reflect real-time traffic conditions or live vehicle tracking.",
+  "chunk_hash": "9cf62b4981b28e18abd8f84ee61ee17a9d9b3f5bc6985d59a37ec111aa5d3918",
+  "token_count": 487,
+  "pipeline_version": "v1.0.0-chunking",
+  "source_start_char": 0,
+  "source_end_char": 1374,
+  "injected_context_header": "",
+  "overlap_text": "",
+  "has_overlap": false,
+  "overlap_tokens": 0,
+  "metadata": {
+    "is_atomic": true,
+    "has_overlap": false,
+    "overlap_tokens": 0,
+    "source_start_char": 0,
+    "source_end_char": 1374,
+    "injected_context_header": "",
+    "overlap_text": "",
+    "source_tokens": 487,
+    "document_id": "doc_route_519T_9b51f6cc",
+    "document_type": "route_profile",
+    "route_number": "519T",
+    "route_hash_suffix": "9b51f6cc",
+    "variant_count": 2,
+    "variant_route_ids": [
+      "495",
+      "496"
+    ],
+    "total_daily_trips": 10,
+    "total_area_departures": 50,
+    "earliest_departure_time": "05:49:00",
+    "latest_departure_time": "20:24:15",
+    "earliest_departure_seconds": 20940,
+    "latest_departure_seconds": 73455,
+    "terminals": [
+      "ADYAR B.T",
+      "THAIYUR KOMAN NAGAR ROAD JUNCTION"
+    ]
+  }
+}

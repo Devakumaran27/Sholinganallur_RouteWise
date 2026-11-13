@@ -1,0 +1,43 @@
+{
+  "chunk_id": "doc_stop_374cd9d37f0af09bb60465a548d6d842_c000",
+  "document_id": "doc_stop_374cd9d37f0af09bb60465a548d6d842",
+  "chunk_index": 0,
+  "document_type": "stop_profile",
+  "title": "Bus Stop Profile: SHOLINGANALLUR KUMARAN NAGAR (Stop ID: 374cd9d37f0af09bb60465a548d6d842)",
+  "source_dataset": "bus_stops.json",
+  "dataset_version": "v1.0.0-sholinganallur",
+  "section_heading": "Bus Stop Directory & Transit Profile",
+  "chunk_text": "# BUS STOP DIRECTORY: SHOLINGANALLUR KUMARAN NAGAR\n\n## Stop Identification & Locality\n- Official Stop Name: SHOLINGANALLUR KUMARAN NAGAR\n- Stop Identifier (GTFS stop_id): 374cd9d37f0af09bb60465a548d6d842\n- Stop Code: 374cd9d37f0af09bb60465a548d6d842\n- Locality: Sholinganallur, Chennai (MTC Transit Zone)\n\n## Geographic Coordinates & Mapping Eligibility\n- Latitude: 12.87651\n- Longitude: 80.22671\n- Map Display Eligible: Yes\n- Coordinate Status: WITHIN_CONFIGURED_BOUNDS_NOT_INDEPENDENTLY_GROUND_TRUTH_VERIFIED\n\n## Bus Services & Operational Departures\n- Total Recorded Stop Departures: 6 scheduled departures\n- Number of Connecting Route Lines: 1 lines\n- Serving Bus Lines: 19D\n\n## Important Notice\n- All departure times and schedules represent official static Chennai MTC GTFS timetable feeds. Real-time GPS tracking and live bus arrival times are not provided.",
+  "chunk_hash": "622f8b8db003b0c4d896b1370baa302f9ecb2c63d6a86404d5b73bbe65478dff",
+  "token_count": 292,
+  "pipeline_version": "v1.0.0-chunking",
+  "source_start_char": 0,
+  "source_end_char": 863,
+  "injected_context_header": "",
+  "overlap_text": "",
+  "has_overlap": false,
+  "overlap_tokens": 0,
+  "metadata": {
+    "is_atomic": true,
+    "has_overlap": false,
+    "overlap_tokens": 0,
+    "source_start_char": 0,
+    "source_end_char": 863,
+    "injected_context_header": "",
+    "overlap_text": "",
+    "source_tokens": 292,
+    "document_type": "stop_profile",
+    "stop_id": "374cd9d37f0af09bb60465a548d6d842",
+    "stop_code": "374cd9d37f0af09bb60465a548d6d842",
+    "stop_name": "SHOLINGANALLUR KUMARAN NAGAR",
+    "map_eligible": true,
+    "has_coordinates": true,
+    "latitude": 12.87651,
+    "longitude": 80.22671,
+    "total_departures": 6,
+    "connecting_route_count": 1,
+    "connecting_routes": [
+      "19D"
+    ]
+  }
+}

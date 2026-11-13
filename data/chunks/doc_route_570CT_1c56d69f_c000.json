@@ -1,0 +1,49 @@
+{
+  "chunk_id": "doc_route_570CT_1c56d69f_c000",
+  "document_id": "doc_route_570CT_1c56d69f",
+  "chunk_index": 0,
+  "document_type": "route_profile",
+  "title": "Route Profile: Route 570CT (2 Service Variants)",
+  "source_dataset": "route_service_summary.json",
+  "dataset_version": "v1.0.0-sholinganallur",
+  "section_heading": "Complete Route Profile & Service Variants",
+  "chunk_text": "# MTC BUS ROUTE PROFILE: ROUTE 570CT\n\n## Public Transit Line Overview\n- Public Route Number: 570CT\n- Total Operational Variants in Feed: 2 service profiles\n- Total Scheduled Daily Trips: 82 trips\n- Total Sholinganallur Stop Departures: 82 recorded departures\n- Key Terminals & Hubs Served: GUINDY TVK ESTATE, SIRUSERI I.T PARK\n\n## Timetable Service Window\n- Earliest Scheduled Departure in Area: 08:06:30 (Variant ID: 5798)\n- Latest Scheduled Departure in Area: 18:05:00 (Variant ID: 5797)\n- Span of Operation: From 08:06:30 to 18:05:00\n\n## Operational Service Variants (2 GTFS Service Profiles)\n### Variant Route ID: 5797 — GUINDY TVK ESTATE To SIRUSERI I.T PARK\n- Terminal Path: GUINDY TVK ESTATE To SIRUSERI I.T PARK\n- Scheduled Daily Trips: 41 trips\n- Departures Serving Sholinganallur: 41 stop departures\n- Operational Hours: 10:25:00 to 18:05:00\n\n### Variant Route ID: 5798 — SIRUSERI I.T PARK To GUINDY TVK ESTATE\n- Terminal Path: SIRUSERI I.T PARK To GUINDY TVK ESTATE\n- Scheduled Daily Trips: 41 trips\n- Departures Serving Sholinganallur: 41 stop departures\n- Operational Hours: 08:06:30 to 16:11:30\n\n## Static Schedule Disclaimer\n- All timetable benchmarks are derived from official static Chennai MTC GTFS data. Times indicate scheduled timetable departures and do not reflect real-time traffic conditions or live vehicle tracking.",
+  "chunk_hash": "c9a42881390c9a8e096799429696136139329055980225bcc9daaa7ef3ec3f81",
+  "token_count": 476,
+  "pipeline_version": "v1.0.0-chunking",
+  "source_start_char": 0,
+  "source_end_char": 1342,
+  "injected_context_header": "",
+  "overlap_text": "",
+  "has_overlap": false,
+  "overlap_tokens": 0,
+  "metadata": {
+    "is_atomic": true,
+    "has_overlap": false,
+    "overlap_tokens": 0,
+    "source_start_char": 0,
+    "source_end_char": 1342,
+    "injected_context_header": "",
+    "overlap_text": "",
+    "source_tokens": 476,
+    "document_id": "doc_route_570CT_1c56d69f",
+    "document_type": "route_profile",
+    "route_number": "570CT",
+    "route_hash_suffix": "1c56d69f",
+    "variant_count": 2,
+    "variant_route_ids": [
+      "5797",
+      "5798"
+    ],
+    "total_daily_trips": 82,
+    "total_area_departures": 82,
+    "earliest_departure_time": "08:06:30",
+    "latest_departure_time": "18:05:00",
+    "earliest_departure_seconds": 29190,
+    "latest_departure_seconds": 65100,
+    "terminals": [
+      "GUINDY TVK ESTATE",
+      "SIRUSERI I.T PARK"
+    ]
+  }
+}

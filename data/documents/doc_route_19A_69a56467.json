@@ -1,0 +1,37 @@
+{
+  "document_id": "doc_route_19A_69a56467",
+  "document_type": "route_profile",
+  "title": "Route Profile: Route 19A (5 Service Variants)",
+  "source_file": "route_service_summary.json",
+  "dataset_version": "v1.0.0-sholinganallur",
+  "metadata": {
+    "document_id": "doc_route_19A_69a56467",
+    "document_type": "route_profile",
+    "route_number": "19A",
+    "route_hash_suffix": "69a56467",
+    "variant_count": 5,
+    "variant_route_ids": [
+      "2535",
+      "2536",
+      "5640",
+      "5641",
+      "5765"
+    ],
+    "total_daily_trips": 90,
+    "total_area_departures": 510,
+    "earliest_departure_time": "04:34:45",
+    "latest_departure_time": "23:00:30",
+    "earliest_departure_seconds": 16485,
+    "latest_departure_seconds": 82830,
+    "terminals": [
+      "ADYAR DEPOT",
+      "PERUMBAKKAM TNUHDB",
+      "SEMMANCHERI BUS STAND",
+      "SEMMANCHERI TNUHDB",
+      "THYAGARAYA NAGAR",
+      "THYAGARAYA NAGAR BUS TERMINUS"
+    ]
+  },
+  "content": "# MTC BUS ROUTE PROFILE: ROUTE 19A\n\n## Public Transit Line Overview\n- Public Route Number: 19A\n- Total Operational Variants in Feed: 5 service profiles\n- Total Scheduled Daily Trips: 90 trips\n- Total Sholinganallur Stop Departures: 510 recorded departures\n- Key Terminals & Hubs Served: ADYAR DEPOT, PERUMBAKKAM TNUHDB, SEMMANCHERI BUS STAND, SEMMANCHERI TNUHDB, THYAGARAYA NAGAR, THYAGARAYA NAGAR BUS TERMINUS\n\n## Timetable Service Window\n- Earliest Scheduled Departure in Area: 04:34:45 (Variant ID: 2536)\n- Latest Scheduled Departure in Area: 23:00:30 (Variant ID: 2535)\n- Span of Operation: From 04:34:45 to 23:00:30\n\n## Operational Service Variants (5 GTFS Service Profiles)\n### Variant Route ID: 2535 — THYAGARAYA NAGAR BUS TERMINUS To SEMMANCHERI BUS STAND\n- Terminal Path: THYAGARAYA NAGAR BUS TERMINUS To SEMMANCHERI BUS STAND\n- Scheduled Daily Trips: 42 trips\n- Departures Serving Sholinganallur: 252 stop departures\n- Operational Hours: 06:47:00 to 23:00:30\n\n### Variant Route ID: 2536 — SEMMANCHERI BUS STAND To THYAGARAYA NAGAR BUS TERMINUS\n- Terminal Path: SEMMANCHERI BUS STAND To THYAGARAYA NAGAR BUS TERMINUS\n- Scheduled Daily Trips: 42 trips\n- Departures Serving Sholinganallur: 252 stop departures\n- Operational Hours: 04:34:45 to 21:23:15\n\n### Variant Route ID: 5640 — ADYAR DEPOT To SEMMANCHERI TNUHDB\n- Terminal Path: ADYAR DEPOT To SEMMANCHERI TNUHDB\n- Scheduled Daily Trips: 2 trips\n- Departures Serving Sholinganallur: 2 stop departures\n- Operational Hours: 05:28:45 to 05:53:45\n\n### Variant Route ID: 5641 — SEMMANCHERI TNUHDB To ADYAR DEPOT\n- Terminal Path: SEMMANCHERI TNUHDB To ADYAR DEPOT\n- Scheduled Daily Trips: 3 trips\n- Departures Serving Sholinganallur: 3 stop departures\n- Operational Hours: 21:32:00 to 22:37:00\n\n### Variant Route ID: 5765 — PERUMBAKKAM TNUHDB To THYAGARAYA NAGAR\n- Terminal Path: PERUMBAKKAM TNUHDB To THYAGARAYA NAGAR\n- Scheduled Daily Trips: 1 trips\n- Departures Serving Sholinganallur: 1 stop departures\n- Operational Hours: 09:27:00 to 09:27:00\n\n## Static Schedule Disclaimer\n- All timetable benchmarks are derived from official static Chennai MTC GTFS data. Times indicate scheduled timetable departures and do not reflect real-time traffic conditions or live vehicle tracking.",
+  "document_hash": "3a0a39204c5f57ca5c824cfa51abf409be13cf790ea735f91088f958292ab910"
+}

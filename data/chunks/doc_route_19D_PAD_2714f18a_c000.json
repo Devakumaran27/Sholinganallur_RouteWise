@@ -1,0 +1,49 @@
+{
+  "chunk_id": "doc_route_19D_PAD_2714f18a_c000",
+  "document_id": "doc_route_19D_PAD_2714f18a",
+  "chunk_index": 0,
+  "document_type": "route_profile",
+  "title": "Route Profile: Route 19D PAD (2 Service Variants)",
+  "source_dataset": "route_service_summary.json",
+  "dataset_version": "v1.0.0-sholinganallur",
+  "section_heading": "Complete Route Profile & Service Variants",
+  "chunk_text": "# MTC BUS ROUTE PROFILE: ROUTE 19D PAD\n\n## Public Transit Line Overview\n- Public Route Number: 19D PAD\n- Total Operational Variants in Feed: 2 service profiles\n- Total Scheduled Daily Trips: 2 trips\n- Total Sholinganallur Stop Departures: 2 recorded departures\n- Key Terminals & Hubs Served: ADYAR GATE, PERUMBAKKAM TNUHDB\n\n## Timetable Service Window\n- Earliest Scheduled Departure in Area: 09:40:30 (Variant ID: 4870)\n- Latest Scheduled Departure in Area: 14:27:00 (Variant ID: 4871)\n- Span of Operation: From 09:40:30 to 14:27:00\n\n## Operational Service Variants (2 GTFS Service Profiles)\n### Variant Route ID: 4870 — ADYAR GATE To PERUMBAKKAM TNUHDB\n- Terminal Path: ADYAR GATE To PERUMBAKKAM TNUHDB\n- Scheduled Daily Trips: 1 trips\n- Departures Serving Sholinganallur: 1 stop departures\n- Operational Hours: 09:40:30 to 09:40:30\n\n### Variant Route ID: 4871 — PERUMBAKKAM TNUHDB To ADYAR GATE\n- Terminal Path: PERUMBAKKAM TNUHDB To ADYAR GATE\n- Scheduled Daily Trips: 1 trips\n- Departures Serving Sholinganallur: 1 stop departures\n- Operational Hours: 14:27:00 to 14:27:00\n\n## Static Schedule Disclaimer\n- All timetable benchmarks are derived from official static Chennai MTC GTFS data. Times indicate scheduled timetable departures and do not reflect real-time traffic conditions or live vehicle tracking.",
+  "chunk_hash": "eae6e17b010a364d351f3e254a4634c408fb1d5dcaf0c8035a61bb8173feb258",
+  "token_count": 456,
+  "pipeline_version": "v1.0.0-chunking",
+  "source_start_char": 0,
+  "source_end_char": 1310,
+  "injected_context_header": "",
+  "overlap_text": "",
+  "has_overlap": false,
+  "overlap_tokens": 0,
+  "metadata": {
+    "is_atomic": true,
+    "has_overlap": false,
+    "overlap_tokens": 0,
+    "source_start_char": 0,
+    "source_end_char": 1310,
+    "injected_context_header": "",
+    "overlap_text": "",
+    "source_tokens": 456,
+    "document_id": "doc_route_19D_PAD_2714f18a",
+    "document_type": "route_profile",
+    "route_number": "19D PAD",
+    "route_hash_suffix": "2714f18a",
+    "variant_count": 2,
+    "variant_route_ids": [
+      "4870",
+      "4871"
+    ],
+    "total_daily_trips": 2,
+    "total_area_departures": 2,
+    "earliest_departure_time": "09:40:30",
+    "latest_departure_time": "14:27:00",
+    "earliest_departure_seconds": 34830,
+    "latest_departure_seconds": 52020,
+    "terminals": [
+      "ADYAR GATE",
+      "PERUMBAKKAM TNUHDB"
+    ]
+  }
+}

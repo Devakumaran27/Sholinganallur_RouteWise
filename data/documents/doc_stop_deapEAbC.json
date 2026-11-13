@@ -1,0 +1,26 @@
+{
+  "document_id": "doc_stop_deapEAbC",
+  "document_type": "stop_profile",
+  "title": "Bus Stop Profile: SHOLINGANALLUR (Stop ID: deapEAbC)",
+  "source_file": "bus_stops.json",
+  "dataset_version": "v1.0.0-sholinganallur",
+  "metadata": {
+    "document_type": "stop_profile",
+    "stop_id": "deapEAbC",
+    "stop_code": "deapEAbC",
+    "stop_name": "SHOLINGANALLUR",
+    "map_eligible": true,
+    "has_coordinates": true,
+    "latitude": 12.89991,
+    "longitude": 80.22773,
+    "total_departures": 75,
+    "connecting_route_count": 3,
+    "connecting_routes": [
+      "19B",
+      "555G",
+      "555S"
+    ]
+  },
+  "content": "# BUS STOP DIRECTORY: SHOLINGANALLUR\n\n## Stop Identification & Locality\n- Official Stop Name: SHOLINGANALLUR\n- Stop Identifier (GTFS stop_id): deapEAbC\n- Stop Code: deapEAbC\n- Locality: Sholinganallur, Chennai (MTC Transit Zone)\n\n## Geographic Coordinates & Mapping Eligibility\n- Latitude: 12.89991\n- Longitude: 80.22773\n- Map Display Eligible: Yes\n- Coordinate Status: WITHIN_CONFIGURED_BOUNDS_NOT_INDEPENDENTLY_GROUND_TRUTH_VERIFIED\n\n## Bus Services & Operational Departures\n- Total Recorded Stop Departures: 75 scheduled departures\n- Number of Connecting Route Lines: 3 lines\n- Serving Bus Lines: 19B, 555G, 555S\n\n## Important Notice\n- All departure times and schedules represent official static Chennai MTC GTFS timetable feeds. Real-time GPS tracking and live bus arrival times are not provided.",
+  "document_hash": "eac31300f646f6c9b2c4e6463b8046cdbab4703c29076e2bc8f40620eadf1a8c"
+}

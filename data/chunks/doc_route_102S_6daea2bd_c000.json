@@ -1,0 +1,49 @@
+{
+  "chunk_id": "doc_route_102S_6daea2bd_c000",
+  "document_id": "doc_route_102S_6daea2bd",
+  "chunk_index": 0,
+  "document_type": "route_profile",
+  "title": "Route Profile: Route 102S (2 Service Variants)",
+  "source_dataset": "route_service_summary.json",
+  "dataset_version": "v1.0.0-sholinganallur",
+  "section_heading": "Complete Route Profile & Service Variants",
+  "chunk_text": "# MTC BUS ROUTE PROFILE: ROUTE 102S\n\n## Public Transit Line Overview\n- Public Route Number: 102S\n- Total Operational Variants in Feed: 2 service profiles\n- Total Scheduled Daily Trips: 5 trips\n- Total Sholinganallur Stop Departures: 5 recorded departures\n- Key Terminals & Hubs Served: BROADWAY, KELAMBAKKAM\n\n## Timetable Service Window\n- Earliest Scheduled Departure in Area: 10:26:30 (Variant ID: 1960)\n- Latest Scheduled Departure in Area: 20:49:30 (Variant ID: 1960)\n- Span of Operation: From 10:26:30 to 20:49:30\n\n## Operational Service Variants (2 GTFS Service Profiles)\n### Variant Route ID: 1960 — BROADWAY To KELAMBAKKAM\n- Terminal Path: BROADWAY To KELAMBAKKAM\n- Scheduled Daily Trips: 3 trips\n- Departures Serving Sholinganallur: 3 stop departures\n- Operational Hours: 10:26:30 to 20:49:30\n\n### Variant Route ID: 1961 — KELAMBAKKAM To BROADWAY\n- Terminal Path: KELAMBAKKAM To BROADWAY\n- Scheduled Daily Trips: 2 trips\n- Departures Serving Sholinganallur: 2 stop departures\n- Operational Hours: 12:03:00 to 16:13:00\n\n## Static Schedule Disclaimer\n- All timetable benchmarks are derived from official static Chennai MTC GTFS data. Times indicate scheduled timetable departures and do not reflect real-time traffic conditions or live vehicle tracking.",
+  "chunk_hash": "b25319a3f7e30c0fec03e85941027e50c0d8c286a2b3f179533d5e0dd1194300",
+  "token_count": 441,
+  "pipeline_version": "v1.0.0-chunking",
+  "source_start_char": 0,
+  "source_end_char": 1259,
+  "injected_context_header": "",
+  "overlap_text": "",
+  "has_overlap": false,
+  "overlap_tokens": 0,
+  "metadata": {
+    "is_atomic": true,
+    "has_overlap": false,
+    "overlap_tokens": 0,
+    "source_start_char": 0,
+    "source_end_char": 1259,
+    "injected_context_header": "",
+    "overlap_text": "",
+    "source_tokens": 441,
+    "document_id": "doc_route_102S_6daea2bd",
+    "document_type": "route_profile",
+    "route_number": "102S",
+    "route_hash_suffix": "6daea2bd",
+    "variant_count": 2,
+    "variant_route_ids": [
+      "1960",
+      "1961"
+    ],
+    "total_daily_trips": 5,
+    "total_area_departures": 5,
+    "earliest_departure_time": "10:26:30",
+    "latest_departure_time": "20:49:30",
+    "earliest_departure_seconds": 37590,
+    "latest_departure_seconds": 74970,
+    "terminals": [
+      "BROADWAY",
+      "KELAMBAKKAM"
+    ]
+  }
+}

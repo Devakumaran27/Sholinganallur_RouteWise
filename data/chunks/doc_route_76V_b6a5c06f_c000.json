@@ -1,0 +1,49 @@
+{
+  "chunk_id": "doc_route_76V_b6a5c06f_c000",
+  "document_id": "doc_route_76V_b6a5c06f",
+  "chunk_index": 0,
+  "document_type": "route_profile",
+  "title": "Route Profile: Route 76V (2 Service Variants)",
+  "source_dataset": "route_service_summary.json",
+  "dataset_version": "v1.0.0-sholinganallur",
+  "section_heading": "Complete Route Profile & Service Variants",
+  "chunk_text": "# MTC BUS ROUTE PROFILE: ROUTE 76V\n\n## Public Transit Line Overview\n- Public Route Number: 76V\n- Total Operational Variants in Feed: 2 service profiles\n- Total Scheduled Daily Trips: 10 trips\n- Total Sholinganallur Stop Departures: 10 recorded departures\n- Key Terminals & Hubs Served: M.G.R.KOYAMBEDU, SIRUSERI I.T PARK\n\n## Timetable Service Window\n- Earliest Scheduled Departure in Area: 06:04:00 (Variant ID: 4164)\n- Latest Scheduled Departure in Area: 19:46:30 (Variant ID: 4165)\n- Span of Operation: From 06:04:00 to 19:46:30\n\n## Operational Service Variants (2 GTFS Service Profiles)\n### Variant Route ID: 4164 — M.G.R.KOYAMBEDU To SIRUSERI I.T PARK\n- Terminal Path: M.G.R.KOYAMBEDU To SIRUSERI I.T PARK\n- Scheduled Daily Trips: 5 trips\n- Departures Serving Sholinganallur: 5 stop departures\n- Operational Hours: 06:04:00 to 18:39:00\n\n### Variant Route ID: 4165 — SIRUSERI I.T PARK To M.G.R.KOYAMBEDU\n- Terminal Path: SIRUSERI I.T PARK To M.G.R.KOYAMBEDU\n- Scheduled Daily Trips: 5 trips\n- Departures Serving Sholinganallur: 5 stop departures\n- Operational Hours: 07:16:30 to 19:46:30\n\n## Static Schedule Disclaimer\n- All timetable benchmarks are derived from official static Chennai MTC GTFS data. Times indicate scheduled timetable departures and do not reflect real-time traffic conditions or live vehicle tracking.",
+  "chunk_hash": "7f807acdefef2c7d891bc2e967d2caee5b50bc2c5b6ab6107d6cd1a66c22c7ec",
+  "token_count": 494,
+  "pipeline_version": "v1.0.0-chunking",
+  "source_start_char": 0,
+  "source_end_char": 1324,
+  "injected_context_header": "",
+  "overlap_text": "",
+  "has_overlap": false,
+  "overlap_tokens": 0,
+  "metadata": {
+    "is_atomic": true,
+    "has_overlap": false,
+    "overlap_tokens": 0,
+    "source_start_char": 0,
+    "source_end_char": 1324,
+    "injected_context_header": "",
+    "overlap_text": "",
+    "source_tokens": 494,
+    "document_id": "doc_route_76V_b6a5c06f",
+    "document_type": "route_profile",
+    "route_number": "76V",
+    "route_hash_suffix": "b6a5c06f",
+    "variant_count": 2,
+    "variant_route_ids": [
+      "4164",
+      "4165"
+    ],
+    "total_daily_trips": 10,
+    "total_area_departures": 10,
+    "earliest_departure_time": "06:04:00",
+    "latest_departure_time": "19:46:30",
+    "earliest_departure_seconds": 21840,
+    "latest_departure_seconds": 71190,
+    "terminals": [
+      "M.G.R.KOYAMBEDU",
+      "SIRUSERI I.T PARK"
+    ]
+  }
+}

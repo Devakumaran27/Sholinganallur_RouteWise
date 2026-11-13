@@ -1,0 +1,30 @@
+{
+  "document_id": "doc_route_MAA2CT_07501c88",
+  "document_type": "route_profile",
+  "title": "Route Profile: Route MAA2CT (2 Service Variants)",
+  "source_file": "route_service_summary.json",
+  "dataset_version": "v1.0.0-sholinganallur",
+  "metadata": {
+    "document_id": "doc_route_MAA2CT_07501c88",
+    "document_type": "route_profile",
+    "route_number": "MAA2CT",
+    "route_hash_suffix": "07501c88",
+    "variant_count": 2,
+    "variant_route_ids": [
+      "5790",
+      "5791"
+    ],
+    "total_daily_trips": 45,
+    "total_area_departures": 45,
+    "earliest_departure_time": "05:37:00",
+    "latest_departure_time": "22:39:30",
+    "earliest_departure_seconds": 20220,
+    "latest_departure_seconds": 81570,
+    "terminals": [
+      "CHENNAI AIRPORT",
+      "PERUMBAKKAM TNUHDB"
+    ]
+  },
+  "content": "# MTC BUS ROUTE PROFILE: ROUTE MAA2CT\n\n## Public Transit Line Overview\n- Public Route Number: MAA2CT\n- Total Operational Variants in Feed: 2 service profiles\n- Total Scheduled Daily Trips: 45 trips\n- Total Sholinganallur Stop Departures: 45 recorded departures\n- Key Terminals & Hubs Served: CHENNAI AIRPORT, PERUMBAKKAM TNUHDB\n\n## Timetable Service Window\n- Earliest Scheduled Departure in Area: 05:37:00 (Variant ID: 5791)\n- Latest Scheduled Departure in Area: 22:39:30 (Variant ID: 5790)\n- Span of Operation: From 05:37:00 to 22:39:30\n\n## Operational Service Variants (2 GTFS Service Profiles)\n### Variant Route ID: 5790 — CHENNAI AIRPORT To PERUMBAKKAM TNUHDB\n- Terminal Path: CHENNAI AIRPORT To PERUMBAKKAM TNUHDB\n- Scheduled Daily Trips: 17 trips\n- Departures Serving Sholinganallur: 17 stop departures\n- Operational Hours: 11:59:30 to 22:39:30\n\n### Variant Route ID: 5791 — PERUMBAKKAM TNUHDB To CHENNAI AIRPORT\n- Terminal Path: PERUMBAKKAM TNUHDB To CHENNAI AIRPORT\n- Scheduled Daily Trips: 28 trips\n- Departures Serving Sholinganallur: 28 stop departures\n- Operational Hours: 05:37:00 to 16:12:00\n\n## Static Schedule Disclaimer\n- All timetable benchmarks are derived from official static Chennai MTC GTFS data. Times indicate scheduled timetable departures and do not reflect real-time traffic conditions or live vehicle tracking.",
+  "document_hash": "8c5738e92e1b7432abd481da441bfdf2c6e7593e9a73be9459172a2d1fee8bf9"
+}

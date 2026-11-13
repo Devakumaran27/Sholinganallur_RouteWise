@@ -1,0 +1,49 @@
+{
+  "chunk_id": "doc_route_102P_CD_24f46c1a_c000",
+  "document_id": "doc_route_102P_CD_24f46c1a",
+  "chunk_index": 0,
+  "document_type": "route_profile",
+  "title": "Route Profile: Route 102P CD (2 Service Variants)",
+  "source_dataset": "route_service_summary.json",
+  "dataset_version": "v1.0.0-sholinganallur",
+  "section_heading": "Complete Route Profile & Service Variants",
+  "chunk_text": "# MTC BUS ROUTE PROFILE: ROUTE 102P CD\n\n## Public Transit Line Overview\n- Public Route Number: 102P CD\n- Total Operational Variants in Feed: 2 service profiles\n- Total Scheduled Daily Trips: 6 trips\n- Total Sholinganallur Stop Departures: 6 recorded departures\n- Key Terminals & Hubs Served: M.G.R.CENTRAL, PERUMBAKKAM TNUHDB\n\n## Timetable Service Window\n- Earliest Scheduled Departure in Area: 06:01:45 (Variant ID: 4823)\n- Latest Scheduled Departure in Area: 20:17:00 (Variant ID: 4824)\n- Span of Operation: From 06:01:45 to 20:17:00\n\n## Operational Service Variants (2 GTFS Service Profiles)\n### Variant Route ID: 4823 — M.G.R.CENTRAL To PERUMBAKKAM TNUHDB\n- Terminal Path: M.G.R.CENTRAL To PERUMBAKKAM TNUHDB\n- Scheduled Daily Trips: 3 trips\n- Departures Serving Sholinganallur: 3 stop departures\n- Operational Hours: 06:01:45 to 06:36:45\n\n### Variant Route ID: 4824 — PERUMBAKKAM TNUHDB To M.G.R.CENTRAL\n- Terminal Path: PERUMBAKKAM TNUHDB To M.G.R.CENTRAL\n- Scheduled Daily Trips: 3 trips\n- Departures Serving Sholinganallur: 3 stop departures\n- Operational Hours: 19:52:00 to 20:17:00\n\n## Static Schedule Disclaimer\n- All timetable benchmarks are derived from official static Chennai MTC GTFS data. Times indicate scheduled timetable departures and do not reflect real-time traffic conditions or live vehicle tracking.",
+  "chunk_hash": "ec67c69361eefc6b4dd34bb8c82505260932e0a54d39fac77de803465936d317",
+  "token_count": 478,
+  "pipeline_version": "v1.0.0-chunking",
+  "source_start_char": 0,
+  "source_end_char": 1325,
+  "injected_context_header": "",
+  "overlap_text": "",
+  "has_overlap": false,
+  "overlap_tokens": 0,
+  "metadata": {
+    "is_atomic": true,
+    "has_overlap": false,
+    "overlap_tokens": 0,
+    "source_start_char": 0,
+    "source_end_char": 1325,
+    "injected_context_header": "",
+    "overlap_text": "",
+    "source_tokens": 478,
+    "document_id": "doc_route_102P_CD_24f46c1a",
+    "document_type": "route_profile",
+    "route_number": "102P CD",
+    "route_hash_suffix": "24f46c1a",
+    "variant_count": 2,
+    "variant_route_ids": [
+      "4823",
+      "4824"
+    ],
+    "total_daily_trips": 6,
+    "total_area_departures": 6,
+    "earliest_departure_time": "06:01:45",
+    "latest_departure_time": "20:17:00",
+    "earliest_departure_seconds": 21705,
+    "latest_departure_seconds": 73020,
+    "terminals": [
+      "M.G.R.CENTRAL",
+      "PERUMBAKKAM TNUHDB"
+    ]
+  }
+}

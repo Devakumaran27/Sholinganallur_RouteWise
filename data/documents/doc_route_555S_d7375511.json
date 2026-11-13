@@ -1,0 +1,30 @@
+{
+  "document_id": "doc_route_555S_d7375511",
+  "document_type": "route_profile",
+  "title": "Route Profile: Route 555S (2 Service Variants)",
+  "source_file": "route_service_summary.json",
+  "dataset_version": "v1.0.0-sholinganallur",
+  "metadata": {
+    "document_id": "doc_route_555S_d7375511",
+    "document_type": "route_profile",
+    "route_number": "555S",
+    "route_hash_suffix": "d7375511",
+    "variant_count": 2,
+    "variant_route_ids": [
+      "3342",
+      "3343"
+    ],
+    "total_daily_trips": 88,
+    "total_area_departures": 352,
+    "earliest_departure_time": "00:00:15",
+    "latest_departure_time": "22:09:15",
+    "earliest_departure_seconds": 15,
+    "latest_departure_seconds": 79755,
+    "terminals": [
+      "KILAMBAKKAM BUS TERMINUS",
+      "SHOLINGANALLUR"
+    ]
+  },
+  "content": "# MTC BUS ROUTE PROFILE: ROUTE 555S\n\n## Public Transit Line Overview\n- Public Route Number: 555S\n- Total Operational Variants in Feed: 2 service profiles\n- Total Scheduled Daily Trips: 88 trips\n- Total Sholinganallur Stop Departures: 352 recorded departures\n- Key Terminals & Hubs Served: KILAMBAKKAM BUS TERMINUS, SHOLINGANALLUR\n\n## Timetable Service Window\n- Earliest Scheduled Departure in Area: 00:00:15 (Variant ID: 3342)\n- Latest Scheduled Departure in Area: 22:09:15 (Variant ID: 3342)\n- Span of Operation: From 00:00:15 to 22:09:15\n\n## Operational Service Variants (2 GTFS Service Profiles)\n### Variant Route ID: 3342 — SHOLINGANALLUR To KILAMBAKKAM BUS TERMINUS\n- Terminal Path: SHOLINGANALLUR To KILAMBAKKAM BUS TERMINUS\n- Scheduled Daily Trips: 44 trips\n- Departures Serving Sholinganallur: 176 stop departures\n- Operational Hours: 00:00:15 to 22:09:15\n\n### Variant Route ID: 3343 — KILAMBAKKAM BUS TERMINUS To SHOLINGANALLUR\n- Terminal Path: KILAMBAKKAM BUS TERMINUS To SHOLINGANALLUR\n- Scheduled Daily Trips: 44 trips\n- Departures Serving Sholinganallur: 176 stop departures\n- Operational Hours: 01:19:00 to 22:02:45\n\n## Static Schedule Disclaimer\n- All timetable benchmarks are derived from official static Chennai MTC GTFS data. Times indicate scheduled timetable departures and do not reflect real-time traffic conditions or live vehicle tracking.",
+  "document_hash": "ff675da84390a0eb127f2feb43b47ff3690dfec651d0c12d9697a6fea3b892e3"
+}

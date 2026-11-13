@@ -1,0 +1,37 @@
+{
+  "document_id": "doc_route_523_a1e8154b",
+  "document_type": "route_profile",
+  "title": "Route Profile: Route 523 (6 Service Variants)",
+  "source_file": "route_service_summary.json",
+  "dataset_version": "v1.0.0-sholinganallur",
+  "metadata": {
+    "document_id": "doc_route_523_a1e8154b",
+    "document_type": "route_profile",
+    "route_number": "523",
+    "route_hash_suffix": "a1e8154b",
+    "variant_count": 6,
+    "variant_route_ids": [
+      "803",
+      "805",
+      "806",
+      "896",
+      "898",
+      "900"
+    ],
+    "total_daily_trips": 18,
+    "total_area_departures": 36,
+    "earliest_departure_time": "06:38:45",
+    "latest_departure_time": "21:39:45",
+    "earliest_departure_seconds": 23925,
+    "latest_departure_seconds": 77985,
+    "terminals": [
+      "MULLIPAKKAM",
+      "P U OFFICE SHOLINGANALLUR",
+      "PERUNTHANDALAM",
+      "SHOLINGANALLUR P.U.OFFICE",
+      "THIRUVANMIYUR"
+    ]
+  },
+  "content": "# MTC BUS ROUTE PROFILE: ROUTE 523\n\n## Public Transit Line Overview\n- Public Route Number: 523\n- Total Operational Variants in Feed: 6 service profiles\n- Total Scheduled Daily Trips: 18 trips\n- Total Sholinganallur Stop Departures: 36 recorded departures\n- Key Terminals & Hubs Served: MULLIPAKKAM, P U OFFICE SHOLINGANALLUR, PERUNTHANDALAM, SHOLINGANALLUR P.U.OFFICE, THIRUVANMIYUR\n\n## Timetable Service Window\n- Earliest Scheduled Departure in Area: 06:38:45 (Variant ID: 805)\n- Latest Scheduled Departure in Area: 21:39:45 (Variant ID: 900)\n- Span of Operation: From 06:38:45 to 21:39:45\n\n## Operational Service Variants (6 GTFS Service Profiles)\n### Variant Route ID: 803 — SHOLINGANALLUR P.U.OFFICE To MULLIPAKKAM\n- Terminal Path: SHOLINGANALLUR P.U.OFFICE To MULLIPAKKAM\n- Scheduled Daily Trips: 4 trips\n- Departures Serving Sholinganallur: 4 stop departures\n- Operational Hours: 10:05:15 to 19:15:15\n\n### Variant Route ID: 805 — THIRUVANMIYUR To MULLIPAKKAM\n- Terminal Path: THIRUVANMIYUR To MULLIPAKKAM\n- Scheduled Daily Trips: 2 trips\n- Departures Serving Sholinganallur: 2 stop departures\n- Operational Hours: 06:38:45 to 06:43:45\n\n### Variant Route ID: 806 — P U OFFICE SHOLINGANALLUR To PERUNTHANDALAM\n- Terminal Path: P U OFFICE SHOLINGANALLUR To PERUNTHANDALAM\n- Scheduled Daily Trips: 3 trips\n- Departures Serving Sholinganallur: 12 stop departures\n- Operational Hours: 10:00:15 to 16:34:15\n\n### Variant Route ID: 896 — MULLIPAKKAM To SHOLINGANALLUR P.U.OFFICE\n- Terminal Path: MULLIPAKKAM To SHOLINGANALLUR P.U.OFFICE\n- Scheduled Daily Trips: 4 trips\n- Departures Serving Sholinganallur: 4 stop departures\n- Operational Hours: 09:14:30 to 15:39:30\n\n### Variant Route ID: 898 — PERUNTHANDALAM To P U OFFICE SHOLINGANALLUR\n- Terminal Path: PERUNTHANDALAM To P U OFFICE SHOLINGANALLUR\n- Scheduled Daily Trips: 3 trips\n- Departures Serving Sholinganallur: 12 stop departures\n- Operational Hours: 12:51:45 to 19:20:30\n\n### Variant Route ID: 900 — MULLIPAKKAM To THIRUVANMIYUR\n- Terminal Path: MULLIPAKKAM To THIRUVANMIYUR\n- Scheduled Daily Trips: 2 trips\n- Departures Serving Sholinganallur: 2 stop departures\n- Operational Hours: 21:34:45 to 21:39:45\n\n## Static Schedule Disclaimer\n- All timetable benchmarks are derived from official static Chennai MTC GTFS data. Times indicate scheduled timetable departures and do not reflect real-time traffic conditions or live vehicle tracking.",
+  "document_hash": "a5b655ef06cdcb79fa18dc3a83337e1209223f1fc0d0fd7d54934b95c817e8a0"
+}

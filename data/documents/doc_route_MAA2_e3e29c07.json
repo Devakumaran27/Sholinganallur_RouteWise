@@ -1,0 +1,30 @@
+{
+  "document_id": "doc_route_MAA2_e3e29c07",
+  "document_type": "route_profile",
+  "title": "Route Profile: Route MAA2 (2 Service Variants)",
+  "source_file": "route_service_summary.json",
+  "dataset_version": "v1.0.0-sholinganallur",
+  "metadata": {
+    "document_id": "doc_route_MAA2_e3e29c07",
+    "document_type": "route_profile",
+    "route_number": "MAA2",
+    "route_hash_suffix": "e3e29c07",
+    "variant_count": 2,
+    "variant_route_ids": [
+      "5174",
+      "5179"
+    ],
+    "total_daily_trips": 213,
+    "total_area_departures": 1065,
+    "earliest_departure_time": "05:18:15",
+    "latest_departure_time": "23:18:45",
+    "earliest_departure_seconds": 19095,
+    "latest_departure_seconds": 83925,
+    "terminals": [
+      "CHENNAI AIRPORT",
+      "SIRUSERI I.T.PARK"
+    ]
+  },
+  "content": "# MTC BUS ROUTE PROFILE: ROUTE MAA2\n\n## Public Transit Line Overview\n- Public Route Number: MAA2\n- Total Operational Variants in Feed: 2 service profiles\n- Total Scheduled Daily Trips: 213 trips\n- Total Sholinganallur Stop Departures: 1065 recorded departures\n- Key Terminals & Hubs Served: CHENNAI AIRPORT, SIRUSERI I.T.PARK\n\n## Timetable Service Window\n- Earliest Scheduled Departure in Area: 05:18:15 (Variant ID: 5179)\n- Latest Scheduled Departure in Area: 23:18:45 (Variant ID: 5174)\n- Span of Operation: From 05:18:15 to 23:18:45\n\n## Operational Service Variants (2 GTFS Service Profiles)\n### Variant Route ID: 5174 — CHENNAI AIRPORT To SIRUSERI I.T.PARK\n- Terminal Path: CHENNAI AIRPORT To SIRUSERI I.T.PARK\n- Scheduled Daily Trips: 112 trips\n- Departures Serving Sholinganallur: 560 stop departures\n- Operational Hours: 05:49:45 to 23:18:45\n\n### Variant Route ID: 5179 — SIRUSERI I.T.PARK To CHENNAI AIRPORT\n- Terminal Path: SIRUSERI I.T.PARK To CHENNAI AIRPORT\n- Scheduled Daily Trips: 101 trips\n- Departures Serving Sholinganallur: 505 stop departures\n- Operational Hours: 05:18:15 to 22:27:15\n\n## Static Schedule Disclaimer\n- All timetable benchmarks are derived from official static Chennai MTC GTFS data. Times indicate scheduled timetable departures and do not reflect real-time traffic conditions or live vehicle tracking.",
+  "document_hash": "6064c8c744c6bbc83373ea35b8285b42949e291c3e1b8895f01c7e89753859fe"
+}

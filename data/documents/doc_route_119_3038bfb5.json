@@ -1,0 +1,44 @@
+{
+  "document_id": "doc_route_119_3038bfb5",
+  "document_type": "route_profile",
+  "title": "Route Profile: Route 119 (10 Service Variants)",
+  "source_file": "route_service_summary.json",
+  "dataset_version": "v1.0.0-sholinganallur",
+  "metadata": {
+    "document_id": "doc_route_119_3038bfb5",
+    "document_type": "route_profile",
+    "route_number": "119",
+    "route_hash_suffix": "3038bfb5",
+    "variant_count": 10,
+    "variant_route_ids": [
+      "1033",
+      "1034",
+      "1035",
+      "1299",
+      "2154",
+      "2155",
+      "384",
+      "385",
+      "386",
+      "387"
+    ],
+    "total_daily_trips": 276,
+    "total_area_departures": 1526,
+    "earliest_departure_time": "04:24:45",
+    "latest_departure_time": "22:45:00",
+    "earliest_departure_seconds": 15885,
+    "latest_departure_seconds": 81900,
+    "terminals": [
+      "ADYAR B.T",
+      "ADYAR DEPOT",
+      "CEMENT ROAD",
+      "GUINDY B.T",
+      "K.K.NAGAR",
+      "SEMMANCHERI BUS STAND",
+      "SEMMANCHERI TNUHDB",
+      "VELACHERY"
+    ]
+  },
+  "content": "# MTC BUS ROUTE PROFILE: ROUTE 119\n\n## Public Transit Line Overview\n- Public Route Number: 119\n- Total Operational Variants in Feed: 10 service profiles\n- Total Scheduled Daily Trips: 276 trips\n- Total Sholinganallur Stop Departures: 1526 recorded departures\n- Key Terminals & Hubs Served: ADYAR B.T, ADYAR DEPOT, CEMENT ROAD, GUINDY B.T, K.K.NAGAR, SEMMANCHERI BUS STAND, SEMMANCHERI TNUHDB, VELACHERY\n\n## Timetable Service Window\n- Earliest Scheduled Departure in Area: 04:24:45 (Variant ID: 387)\n- Latest Scheduled Departure in Area: 22:45:00 (Variant ID: 385)\n- Span of Operation: From 04:24:45 to 22:45:00\n\n## Operational Service Variants (10 GTFS Service Profiles)\n### Variant Route ID: 1033 — CEMENT ROAD To SEMMANCHERI TNUHDB\n- Terminal Path: CEMENT ROAD To SEMMANCHERI TNUHDB\n- Scheduled Daily Trips: 5 trips\n- Departures Serving Sholinganallur: 5 stop departures\n- Operational Hours: 04:44:30 to 07:00:30\n\n### Variant Route ID: 1034 — SEMMANCHERI TNUHDB To CEMENT ROAD\n- Terminal Path: SEMMANCHERI TNUHDB To CEMENT ROAD\n- Scheduled Daily Trips: 5 trips\n- Departures Serving Sholinganallur: 5 stop departures\n- Operational Hours: 19:17:00 to 21:27:00\n\n### Variant Route ID: 1035 — SEMMANCHERI BUS STAND To VELACHERY\n- Terminal Path: SEMMANCHERI BUS STAND To VELACHERY\n- Scheduled Daily Trips: 24 trips\n- Departures Serving Sholinganallur: 144 stop departures\n- Operational Hours: 08:00:45 to 18:03:15\n\n### Variant Route ID: 1299 — VELACHERY To SEMMANCHERI BUS STAND\n- Terminal Path: VELACHERY To SEMMANCHERI BUS STAND\n- Scheduled Daily Trips: 23 trips\n- Departures Serving Sholinganallur: 138 stop departures\n- Operational Hours: 09:50:45 to 19:34:15\n\n### Variant Route ID: 2154 — K.K.NAGAR To SEMMANCHERI TNUHDB\n- Terminal Path: K.K.NAGAR To SEMMANCHERI TNUHDB\n- Scheduled Daily Trips: 8 trips\n- Departures Serving Sholinganallur: 8 stop departures\n- Operational Hours: 04:56:45 to 07:31:45\n\n### Variant Route ID: 2155 — SEMMANCHERI BUS STAND To K.K.NAGAR\n- Terminal Path: SEMMANCHERI BUS STAND To K.K.NAGAR\n- Scheduled Daily Trips: 8 trips\n- Departures Serving Sholinganallur: 48 stop departures\n- Operational Hours: 19:06:45 to 22:08:15\n\n### Variant Route ID: 384 — ADYAR B.T To SEMMANCHERI TNUHDB\n- Terminal Path: ADYAR B.T To SEMMANCHERI TNUHDB\n- Scheduled Daily Trips: 4 trips\n- Departures Serving Sholinganallur: 4 stop departures\n- Operational Hours: 04:41:00 to 06:46:00\n\n### Variant Route ID: 385 — GUINDY B.T To SEMMANCHERI BUS STAND\n- Terminal Path: GUINDY B.T To SEMMANCHERI BUS STAND\n- Scheduled Daily Trips: 98 trips\n- Departures Serving Sholinganallur: 588 stop departures\n- Operational Hours: 06:16:30 to 22:45:00\n\n### Variant Route ID: 386 — SEMMANCHERI TNUHDB To ADYAR DEPOT\n- Terminal Path: SEMMANCHERI TNUHDB To ADYAR DEPOT\n- Scheduled Daily Trips: 4 trips\n- Departures Serving Sholinganallur: 4 stop departures\n- Operational Hours: 19:37:00 to 21:42:00\n\n### Variant Route ID: 387 — SEMMANCHERI BUS STAND To GUINDY B.T\n- Terminal Path: SEMMANCHERI BUS STAND To GUINDY B.T\n- Scheduled Daily Trips: 97 trips\n- Departures Serving Sholinganallur: 582 stop departures\n- Operational Hours: 04:24:45 to 20:33:15\n\n## Static Schedule Disclaimer\n- All timetable benchmarks are derived from official static Chennai MTC GTFS data. Times indicate scheduled timetable departures and do not reflect real-time traffic conditions or live vehicle tracking.",
+  "document_hash": "20bb009d4c07dfe2ee4b51fcd77c235f7872ac8426fbd4a54afab6ce35c5b875"
+}

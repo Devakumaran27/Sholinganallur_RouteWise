@@ -1,0 +1,40 @@
+{
+  "document_id": "doc_route_95_ad48ff99",
+  "document_type": "route_profile",
+  "title": "Route Profile: Route 95 (7 Service Variants)",
+  "source_file": "route_service_summary.json",
+  "dataset_version": "v1.0.0-sholinganallur",
+  "metadata": {
+    "document_id": "doc_route_95_ad48ff99",
+    "document_type": "route_profile",
+    "route_number": "95",
+    "route_hash_suffix": "ad48ff99",
+    "variant_count": 7,
+    "variant_route_ids": [
+      "616",
+      "618",
+      "619",
+      "620",
+      "622",
+      "623",
+      "624"
+    ],
+    "total_daily_trips": 467,
+    "total_area_departures": 1380,
+    "earliest_departure_time": "00:31:45",
+    "latest_departure_time": "24:22:30",
+    "earliest_departure_seconds": 1905,
+    "latest_departure_seconds": 87750,
+    "terminals": [
+      "KCBT - KILAMBAKKAM",
+      "P U OFFICE SHOLINGANALLUR",
+      "TAMBARAM EAST",
+      "TAMBARAM RAILWAY STATION EAST",
+      "TAMBARAM WEST BUS STAND",
+      "THIRUVANMIYUR",
+      "THIRUVANMIYUR B.T"
+    ]
+  },
+  "content": "# MTC BUS ROUTE PROFILE: ROUTE 95\n\n## Public Transit Line Overview\n- Public Route Number: 95\n- Total Operational Variants in Feed: 7 service profiles\n- Total Scheduled Daily Trips: 467 trips\n- Total Sholinganallur Stop Departures: 1380 recorded departures\n- Key Terminals & Hubs Served: KCBT - KILAMBAKKAM, P U OFFICE SHOLINGANALLUR, TAMBARAM EAST, TAMBARAM RAILWAY STATION EAST, TAMBARAM WEST BUS STAND, THIRUVANMIYUR, THIRUVANMIYUR B.T\n\n## Timetable Service Window\n- Earliest Scheduled Departure in Area: 00:31:45 (Variant ID: 624)\n- Latest Scheduled Departure in Area: 24:22:30 (Variant ID: 620)\n- Span of Operation: From 00:31:45 to 24:22:30\n\n## Operational Service Variants (7 GTFS Service Profiles)\n### Variant Route ID: 616 — KCBT - KILAMBAKKAM To THIRUVANMIYUR\n- Terminal Path: KCBT - KILAMBAKKAM To THIRUVANMIYUR\n- Scheduled Daily Trips: 2 trips\n- Departures Serving Sholinganallur: 2 stop departures\n- Operational Hours: 05:07:15 to 10:17:15\n\n### Variant Route ID: 618 — TAMBARAM RAILWAY STATION EAST To P U OFFICE SHOLINGANALLUR\n- Terminal Path: TAMBARAM RAILWAY STATION EAST To P U OFFICE SHOLINGANALLUR\n- Scheduled Daily Trips: 37 trips\n- Departures Serving Sholinganallur: 74 stop departures\n- Operational Hours: 08:18:30 to 20:01:30\n\n### Variant Route ID: 619 — TAMBARAM RAILWAY STATION EAST To THIRUVANMIYUR B.T\n- Terminal Path: TAMBARAM RAILWAY STATION EAST To THIRUVANMIYUR B.T\n- Scheduled Daily Trips: 193 trips\n- Departures Serving Sholinganallur: 579 stop departures\n- Operational Hours: 04:47:45 to 23:45:15\n\n### Variant Route ID: 620 — TAMBARAM WEST BUS STAND To THIRUVANMIYUR B.T\n- Terminal Path: TAMBARAM WEST BUS STAND To THIRUVANMIYUR B.T\n- Scheduled Daily Trips: 20 trips\n- Departures Serving Sholinganallur: 60 stop departures\n- Operational Hours: 01:03:00 to 24:22:30\n\n### Variant Route ID: 622 — THIRUVANMIYUR To KCBT - KILAMBAKKAM\n- Terminal Path: THIRUVANMIYUR To KCBT - KILAMBAKKAM\n- Scheduled Daily Trips: 1 trips\n- Departures Serving Sholinganallur: 1 stop departures\n- Operational Hours: 03:28:45 to 03:28:45\n\n### Variant Route ID: 623 — THIRUVANMIYUR B.T To TAMBARAM EAST\n- Terminal Path: THIRUVANMIYUR B.T To TAMBARAM EAST\n- Scheduled Daily Trips: 192 trips\n- Departures Serving Sholinganallur: 576 stop departures\n- Operational Hours: 05:01:45 to 22:16:15\n\n### Variant Route ID: 624 — THIRUVANMIYUR B.T To TAMBARAM WEST BUS STAND\n- Terminal Path: THIRUVANMIYUR B.T To TAMBARAM WEST BUS STAND\n- Scheduled Daily Trips: 22 trips\n- Departures Serving Sholinganallur: 88 stop departures\n- Operational Hours: 00:31:45 to 23:48:30\n\n## Static Schedule Disclaimer\n- All timetable benchmarks are derived from official static Chennai MTC GTFS data. Times indicate scheduled timetable departures and do not reflect real-time traffic conditions or live vehicle tracking.",
+  "document_hash": "621f4f82bea27c47dcf8713ade546ff37807309952c1adebcea890d7353ea4d2"
+}

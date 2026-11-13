@@ -1,0 +1,35 @@
+{
+  "document_id": "doc_route_221_67e9c3ac",
+  "document_type": "route_profile",
+  "title": "Route Profile: Route 221 (4 Service Variants)",
+  "source_file": "route_service_summary.json",
+  "dataset_version": "v1.0.0-sholinganallur",
+  "metadata": {
+    "document_id": "doc_route_221_67e9c3ac",
+    "document_type": "route_profile",
+    "route_number": "221",
+    "route_hash_suffix": "67e9c3ac",
+    "variant_count": 4,
+    "variant_route_ids": [
+      "127",
+      "128",
+      "129",
+      "130"
+    ],
+    "total_daily_trips": 14,
+    "total_area_departures": 42,
+    "earliest_departure_time": "03:56:00",
+    "latest_departure_time": "22:38:00",
+    "earliest_departure_seconds": 14160,
+    "latest_departure_seconds": 81480,
+    "terminals": [
+      "KELAMBAKKAM",
+      "M.G.R.CENTRAL",
+      "M.G.R.CENTRAL OR RAJIV GANDHI GOVERNMENT GENERAL HOSPITAL",
+      "M.G.R.CENTRAL R.S",
+      "THIRUPORUR BUS STAND"
+    ]
+  },
+  "content": "# MTC BUS ROUTE PROFILE: ROUTE 221\n\n## Public Transit Line Overview\n- Public Route Number: 221\n- Total Operational Variants in Feed: 4 service profiles\n- Total Scheduled Daily Trips: 14 trips\n- Total Sholinganallur Stop Departures: 42 recorded departures\n- Key Terminals & Hubs Served: KELAMBAKKAM, M.G.R.CENTRAL, M.G.R.CENTRAL OR RAJIV GANDHI GOVERNMENT GENERAL HOSPITAL, M.G.R.CENTRAL R.S, THIRUPORUR BUS STAND\n\n## Timetable Service Window\n- Earliest Scheduled Departure in Area: 03:56:00 (Variant ID: 128)\n- Latest Scheduled Departure in Area: 22:38:00 (Variant ID: 129)\n- Span of Operation: From 03:56:00 to 22:38:00\n\n## Operational Service Variants (4 GTFS Service Profiles)\n### Variant Route ID: 127 — M.G.R.CENTRAL To KELAMBAKKAM\n- Terminal Path: M.G.R.CENTRAL To KELAMBAKKAM\n- Scheduled Daily Trips: 3 trips\n- Departures Serving Sholinganallur: 3 stop departures\n- Operational Hours: 04:29:30 to 18:04:30\n\n### Variant Route ID: 128 — KELAMBAKKAM To M.G.R.CENTRAL\n- Terminal Path: KELAMBAKKAM To M.G.R.CENTRAL\n- Scheduled Daily Trips: 4 trips\n- Departures Serving Sholinganallur: 4 stop departures\n- Operational Hours: 03:56:00 to 19:36:00\n\n### Variant Route ID: 129 — M.G.R.CENTRAL OR RAJIV GANDHI GOVERNMENT GENERAL HOSPITAL To THIRUPORUR BUS STAND\n- Terminal Path: M.G.R.CENTRAL OR RAJIV GANDHI GOVERNMENT GENERAL HOSPITAL To THIRUPORUR BUS STAND\n- Scheduled Daily Trips: 4 trips\n- Departures Serving Sholinganallur: 20 stop departures\n- Operational Hours: 08:46:45 to 22:38:00\n\n### Variant Route ID: 130 — THIRUPORUR BUS STAND To M.G.R.CENTRAL R.S\n- Terminal Path: THIRUPORUR BUS STAND To M.G.R.CENTRAL R.S\n- Scheduled Daily Trips: 3 trips\n- Departures Serving Sholinganallur: 15 stop departures\n- Operational Hours: 10:29:45 to 19:06:00\n\n## Static Schedule Disclaimer\n- All timetable benchmarks are derived from official static Chennai MTC GTFS data. Times indicate scheduled timetable departures and do not reflect real-time traffic conditions or live vehicle tracking.",
+  "document_hash": "e6301cde38bc59061f6afa08eb72ef57d01834a7d410544cba604c93139fe806"
+}

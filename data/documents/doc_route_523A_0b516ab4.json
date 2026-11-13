@@ -1,0 +1,35 @@
+{
+  "document_id": "doc_route_523A_0b516ab4",
+  "document_type": "route_profile",
+  "title": "Route Profile: Route 523A (4 Service Variants)",
+  "source_file": "route_service_summary.json",
+  "dataset_version": "v1.0.0-sholinganallur",
+  "metadata": {
+    "document_id": "doc_route_523A_0b516ab4",
+    "document_type": "route_profile",
+    "route_number": "523A",
+    "route_hash_suffix": "0b516ab4",
+    "variant_count": 4,
+    "variant_route_ids": [
+      "809",
+      "810",
+      "904",
+      "905"
+    ],
+    "total_daily_trips": 12,
+    "total_area_departures": 36,
+    "earliest_departure_time": "05:23:45",
+    "latest_departure_time": "21:01:00",
+    "earliest_departure_seconds": 19425,
+    "latest_departure_seconds": 75660,
+    "terminals": [
+      "DEVI KARUMARIAMMAN TEMPLE",
+      "KARUMBAKKAM",
+      "THIRUVADAISOOLAM DEVI KARUMARIAMMAN TEMPLE",
+      "THIRUVANMIYUR",
+      "THIRUVANMIYUR B.T"
+    ]
+  },
+  "content": "# MTC BUS ROUTE PROFILE: ROUTE 523A\n\n## Public Transit Line Overview\n- Public Route Number: 523A\n- Total Operational Variants in Feed: 4 service profiles\n- Total Scheduled Daily Trips: 12 trips\n- Total Sholinganallur Stop Departures: 36 recorded departures\n- Key Terminals & Hubs Served: DEVI KARUMARIAMMAN TEMPLE, KARUMBAKKAM, THIRUVADAISOOLAM DEVI KARUMARIAMMAN TEMPLE, THIRUVANMIYUR, THIRUVANMIYUR B.T\n\n## Timetable Service Window\n- Earliest Scheduled Departure in Area: 05:23:45 (Variant ID: 809)\n- Latest Scheduled Departure in Area: 21:01:00 (Variant ID: 904)\n- Span of Operation: From 05:23:45 to 21:01:00\n\n## Operational Service Variants (4 GTFS Service Profiles)\n### Variant Route ID: 809 — THIRUVANMIYUR To DEVI KARUMARIAMMAN TEMPLE\n- Terminal Path: THIRUVANMIYUR To DEVI KARUMARIAMMAN TEMPLE\n- Scheduled Daily Trips: 2 trips\n- Departures Serving Sholinganallur: 2 stop departures\n- Operational Hours: 05:23:45 to 05:23:45\n\n### Variant Route ID: 810 — THIRUVANMIYUR To KARUMBAKKAM\n- Terminal Path: THIRUVANMIYUR To KARUMBAKKAM\n- Scheduled Daily Trips: 4 trips\n- Departures Serving Sholinganallur: 4 stop departures\n- Operational Hours: 10:03:45 to 15:53:45\n\n### Variant Route ID: 904 — THIRUVADAISOOLAM DEVI KARUMARIAMMAN TEMPLE To THIRUVANMIYUR B.T\n- Terminal Path: THIRUVADAISOOLAM DEVI KARUMARIAMMAN TEMPLE To THIRUVANMIYUR B.T\n- Scheduled Daily Trips: 4 trips\n- Departures Serving Sholinganallur: 20 stop departures\n- Operational Hours: 08:59:45 to 21:01:00\n\n### Variant Route ID: 905 — KARUMBAKKAM To THIRUVANMIYUR B.T\n- Terminal Path: KARUMBAKKAM To THIRUVANMIYUR B.T\n- Scheduled Daily Trips: 2 trips\n- Departures Serving Sholinganallur: 10 stop departures\n- Operational Hours: 14:56:45 to 15:08:00\n\n## Static Schedule Disclaimer\n- All timetable benchmarks are derived from official static Chennai MTC GTFS data. Times indicate scheduled timetable departures and do not reflect real-time traffic conditions or live vehicle tracking.",
+  "document_hash": "49381637999f310a939eb86e2f2734db4c47a9c04fdb3edcb70642eca05d30bb"
+}

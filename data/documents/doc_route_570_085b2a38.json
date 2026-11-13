@@ -1,0 +1,46 @@
+{
+  "document_id": "doc_route_570_085b2a38",
+  "document_type": "route_profile",
+  "title": "Route Profile: Route 570 (10 Service Variants)",
+  "source_file": "route_service_summary.json",
+  "dataset_version": "v1.0.0-sholinganallur",
+  "metadata": {
+    "document_id": "doc_route_570_085b2a38",
+    "document_type": "route_profile",
+    "route_number": "570",
+    "route_hash_suffix": "085b2a38",
+    "variant_count": 10,
+    "variant_route_ids": [
+      "3529",
+      "3530",
+      "3531",
+      "3533",
+      "539",
+      "540",
+      "542",
+      "543",
+      "545",
+      "546"
+    ],
+    "total_daily_trips": 578,
+    "total_area_departures": 2470,
+    "earliest_departure_time": "01:04:45",
+    "latest_departure_time": "25:17:30",
+    "earliest_departure_seconds": 3885,
+    "latest_departure_seconds": 91050,
+    "terminals": [
+      "ADYAR DEPOT",
+      "K.K.NAGAR",
+      "KELAMBAKKAM",
+      "KELAMBAKKAM B.T",
+      "M.G.R.KOYAMBEDU",
+      "M.G.R.KOYAMBEDU B.T",
+      "M.M.B.T",
+      "PERUMBAKKAM TNUHDB",
+      "SIRUSERI I.T PARK",
+      "SIRUSERI I.T.PARK"
+    ]
+  },
+  "content": "# MTC BUS ROUTE PROFILE: ROUTE 570\n\n## Public Transit Line Overview\n- Public Route Number: 570\n- Total Operational Variants in Feed: 10 service profiles\n- Total Scheduled Daily Trips: 578 trips\n- Total Sholinganallur Stop Departures: 2470 recorded departures\n- Key Terminals & Hubs Served: ADYAR DEPOT, K.K.NAGAR, KELAMBAKKAM, KELAMBAKKAM B.T, M.G.R.KOYAMBEDU, M.G.R.KOYAMBEDU B.T, M.M.B.T, PERUMBAKKAM TNUHDB, SIRUSERI I.T PARK, SIRUSERI I.T.PARK\n\n## Timetable Service Window\n- Earliest Scheduled Departure in Area: 01:04:45 (Variant ID: 540)\n- Latest Scheduled Departure in Area: 25:17:30 (Variant ID: 542)\n- Span of Operation: From 01:04:45 to 25:17:30\n\n## Operational Service Variants (10 GTFS Service Profiles)\n### Variant Route ID: 3529 — SIRUSERI I.T PARK To K.K.NAGAR\n- Terminal Path: SIRUSERI I.T PARK To K.K.NAGAR\n- Scheduled Daily Trips: 8 trips\n- Departures Serving Sholinganallur: 8 stop departures\n- Operational Hours: 19:41:30 to 21:56:30\n\n### Variant Route ID: 3530 — M.G.R.KOYAMBEDU To PERUMBAKKAM TNUHDB\n- Terminal Path: M.G.R.KOYAMBEDU To PERUMBAKKAM TNUHDB\n- Scheduled Daily Trips: 44 trips\n- Departures Serving Sholinganallur: 44 stop departures\n- Operational Hours: 06:01:15 to 23:21:15\n\n### Variant Route ID: 3531 — PERUMBAKKAM TNUHDB To M.G.R.KOYAMBEDU\n- Terminal Path: PERUMBAKKAM TNUHDB To M.G.R.KOYAMBEDU\n- Scheduled Daily Trips: 36 trips\n- Departures Serving Sholinganallur: 36 stop departures\n- Operational Hours: 04:07:00 to 24:02:00\n\n### Variant Route ID: 3533 — M.M.B.T To SIRUSERI I.T PARK\n- Terminal Path: M.M.B.T To SIRUSERI I.T PARK\n- Scheduled Daily Trips: 8 trips\n- Departures Serving Sholinganallur: 8 stop departures\n- Operational Hours: 06:19:45 to 08:24:45\n\n### Variant Route ID: 539 — KELAMBAKKAM To ADYAR DEPOT\n- Terminal Path: KELAMBAKKAM To ADYAR DEPOT\n- Scheduled Daily Trips: 3 trips\n- Departures Serving Sholinganallur: 3 stop departures\n- Operational Hours: 07:01:00 to 21:26:00\n\n### Variant Route ID: 540 — KELAMBAKKAM B.T To M.G.R.KOYAMBEDU B.T\n- Terminal Path: KELAMBAKKAM B.T To M.G.R.KOYAMBEDU B.T\n- Scheduled Daily Trips: 73 trips\n- Departures Serving Sholinganallur: 365 stop departures\n- Operational Hours: 01:04:45 to 24:13:00\n\n### Variant Route ID: 542 — M.G.R.KOYAMBEDU B.T To KELAMBAKKAM B.T\n- Terminal Path: M.G.R.KOYAMBEDU B.T To KELAMBAKKAM B.T\n- Scheduled Daily Trips: 81 trips\n- Departures Serving Sholinganallur: 405 stop departures\n- Operational Hours: 01:41:15 to 25:17:30\n\n### Variant Route ID: 543 — M.G.R.KOYAMBEDU B.T To SIRUSERI I.T.PARK\n- Terminal Path: M.G.R.KOYAMBEDU B.T To SIRUSERI I.T.PARK\n- Scheduled Daily Trips: 153 trips\n- Departures Serving Sholinganallur: 765 stop departures\n- Operational Hours: 03:04:30 to 22:25:45\n\n### Variant Route ID: 545 — SIRUSERI I.T PARK To ADYAR DEPOT\n- Terminal Path: SIRUSERI I.T PARK To ADYAR DEPOT\n- Scheduled Daily Trips: 6 trips\n- Departures Serving Sholinganallur: 6 stop departures\n- Operational Hours: 19:36:30 to 21:21:30\n\n### Variant Route ID: 546 — SIRUSERI I.T.PARK To M.G.R.KOYAMBEDU B.T\n- Terminal Path: SIRUSERI I.T.PARK To M.G.R.KOYAMBEDU B.T\n- Scheduled Daily Trips: 166 trips\n- Departures Serving Sholinganallur: 830 stop departures\n- Operational Hours: 04:02:45 to 23:29:00\n\n## Static Schedule Disclaimer\n- All timetable benchmarks are derived from official static Chennai MTC GTFS data. Times indicate scheduled timetable departures and do not reflect real-time traffic conditions or live vehicle tracking.",
+  "document_hash": "23e82ec335f4f2bbe90a594a6deb0652a465f218dbfaef556e580a9e3812e512"
+}

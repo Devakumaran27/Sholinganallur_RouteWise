@@ -1,0 +1,43 @@
+{
+  "document_id": "doc_route_99A_4eed2e87",
+  "document_type": "route_profile",
+  "title": "Route Profile: Route 99A (10 Service Variants)",
+  "source_file": "route_service_summary.json",
+  "dataset_version": "v1.0.0-sholinganallur",
+  "metadata": {
+    "document_id": "doc_route_99A_4eed2e87",
+    "document_type": "route_profile",
+    "route_number": "99A",
+    "route_hash_suffix": "4eed2e87",
+    "variant_count": 10,
+    "variant_route_ids": [
+      "4346",
+      "4347",
+      "4348",
+      "4350",
+      "4351",
+      "4352",
+      "4353",
+      "4354",
+      "4810",
+      "4811"
+    ],
+    "total_daily_trips": 447,
+    "total_area_departures": 787,
+    "earliest_departure_time": "00:50:15",
+    "latest_departure_time": "24:02:00",
+    "earliest_departure_seconds": 3015,
+    "latest_departure_seconds": 86520,
+    "terminals": [
+      "KCBT - KILAMBAKKAM",
+      "PERUMBAKKAM COLLEGE",
+      "PERUMBAKKAM TNUHDB",
+      "SEMMANCHERI TNUHDB",
+      "SHOLINGANALLUR",
+      "TAMBARAM WEST",
+      "TAMBARAM WEST BUS STAND"
+    ]
+  },
+  "content": "# MTC BUS ROUTE PROFILE: ROUTE 99A\n\n## Public Transit Line Overview\n- Public Route Number: 99A\n- Total Operational Variants in Feed: 10 service profiles\n- Total Scheduled Daily Trips: 447 trips\n- Total Sholinganallur Stop Departures: 787 recorded departures\n- Key Terminals & Hubs Served: KCBT - KILAMBAKKAM, PERUMBAKKAM COLLEGE, PERUMBAKKAM TNUHDB, SEMMANCHERI TNUHDB, SHOLINGANALLUR, TAMBARAM WEST, TAMBARAM WEST BUS STAND\n\n## Timetable Service Window\n- Earliest Scheduled Departure in Area: 00:50:15 (Variant ID: 4347)\n- Latest Scheduled Departure in Area: 24:02:00 (Variant ID: 4346)\n- Span of Operation: From 00:50:15 to 24:02:00\n\n## Operational Service Variants (10 GTFS Service Profiles)\n### Variant Route ID: 4346 — KCBT - KILAMBAKKAM To SHOLINGANALLUR\n- Terminal Path: KCBT - KILAMBAKKAM To SHOLINGANALLUR\n- Scheduled Daily Trips: 6 trips\n- Departures Serving Sholinganallur: 6 stop departures\n- Operational Hours: 01:37:00 to 24:02:00\n\n### Variant Route ID: 4347 — SHOLINGANALLUR To KCBT - KILAMBAKKAM\n- Terminal Path: SHOLINGANALLUR To KCBT - KILAMBAKKAM\n- Scheduled Daily Trips: 6 trips\n- Departures Serving Sholinganallur: 6 stop departures\n- Operational Hours: 00:50:15 to 23:45:15\n\n### Variant Route ID: 4348 — SHOLINGANALLUR To PERUMBAKKAM TNUHDB\n- Terminal Path: SHOLINGANALLUR To PERUMBAKKAM TNUHDB\n- Scheduled Daily Trips: 2 trips\n- Departures Serving Sholinganallur: 2 stop departures\n- Operational Hours: 09:00:15 to 13:40:15\n\n### Variant Route ID: 4350 — PERUMBAKKAM COLLEGE To TAMBARAM WEST\n- Terminal Path: PERUMBAKKAM COLLEGE To TAMBARAM WEST\n- Scheduled Daily Trips: 2 trips\n- Departures Serving Sholinganallur: 2 stop departures\n- Operational Hours: 09:39:15 to 14:29:15\n\n### Variant Route ID: 4351 — TAMBARAM WEST To PERUMBAKKAM TNUHDB\n- Terminal Path: TAMBARAM WEST To PERUMBAKKAM TNUHDB\n- Scheduled Daily Trips: 42 trips\n- Departures Serving Sholinganallur: 42 stop departures\n- Operational Hours: 06:53:15 to 23:23:15\n\n### Variant Route ID: 4352 — PERUMBAKKAM TNUHDB To TAMBARAM WEST\n- Terminal Path: PERUMBAKKAM TNUHDB To TAMBARAM WEST\n- Scheduled Daily Trips: 39 trips\n- Departures Serving Sholinganallur: 39 stop departures\n- Operational Hours: 04:47:00 to 19:47:00\n\n### Variant Route ID: 4353 — TAMBARAM WEST BUS STAND To SHOLINGANALLUR\n- Terminal Path: TAMBARAM WEST BUS STAND To SHOLINGANALLUR\n- Scheduled Daily Trips: 171 trips\n- Departures Serving Sholinganallur: 342 stop departures\n- Operational Hours: 00:50:45 to 21:57:45\n\n### Variant Route ID: 4354 — SHOLINGANALLUR To TAMBARAM WEST BUS STAND\n- Terminal Path: SHOLINGANALLUR To TAMBARAM WEST BUS STAND\n- Scheduled Daily Trips: 169 trips\n- Departures Serving Sholinganallur: 338 stop departures\n- Operational Hours: 01:00:15 to 22:12:30\n\n### Variant Route ID: 4810 — TAMBARAM WEST To SEMMANCHERI TNUHDB\n- Terminal Path: TAMBARAM WEST To SEMMANCHERI TNUHDB\n- Scheduled Daily Trips: 5 trips\n- Departures Serving Sholinganallur: 5 stop departures\n- Operational Hours: 06:13:15 to 21:23:15\n\n### Variant Route ID: 4811 — SEMMANCHERI TNUHDB To TAMBARAM WEST\n- Terminal Path: SEMMANCHERI TNUHDB To TAMBARAM WEST\n- Scheduled Daily Trips: 5 trips\n- Departures Serving Sholinganallur: 5 stop departures\n- Operational Hours: 04:47:00 to 18:02:00\n\n## Static Schedule Disclaimer\n- All timetable benchmarks are derived from official static Chennai MTC GTFS data. Times indicate scheduled timetable departures and do not reflect real-time traffic conditions or live vehicle tracking.",
+  "document_hash": "41ba45bb361cd24acf301f84ab6467697ca5bb2125fe32265f87a00e97f786b1"
+}

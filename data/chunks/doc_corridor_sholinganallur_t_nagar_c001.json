@@ -1,0 +1,60 @@
+{
+  "chunk_id": "doc_corridor_sholinganallur_t_nagar_c001",
+  "document_id": "doc_corridor_sholinganallur_t_nagar",
+  "chunk_index": 1,
+  "document_type": "corridor_guide",
+  "title": "Corridor Travel Guide: Sholinganallur to T. Nagar (Direct MTC Bus Service) - Waypoints, Landmarks & Commuter Advisory",
+  "source_dataset": "direct_t_nagar_connections.json",
+  "dataset_version": "v1.0.0-sholinganallur",
+  "section_heading": "Intermediate Landmarks & Commuter Advisory",
+  "chunk_text": "# CORRIDOR TRAVEL GUIDE: SHOLINGANALLUR TO T. NAGAR (DIRECT MTC BUS SERVICE) (Continued)\n\n## Intermediate Corridor Path & Landmarks (30 Consecutive Stops)\nDirect trips follow the Old Mahabalipuram Road (OMR) express corridor northward into Central Chennai:\n1. Sholinganallur to Karapakkam: Originates at Sholinganallur Kumaran Nagar / Ponniamman Temple / Nucleus, moving through Oodai, Government School, and Accenture.\n2. OMR IT Arterial: Passes Karapakkam, KCG College, Okkiyampet, PTC Quarters (Mootakaran Chavadi), Mettukuppam, D.B. Jain College, Seevaram, Perungudi, Kandanchavadi, and Perungudi IGP.\n3. Tharamani & Transit Junctions: Crosses Perungudi S.R.P. Tools, Tidel Park, Women's Polytechnic College, Tharamani VHS Hospital, and Madhya Kailash.\n4. Guindy / Little Mount Corridor: Passes IIT Madras / Guindy National Park, Anna University, Raj Bhavan Quarters, Chellammal College, and Little Mount.\n5. Saidapet & T. Nagar Approach: Crosses Panagal Maligai, Saidapet, Saidapet Veterinary Hospital, and terminates at CIT Nagar.\n\n## Commuter Advisory & Boundaries\n- These records reflect direct same-trip candidate runs. Multi-leg transfer itineraries (e.g. changing buses at Adyar or Guindy) are not included in this direct guide.\n- Timetable departure and arrival values are based on official Chennai MTC static GTFS schedules. Real-time GPS bus positions and traffic delays are not included.",
+  "chunk_hash": "cc63fbd50d8ec5e7aaf643320e88a5e9059328b6a81c140be61dd789b05010dd",
+  "token_count": 477,
+  "pipeline_version": "v1.0.0-chunking",
+  "source_start_char": 1320,
+  "source_end_char": 2632,
+  "injected_context_header": "# CORRIDOR TRAVEL GUIDE: SHOLINGANALLUR TO T. NAGAR (DIRECT MTC BUS SERVICE) (Continued)\n\n",
+  "overlap_text": "",
+  "has_overlap": false,
+  "overlap_tokens": 0,
+  "metadata": {
+    "is_atomic": false,
+    "has_overlap": false,
+    "overlap_tokens": 0,
+    "source_start_char": 1320,
+    "source_end_char": 2632,
+    "injected_context_header": "# CORRIDOR TRAVEL GUIDE: SHOLINGANALLUR TO T. NAGAR (DIRECT MTC BUS SERVICE) (Continued)\n\n",
+    "overlap_text": "",
+    "source_tokens": 883,
+    "document_type": "corridor_guide",
+    "corridor_id": "sholinganallur_t_nagar",
+    "origin_area": "Sholinganallur",
+    "destination": "T. Nagar (CIT Nagar)",
+    "total_direct_runs": 170,
+    "routes_operating": [
+      "19",
+      "19A",
+      "19BET",
+      "M51"
+    ],
+    "route_breakdown": {
+      "19": 115,
+      "M51": 10,
+      "19A": 42,
+      "19BET": 3
+    },
+    "origin_stops": [
+      "SHOLINGANALLUR",
+      "SHOLINGANALLUR KUMARAN NAGAR",
+      "SHOLINGANALLUR NUCLUEUS COMPANY"
+    ],
+    "destination_stops": [
+      "CIT NAGAR"
+    ],
+    "min_duration_minutes": 62.75,
+    "max_duration_minutes": 67.25,
+    "avg_duration_minutes": 65.65,
+    "earliest_departure_time": "04:34:45",
+    "latest_departure_time": "22:24:15"
+  }
+}

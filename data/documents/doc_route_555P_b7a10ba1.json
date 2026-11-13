@@ -1,0 +1,34 @@
+{
+  "document_id": "doc_route_555P_b7a10ba1",
+  "document_type": "route_profile",
+  "title": "Route Profile: Route 555P (4 Service Variants)",
+  "source_file": "route_service_summary.json",
+  "dataset_version": "v1.0.0-sholinganallur",
+  "metadata": {
+    "document_id": "doc_route_555P_b7a10ba1",
+    "document_type": "route_profile",
+    "route_number": "555P",
+    "route_hash_suffix": "b7a10ba1",
+    "variant_count": 4,
+    "variant_route_ids": [
+      "3334",
+      "3335",
+      "3336",
+      "3337"
+    ],
+    "total_daily_trips": 10,
+    "total_area_departures": 34,
+    "earliest_departure_time": "05:55:00",
+    "latest_departure_time": "19:35:15",
+    "earliest_departure_seconds": 21300,
+    "latest_departure_seconds": 70515,
+    "terminals": [
+      "P U OFFICE SHOLINGANALLUR",
+      "PADAPPAI",
+      "SHOLINGANALLUR P.U.OFFICE",
+      "TAMBARAM WEST"
+    ]
+  },
+  "content": "# MTC BUS ROUTE PROFILE: ROUTE 555P\n\n## Public Transit Line Overview\n- Public Route Number: 555P\n- Total Operational Variants in Feed: 4 service profiles\n- Total Scheduled Daily Trips: 10 trips\n- Total Sholinganallur Stop Departures: 34 recorded departures\n- Key Terminals & Hubs Served: P U OFFICE SHOLINGANALLUR, PADAPPAI, SHOLINGANALLUR P.U.OFFICE, TAMBARAM WEST\n\n## Timetable Service Window\n- Earliest Scheduled Departure in Area: 05:55:00 (Variant ID: 3336)\n- Latest Scheduled Departure in Area: 19:35:15 (Variant ID: 3337)\n- Span of Operation: From 05:55:00 to 19:35:15\n\n## Operational Service Variants (4 GTFS Service Profiles)\n### Variant Route ID: 3334 — PADAPPAI To P U OFFICE SHOLINGANALLUR\n- Terminal Path: PADAPPAI To P U OFFICE SHOLINGANALLUR\n- Scheduled Daily Trips: 4 trips\n- Departures Serving Sholinganallur: 16 stop departures\n- Operational Hours: 09:28:30 to 19:22:15\n\n### Variant Route ID: 3335 — P U OFFICE SHOLINGANALLUR To PADAPPAI\n- Terminal Path: P U OFFICE SHOLINGANALLUR To PADAPPAI\n- Scheduled Daily Trips: 4 trips\n- Departures Serving Sholinganallur: 16 stop departures\n- Operational Hours: 06:30:15 to 16:19:15\n\n### Variant Route ID: 3336 — TAMBARAM WEST To SHOLINGANALLUR P.U.OFFICE\n- Terminal Path: TAMBARAM WEST To SHOLINGANALLUR P.U.OFFICE\n- Scheduled Daily Trips: 1 trips\n- Departures Serving Sholinganallur: 1 stop departures\n- Operational Hours: 05:55:00 to 05:55:00\n\n### Variant Route ID: 3337 — SHOLINGANALLUR P.U.OFFICE To TAMBARAM WEST\n- Terminal Path: SHOLINGANALLUR P.U.OFFICE To TAMBARAM WEST\n- Scheduled Daily Trips: 1 trips\n- Departures Serving Sholinganallur: 1 stop departures\n- Operational Hours: 19:35:15 to 19:35:15\n\n## Static Schedule Disclaimer\n- All timetable benchmarks are derived from official static Chennai MTC GTFS data. Times indicate scheduled timetable departures and do not reflect real-time traffic conditions or live vehicle tracking.",
+  "document_hash": "66a7d01a1221e0c8d9d05f60dcedeb29ed06234d2d8c951d45c51d94bc397f13"
+}

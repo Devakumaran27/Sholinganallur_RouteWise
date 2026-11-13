@@ -1,0 +1,31 @@
+{
+  "document_id": "doc_stop_OaJoPLeC",
+  "document_type": "stop_profile",
+  "title": "Bus Stop Profile: SHOLINGANALLUR NUCLUEUS COMPANY (Stop ID: OaJoPLeC)",
+  "source_file": "bus_stops.json",
+  "dataset_version": "v1.0.0-sholinganallur",
+  "metadata": {
+    "document_type": "stop_profile",
+    "stop_id": "OaJoPLeC",
+    "stop_code": "OaJoPLeC",
+    "stop_name": "SHOLINGANALLUR NUCLUEUS COMPANY",
+    "map_eligible": true,
+    "has_coordinates": true,
+    "latitude": 12.87785,
+    "longitude": 80.2193,
+    "total_departures": 466,
+    "connecting_route_count": 8,
+    "connecting_routes": [
+      "102C",
+      "102P",
+      "102PCT",
+      "119",
+      "119G",
+      "19A",
+      "19D",
+      "570P"
+    ]
+  },
+  "content": "# BUS STOP DIRECTORY: SHOLINGANALLUR NUCLUEUS COMPANY\n\n## Stop Identification & Locality\n- Official Stop Name: SHOLINGANALLUR NUCLUEUS COMPANY\n- Stop Identifier (GTFS stop_id): OaJoPLeC\n- Stop Code: OaJoPLeC\n- Locality: Sholinganallur, Chennai (MTC Transit Zone)\n\n## Geographic Coordinates & Mapping Eligibility\n- Latitude: 12.87785\n- Longitude: 80.2193\n- Map Display Eligible: Yes\n- Coordinate Status: WITHIN_CONFIGURED_BOUNDS_NOT_INDEPENDENTLY_GROUND_TRUTH_VERIFIED\n\n## Bus Services & Operational Departures\n- Total Recorded Stop Departures: 466 scheduled departures\n- Number of Connecting Route Lines: 8 lines\n- Serving Bus Lines: 102C, 102P, 102PCT, 119, 119G, 19A, 19D, 570P\n\n## Important Notice\n- All departure times and schedules represent official static Chennai MTC GTFS timetable feeds. Real-time GPS tracking and live bus arrival times are not provided.",
+  "document_hash": "4a408c7c9a2cbc66033caa2093e518079cd4276290c6f5a0d4361a918178530a"
+}

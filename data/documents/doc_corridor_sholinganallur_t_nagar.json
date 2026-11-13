@@ -1,0 +1,41 @@
+{
+  "document_id": "doc_corridor_sholinganallur_t_nagar",
+  "document_type": "corridor_guide",
+  "title": "Corridor Travel Guide: Sholinganallur to T. Nagar (Direct MTC Bus Service)",
+  "source_file": "direct_t_nagar_connections.json",
+  "dataset_version": "v1.0.0-sholinganallur",
+  "metadata": {
+    "document_type": "corridor_guide",
+    "corridor_id": "sholinganallur_t_nagar",
+    "origin_area": "Sholinganallur",
+    "destination": "T. Nagar (CIT Nagar)",
+    "total_direct_runs": 170,
+    "routes_operating": [
+      "19",
+      "19A",
+      "19BET",
+      "M51"
+    ],
+    "route_breakdown": {
+      "19": 115,
+      "M51": 10,
+      "19A": 42,
+      "19BET": 3
+    },
+    "origin_stops": [
+      "SHOLINGANALLUR",
+      "SHOLINGANALLUR KUMARAN NAGAR",
+      "SHOLINGANALLUR NUCLUEUS COMPANY"
+    ],
+    "destination_stops": [
+      "CIT NAGAR"
+    ],
+    "min_duration_minutes": 62.75,
+    "max_duration_minutes": 67.25,
+    "avg_duration_minutes": 65.65,
+    "earliest_departure_time": "04:34:45",
+    "latest_departure_time": "22:24:15"
+  },
+  "content": "# CORRIDOR TRAVEL GUIDE: SHOLINGANALLUR TO T. NAGAR (DIRECT MTC BUS SERVICE)\n\n## Corridor Overview\nDirect public bus connectivity between the Sholinganallur IT hub and Thyagaraya Nagar (T. Nagar) is operated by Chennai MTC across 170 scheduled daily direct runs. All direct trips terminate at CIT Nagar, providing direct pedestrian and feeder access to the central T. Nagar shopping and commercial district.\n\n## Operating Bus Routes & Service Breakdown\n- Total Daily Direct Trips: 170 scheduled runs\n- Line 19: 115 direct scheduled daily trips\n- Line 19A: 42 direct scheduled daily trips\n- Line M51: 10 direct scheduled daily trips\n- Line 19BET: 3 direct scheduled daily trips\n\n## Journey Duration & Operating Hours\n- Average Scheduled Travel Time: 65.65 minutes\n- Journey Duration Range: 62.75 minutes to 67.25 minutes\n- First Morning Direct Bus: 04:34:45 (Route 19A from SHOLINGANALLUR NUCLUEUS COMPANY)\n- Last Night Direct Bus: 22:24:15 (Route 19 from SHOLINGANALLUR KUMARAN NAGAR)\n\n## Primary Boarding Hubs in Sholinganallur\n- SHOLINGANALLUR KUMARAN NAGAR: 118 direct departures daily\n- SHOLINGANALLUR NUCLUEUS COMPANY: 42 direct departures daily\n- SHOLINGANALLUR: 10 direct departures daily\n\n## Destination Terminals in T. Nagar Zone\n- CIT NAGAR: 170 arrivals daily (Gateway terminal to Panagal Park and T. Nagar)\n\n## Intermediate Corridor Path & Landmarks (30 Consecutive Stops)\nDirect trips follow the Old Mahabalipuram Road (OMR) express corridor northward into Central Chennai:\n1. Sholinganallur to Karapakkam: Originates at Sholinganallur Kumaran Nagar / Ponniamman Temple / Nucleus, moving through Oodai, Government School, and Accenture.\n2. OMR IT Arterial: Passes Karapakkam, KCG College, Okkiyampet, PTC Quarters (Mootakaran Chavadi), Mettukuppam, D.B. Jain College, Seevaram, Perungudi, Kandanchavadi, and Perungudi IGP.\n3. Tharamani & Transit Junctions: Crosses Perungudi S.R.P. Tools, Tidel Park, Women's Polytechnic College, Tharamani VHS Hospital, and Madhya Kailash.\n4. Guindy / Little Mount Corridor: Passes IIT Madras / Guindy National Park, Anna University, Raj Bhavan Quarters, Chellammal College, and Little Mount.\n5. Saidapet & T. Nagar Approach: Crosses Panagal Maligai, Saidapet, Saidapet Veterinary Hospital, and terminates at CIT Nagar.\n\n## Commuter Advisory & Boundaries\n- These records reflect direct same-trip candidate runs. Multi-leg transfer itineraries (e.g. changing buses at Adyar or Guindy) are not included in this direct guide.\n- Timetable departure and arrival values are based on official Chennai MTC static GTFS schedules. Real-time GPS bus positions and traffic delays are not included.",
+  "document_hash": "301b8de5e7faa1abe09cdd528aca3cf2feaaabf271c9814dcdd648a8fd2c716b"
+}

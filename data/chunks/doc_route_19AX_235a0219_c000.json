@@ -1,0 +1,49 @@
+{
+  "chunk_id": "doc_route_19AX_235a0219_c000",
+  "document_id": "doc_route_19AX_235a0219",
+  "chunk_index": 0,
+  "document_type": "route_profile",
+  "title": "Route Profile: Route 19AX (2 Service Variants)",
+  "source_dataset": "route_service_summary.json",
+  "dataset_version": "v1.0.0-sholinganallur",
+  "section_heading": "Complete Route Profile & Service Variants",
+  "chunk_text": "# MTC BUS ROUTE PROFILE: ROUTE 19AX\n\n## Public Transit Line Overview\n- Public Route Number: 19AX\n- Total Operational Variants in Feed: 2 service profiles\n- Total Scheduled Daily Trips: 105 trips\n- Total Sholinganallur Stop Departures: 105 recorded departures\n- Key Terminals & Hubs Served: PERUMBAKKAM TNUHDB, THYAGARAYA NAGAR\n\n## Timetable Service Window\n- Earliest Scheduled Departure in Area: 04:07:00 (Variant ID: 5920)\n- Latest Scheduled Departure in Area: 22:05:30 (Variant ID: 5919)\n- Span of Operation: From 04:07:00 to 22:05:30\n\n## Operational Service Variants (2 GTFS Service Profiles)\n### Variant Route ID: 5919 — THYAGARAYA NAGAR To PERUMBAKKAM TNUHDB\n- Terminal Path: THYAGARAYA NAGAR To PERUMBAKKAM TNUHDB\n- Scheduled Daily Trips: 52 trips\n- Departures Serving Sholinganallur: 52 stop departures\n- Operational Hours: 05:45:30 to 22:05:30\n\n### Variant Route ID: 5920 — PERUMBAKKAM TNUHDB To THYAGARAYA NAGAR\n- Terminal Path: PERUMBAKKAM TNUHDB To THYAGARAYA NAGAR\n- Scheduled Daily Trips: 53 trips\n- Departures Serving Sholinganallur: 53 stop departures\n- Operational Hours: 04:07:00 to 20:07:00\n\n## Static Schedule Disclaimer\n- All timetable benchmarks are derived from official static Chennai MTC GTFS data. Times indicate scheduled timetable departures and do not reflect real-time traffic conditions or live vehicle tracking.",
+  "chunk_hash": "11f43275802c1b59931ad2c41deb09a938f28af619503bc6c4655f525fe52272",
+  "token_count": 461,
+  "pipeline_version": "v1.0.0-chunking",
+  "source_start_char": 0,
+  "source_end_char": 1342,
+  "injected_context_header": "",
+  "overlap_text": "",
+  "has_overlap": false,
+  "overlap_tokens": 0,
+  "metadata": {
+    "is_atomic": true,
+    "has_overlap": false,
+    "overlap_tokens": 0,
+    "source_start_char": 0,
+    "source_end_char": 1342,
+    "injected_context_header": "",
+    "overlap_text": "",
+    "source_tokens": 461,
+    "document_id": "doc_route_19AX_235a0219",
+    "document_type": "route_profile",
+    "route_number": "19AX",
+    "route_hash_suffix": "235a0219",
+    "variant_count": 2,
+    "variant_route_ids": [
+      "5919",
+      "5920"
+    ],
+    "total_daily_trips": 105,
+    "total_area_departures": 105,
+    "earliest_departure_time": "04:07:00",
+    "latest_departure_time": "22:05:30",
+    "earliest_departure_seconds": 14820,
+    "latest_departure_seconds": 79530,
+    "terminals": [
+      "PERUMBAKKAM TNUHDB",
+      "THYAGARAYA NAGAR"
+    ]
+  }
+}

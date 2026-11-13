@@ -1,0 +1,29 @@
+{
+  "document_id": "doc_route_568CT_5bd6ab14",
+  "document_type": "route_profile",
+  "title": "Route Profile: Route 568CT (1 Service Variants)",
+  "source_file": "route_service_summary.json",
+  "dataset_version": "v1.0.0-sholinganallur",
+  "metadata": {
+    "document_id": "doc_route_568CT_5bd6ab14",
+    "document_type": "route_profile",
+    "route_number": "568CT",
+    "route_hash_suffix": "5bd6ab14",
+    "variant_count": 1,
+    "variant_route_ids": [
+      "5799"
+    ],
+    "total_daily_trips": 6,
+    "total_area_departures": 6,
+    "earliest_departure_time": "05:33:45",
+    "latest_departure_time": "21:25:45",
+    "earliest_departure_seconds": 20025,
+    "latest_departure_seconds": 77145,
+    "terminals": [
+      "ADYAR DEPOT",
+      "MAMALLAPURAM"
+    ]
+  },
+  "content": "# MTC BUS ROUTE PROFILE: ROUTE 568CT\n\n## Public Transit Line Overview\n- Public Route Number: 568CT\n- Total Operational Variants in Feed: 1 service profiles\n- Total Scheduled Daily Trips: 6 trips\n- Total Sholinganallur Stop Departures: 6 recorded departures\n- Key Terminals & Hubs Served: ADYAR DEPOT, MAMALLAPURAM\n\n## Timetable Service Window\n- Earliest Scheduled Departure in Area: 05:33:45 (Variant ID: 5799)\n- Latest Scheduled Departure in Area: 21:25:45 (Variant ID: 5799)\n- Span of Operation: From 05:33:45 to 21:25:45\n\n## Operational Service Variants (1 GTFS Service Profiles)\n### Variant Route ID: 5799 — ADYAR DEPOT To MAMALLAPURAM\n- Terminal Path: ADYAR DEPOT To MAMALLAPURAM\n- Scheduled Daily Trips: 6 trips\n- Departures Serving Sholinganallur: 6 stop departures\n- Operational Hours: 05:33:45 to 21:25:45\n\n## Static Schedule Disclaimer\n- All timetable benchmarks are derived from official static Chennai MTC GTFS data. Times indicate scheduled timetable departures and do not reflect real-time traffic conditions or live vehicle tracking.",
+  "document_hash": "e36757ad8b0ea805d7d429dd8633b867c8d9ea75114d3b7be28e363901a9f8e5"
+}

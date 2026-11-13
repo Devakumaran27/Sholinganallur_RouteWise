@@ -1,0 +1,33 @@
+{
+  "document_id": "doc_route_221CT_3e867ea2",
+  "document_type": "route_profile",
+  "title": "Route Profile: Route 221CT (4 Service Variants)",
+  "source_file": "route_service_summary.json",
+  "dataset_version": "v1.0.0-sholinganallur",
+  "metadata": {
+    "document_id": "doc_route_221CT_3e867ea2",
+    "document_type": "route_profile",
+    "route_number": "221CT",
+    "route_hash_suffix": "3e867ea2",
+    "variant_count": 4,
+    "variant_route_ids": [
+      "2616",
+      "2617",
+      "2618",
+      "2619"
+    ],
+    "total_daily_trips": 29,
+    "total_area_departures": 29,
+    "earliest_departure_time": "04:47:00",
+    "latest_departure_time": "22:31:45",
+    "earliest_departure_seconds": 17220,
+    "latest_departure_seconds": 81105,
+    "terminals": [
+      "BROADWAY",
+      "GREAMS ROAD",
+      "PERUMBAKKAM TNUHDB"
+    ]
+  },
+  "content": "# MTC BUS ROUTE PROFILE: ROUTE 221CT\n\n## Public Transit Line Overview\n- Public Route Number: 221CT\n- Total Operational Variants in Feed: 4 service profiles\n- Total Scheduled Daily Trips: 29 trips\n- Total Sholinganallur Stop Departures: 29 recorded departures\n- Key Terminals & Hubs Served: BROADWAY, GREAMS ROAD, PERUMBAKKAM TNUHDB\n\n## Timetable Service Window\n- Earliest Scheduled Departure in Area: 04:47:00 (Variant ID: 2617)\n- Latest Scheduled Departure in Area: 22:31:45 (Variant ID: 2616)\n- Span of Operation: From 04:47:00 to 22:31:45\n\n## Operational Service Variants (4 GTFS Service Profiles)\n### Variant Route ID: 2616 — BROADWAY To PERUMBAKKAM TNUHDB\n- Terminal Path: BROADWAY To PERUMBAKKAM TNUHDB\n- Scheduled Daily Trips: 7 trips\n- Departures Serving Sholinganallur: 7 stop departures\n- Operational Hours: 06:36:45 to 22:31:45\n\n### Variant Route ID: 2617 — PERUMBAKKAM TNUHDB To BROADWAY\n- Terminal Path: PERUMBAKKAM TNUHDB To BROADWAY\n- Scheduled Daily Trips: 7 trips\n- Departures Serving Sholinganallur: 7 stop departures\n- Operational Hours: 04:47:00 to 20:42:00\n\n### Variant Route ID: 2618 — GREAMS ROAD To PERUMBAKKAM TNUHDB\n- Terminal Path: GREAMS ROAD To PERUMBAKKAM TNUHDB\n- Scheduled Daily Trips: 7 trips\n- Departures Serving Sholinganallur: 7 stop departures\n- Operational Hours: 09:15:00 to 17:25:00\n\n### Variant Route ID: 2619 — PERUMBAKKAM TNUHDB To GREAMS ROAD\n- Terminal Path: PERUMBAKKAM TNUHDB To GREAMS ROAD\n- Scheduled Daily Trips: 8 trips\n- Departures Serving Sholinganallur: 8 stop departures\n- Operational Hours: 07:17:00 to 15:42:00\n\n## Static Schedule Disclaimer\n- All timetable benchmarks are derived from official static Chennai MTC GTFS data. Times indicate scheduled timetable departures and do not reflect real-time traffic conditions or live vehicle tracking.",
+  "document_hash": "d46a8c95bc6c19850ee0ee9ffbef102fd256702f5e668d2725f17e22d7142423"
+}

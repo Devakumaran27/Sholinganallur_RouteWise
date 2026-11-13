@@ -1,0 +1,44 @@
+{
+  "document_id": "doc_route_102PCT_d1798435",
+  "document_type": "route_profile",
+  "title": "Route Profile: Route 102PCT (9 Service Variants)",
+  "source_file": "route_service_summary.json",
+  "dataset_version": "v1.0.0-sholinganallur",
+  "metadata": {
+    "document_id": "doc_route_102PCT_d1798435",
+    "document_type": "route_profile",
+    "route_number": "102PCT",
+    "route_hash_suffix": "d1798435",
+    "variant_count": 9,
+    "variant_route_ids": [
+      "1954",
+      "1958",
+      "4680",
+      "4765",
+      "5772",
+      "793",
+      "798",
+      "862",
+      "864"
+    ],
+    "total_daily_trips": 87,
+    "total_area_departures": 187,
+    "earliest_departure_time": "04:37:00",
+    "latest_departure_time": "23:32:00",
+    "earliest_departure_seconds": 16620,
+    "latest_departure_seconds": 84720,
+    "terminals": [
+      "ADYAR B.T",
+      "ADYAR DEPOT",
+      "BROADWAY",
+      "PERUMBAKKAM TNUHDB",
+      "Perumbakkam TNUHDB",
+      "SHOLINGANALLUR",
+      "THIRUVANMIYUR",
+      "THIRUVANMIYUR B.T",
+      "WELLINGTON SCHOOL-V.HOUSE"
+    ]
+  },
+  "content": "# MTC BUS ROUTE PROFILE: ROUTE 102PCT\n\n## Public Transit Line Overview\n- Public Route Number: 102PCT\n- Total Operational Variants in Feed: 9 service profiles\n- Total Scheduled Daily Trips: 87 trips\n- Total Sholinganallur Stop Departures: 187 recorded departures\n- Key Terminals & Hubs Served: ADYAR B.T, ADYAR DEPOT, BROADWAY, PERUMBAKKAM TNUHDB, Perumbakkam TNUHDB, SHOLINGANALLUR, THIRUVANMIYUR, THIRUVANMIYUR B.T, WELLINGTON SCHOOL-V.HOUSE\n\n## Timetable Service Window\n- Earliest Scheduled Departure in Area: 04:37:00 (Variant ID: 864)\n- Latest Scheduled Departure in Area: 23:32:00 (Variant ID: 864)\n- Span of Operation: From 04:37:00 to 23:32:00\n\n## Operational Service Variants (9 GTFS Service Profiles)\n### Variant Route ID: 1954 — ADYAR B.T To PERUMBAKKAM TNUHDB\n- Terminal Path: ADYAR B.T To PERUMBAKKAM TNUHDB\n- Scheduled Daily Trips: 1 trips\n- Departures Serving Sholinganallur: 1 stop departures\n- Operational Hours: 15:56:00 to 15:56:00\n\n### Variant Route ID: 1958 — PERUMBAKKAM TNUHDB To SHOLINGANALLUR\n- Terminal Path: PERUMBAKKAM TNUHDB To SHOLINGANALLUR\n- Scheduled Daily Trips: 20 trips\n- Departures Serving Sholinganallur: 20 stop departures\n- Operational Hours: 05:46:45 to 15:51:45\n\n### Variant Route ID: 4680 — ADYAR DEPOT To PERUMBAKKAM TNUHDB\n- Terminal Path: ADYAR DEPOT To PERUMBAKKAM TNUHDB\n- Scheduled Daily Trips: 4 trips\n- Departures Serving Sholinganallur: 4 stop departures\n- Operational Hours: 05:53:45 to 07:08:45\n\n### Variant Route ID: 4765 — BROADWAY To PERUMBAKKAM TNUHDB\n- Terminal Path: BROADWAY To PERUMBAKKAM TNUHDB\n- Scheduled Daily Trips: 1 trips\n- Departures Serving Sholinganallur: 1 stop departures\n- Operational Hours: 15:41:30 to 15:41:30\n\n### Variant Route ID: 5772 — WELLINGTON SCHOOL-V.HOUSE To PERUMBAKKAM TNUHDB\n- Terminal Path: WELLINGTON SCHOOL-V.HOUSE To PERUMBAKKAM TNUHDB\n- Scheduled Daily Trips: 2 trips\n- Departures Serving Sholinganallur: 2 stop departures\n- Operational Hours: 16:29:30 to 16:29:30\n\n### Variant Route ID: 793 — THIRUVANMIYUR B.T To Perumbakkam TNUHDB\n- Terminal Path: THIRUVANMIYUR B.T To Perumbakkam TNUHDB\n- Scheduled Daily Trips: 20 trips\n- Departures Serving Sholinganallur: 120 stop departures\n- Operational Hours: 06:18:45 to 22:50:15\n\n### Variant Route ID: 798 — BROADWAY To PERUMBAKKAM TNUHDB\n- Terminal Path: BROADWAY To PERUMBAKKAM TNUHDB\n- Scheduled Daily Trips: 1 trips\n- Departures Serving Sholinganallur: 1 stop departures\n- Operational Hours: 16:06:15 to 16:06:15\n\n### Variant Route ID: 862 — PERUMBAKKAM TNUHDB To BROADWAY\n- Terminal Path: PERUMBAKKAM TNUHDB To BROADWAY\n- Scheduled Daily Trips: 5 trips\n- Departures Serving Sholinganallur: 5 stop departures\n- Operational Hours: 07:14:00 to 18:29:00\n\n### Variant Route ID: 864 — PERUMBAKKAM TNUHDB To THIRUVANMIYUR\n- Terminal Path: PERUMBAKKAM TNUHDB To THIRUVANMIYUR\n- Scheduled Daily Trips: 33 trips\n- Departures Serving Sholinganallur: 33 stop departures\n- Operational Hours: 04:37:00 to 23:32:00\n\n## Static Schedule Disclaimer\n- All timetable benchmarks are derived from official static Chennai MTC GTFS data. Times indicate scheduled timetable departures and do not reflect real-time traffic conditions or live vehicle tracking.",
+  "document_hash": "31914e0456b8f91086fd42af02a05e9c0bfed9464d0c45fa198c7e7278677d29"
+}

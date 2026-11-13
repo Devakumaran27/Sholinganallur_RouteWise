@@ -1,0 +1,52 @@
+{
+  "chunk_id": "doc_route_570V_360e7e1a_c000",
+  "document_id": "doc_route_570V_360e7e1a",
+  "chunk_index": 0,
+  "document_type": "route_profile",
+  "title": "Route Profile: Route 570V (3 Service Variants)",
+  "source_dataset": "route_service_summary.json",
+  "dataset_version": "v1.0.0-sholinganallur",
+  "section_heading": "Complete Route Profile & Service Variants",
+  "chunk_text": "# MTC BUS ROUTE PROFILE: ROUTE 570V\n\n## Public Transit Line Overview\n- Public Route Number: 570V\n- Total Operational Variants in Feed: 3 service profiles\n- Total Scheduled Daily Trips: 24 trips\n- Total Sholinganallur Stop Departures: 24 recorded departures\n- Key Terminals & Hubs Served: ADYAR DEPOT, KELAMBAKKAM, VADAPALANI, VADAPALANI B.T\n\n## Timetable Service Window\n- Earliest Scheduled Departure in Area: 04:53:45 (Variant ID: 550)\n- Latest Scheduled Departure in Area: 20:46:00 (Variant ID: 553)\n- Span of Operation: From 04:53:45 to 20:46:00\n\n## Operational Service Variants (3 GTFS Service Profiles)\n### Variant Route ID: 550 — ADYAR DEPOT To KELAMBAKKAM\n- Terminal Path: ADYAR DEPOT To KELAMBAKKAM\n- Scheduled Daily Trips: 1 trips\n- Departures Serving Sholinganallur: 1 stop departures\n- Operational Hours: 04:53:45 to 04:53:45\n\n### Variant Route ID: 553 — KELAMBAKKAM To VADAPALANI B.T\n- Terminal Path: KELAMBAKKAM To VADAPALANI B.T\n- Scheduled Daily Trips: 12 trips\n- Departures Serving Sholinganallur: 12 stop departures\n- Operational Hours: 05:56:00 to 20:46:00\n\n### Variant Route ID: 555 — VADAPALANI To KELAMBAKKAM\n- Terminal Path: VADAPALANI To KELAMBAKKAM\n- Scheduled Daily Trips: 11 trips\n- Departures Serving Sholinganallur: 11 stop departures\n- Operational Hours: 06:34:00 to 19:09:00\n\n## Static Schedule Disclaimer\n- All timetable benchmarks are derived from official static Chennai MTC GTFS data. Times indicate scheduled timetable departures and do not reflect real-time traffic conditions or live vehicle tracking.",
+  "chunk_hash": "59d7d126d385a5b17b52f5fe4c4cd38dff671ff7db92991754bf2b405bd01adf",
+  "token_count": 536,
+  "pipeline_version": "v1.0.0-chunking",
+  "source_start_char": 0,
+  "source_end_char": 1538,
+  "injected_context_header": "",
+  "overlap_text": "",
+  "has_overlap": false,
+  "overlap_tokens": 0,
+  "metadata": {
+    "is_atomic": true,
+    "has_overlap": false,
+    "overlap_tokens": 0,
+    "source_start_char": 0,
+    "source_end_char": 1538,
+    "injected_context_header": "",
+    "overlap_text": "",
+    "source_tokens": 536,
+    "document_id": "doc_route_570V_360e7e1a",
+    "document_type": "route_profile",
+    "route_number": "570V",
+    "route_hash_suffix": "360e7e1a",
+    "variant_count": 3,
+    "variant_route_ids": [
+      "550",
+      "553",
+      "555"
+    ],
+    "total_daily_trips": 24,
+    "total_area_departures": 24,
+    "earliest_departure_time": "04:53:45",
+    "latest_departure_time": "20:46:00",
+    "earliest_departure_seconds": 17625,
+    "latest_departure_seconds": 74760,
+    "terminals": [
+      "ADYAR DEPOT",
+      "KELAMBAKKAM",
+      "VADAPALANI",
+      "VADAPALANI B.T"
+    ]
+  }
+}

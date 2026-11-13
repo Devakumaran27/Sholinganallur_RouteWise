@@ -1,0 +1,124 @@
+# ==========================================
+# Environments & Secrets (CRITICAL)
+# ==========================================
+.env
+.env.*
+*.env
+!.env.example
+*.pem
+*.key
+*.cert
+*.crt
+credentials*.json
+client_secret*.json
+
+# ==========================================
+# Python Virtual Environments
+# ==========================================
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# ==========================================
+# Python Bytecode & Build Artifacts
+# ==========================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# ==========================================
+# Testing & Code Quality Cache
+# ==========================================
+.pytest_cache/
+.coverage
+.coverage.*
+nosetests.xml
+coverage.xml
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+.hypothesis/
+
+# ==========================================
+# Database & Local Stores
+# ==========================================
+*.sqlite3
+*.db
+*.db-journal
+
+# ==========================================
+# Temporary, Scratch & Cache Files
+# ==========================================
+*.tmp
+*.temp
+scratch/
+tmp/
+temp/
+.cache/
+
+# ==========================================
+# Logs & Process Files
+# ==========================================
+*.log
+logs/
+*.pid
+
+# ==========================================
+# Jupyter & Notebook Checkpoints
+# ==========================================
+.ipynb_checkpoints/
+*-checkpoint.ipynb
+
+# ==========================================
+# IDE & Code Editor Configurations
+# ==========================================
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+*~
+
+# ==========================================
+# AI Assistant & Tool Local State
+# ==========================================
+.gemini/
+.claude/
+.cursor/
+
+# ==========================================
+# OS Generated Files (Windows & macOS)
+# ==========================================
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+.AppleDouble
+.LSOverride
+._*

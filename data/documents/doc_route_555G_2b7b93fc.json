@@ -1,0 +1,31 @@
+{
+  "document_id": "doc_route_555G_2b7b93fc",
+  "document_type": "route_profile",
+  "title": "Route Profile: Route 555G (2 Service Variants)",
+  "source_file": "route_service_summary.json",
+  "dataset_version": "v1.0.0-sholinganallur",
+  "metadata": {
+    "document_id": "doc_route_555G_2b7b93fc",
+    "document_type": "route_profile",
+    "route_number": "555G",
+    "route_hash_suffix": "2b7b93fc",
+    "variant_count": 2,
+    "variant_route_ids": [
+      "3324",
+      "3325"
+    ],
+    "total_daily_trips": 30,
+    "total_area_departures": 120,
+    "earliest_departure_time": "05:30:15",
+    "latest_departure_time": "21:59:15",
+    "earliest_departure_seconds": 19815,
+    "latest_departure_seconds": 79155,
+    "terminals": [
+      "GUDUVANCHERI B.T",
+      "GUDUVANCHERI BUS TERMINUS",
+      "SHOLINGANALLUR"
+    ]
+  },
+  "content": "# MTC BUS ROUTE PROFILE: ROUTE 555G\n\n## Public Transit Line Overview\n- Public Route Number: 555G\n- Total Operational Variants in Feed: 2 service profiles\n- Total Scheduled Daily Trips: 30 trips\n- Total Sholinganallur Stop Departures: 120 recorded departures\n- Key Terminals & Hubs Served: GUDUVANCHERI B.T, GUDUVANCHERI BUS TERMINUS, SHOLINGANALLUR\n\n## Timetable Service Window\n- Earliest Scheduled Departure in Area: 05:30:15 (Variant ID: 3324)\n- Latest Scheduled Departure in Area: 21:59:15 (Variant ID: 3324)\n- Span of Operation: From 05:30:15 to 21:59:15\n\n## Operational Service Variants (2 GTFS Service Profiles)\n### Variant Route ID: 3324 — SHOLINGANALLUR To GUDUVANCHERI B.T\n- Terminal Path: SHOLINGANALLUR To GUDUVANCHERI B.T\n- Scheduled Daily Trips: 15 trips\n- Departures Serving Sholinganallur: 60 stop departures\n- Operational Hours: 05:30:15 to 21:59:15\n\n### Variant Route ID: 3325 — GUDUVANCHERI BUS TERMINUS To SHOLINGANALLUR\n- Terminal Path: GUDUVANCHERI BUS TERMINUS To SHOLINGANALLUR\n- Scheduled Daily Trips: 15 trips\n- Departures Serving Sholinganallur: 60 stop departures\n- Operational Hours: 05:45:15 to 21:59:00\n\n## Static Schedule Disclaimer\n- All timetable benchmarks are derived from official static Chennai MTC GTFS data. Times indicate scheduled timetable departures and do not reflect real-time traffic conditions or live vehicle tracking.",
+  "document_hash": "dacfd07ebb36ebaf06a3a00ce5cfb373a4ec35e355655e21d6d7836427dea239"
+}

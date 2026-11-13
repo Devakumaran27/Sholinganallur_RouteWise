@@ -1,0 +1,49 @@
+{
+  "chunk_id": "doc_route_570T_2facc23d_c000",
+  "document_id": "doc_route_570T_2facc23d",
+  "chunk_index": 0,
+  "document_type": "route_profile",
+  "title": "Route Profile: Route 570T (2 Service Variants)",
+  "source_dataset": "route_service_summary.json",
+  "dataset_version": "v1.0.0-sholinganallur",
+  "section_heading": "Complete Route Profile & Service Variants",
+  "chunk_text": "# MTC BUS ROUTE PROFILE: ROUTE 570T\n\n## Public Transit Line Overview\n- Public Route Number: 570T\n- Total Operational Variants in Feed: 2 service profiles\n- Total Scheduled Daily Trips: 8 trips\n- Total Sholinganallur Stop Departures: 8 recorded departures\n- Key Terminals & Hubs Served: M.G.R.KOYAMBEDU, THALAMBUR\n\n## Timetable Service Window\n- Earliest Scheduled Departure in Area: 07:06:15 (Variant ID: 3558)\n- Latest Scheduled Departure in Area: 20:39:15 (Variant ID: 3559)\n- Span of Operation: From 07:06:15 to 20:39:15\n\n## Operational Service Variants (2 GTFS Service Profiles)\n### Variant Route ID: 3558 — M.G.R.KOYAMBEDU To THALAMBUR\n- Terminal Path: M.G.R.KOYAMBEDU To THALAMBUR\n- Scheduled Daily Trips: 4 trips\n- Departures Serving Sholinganallur: 4 stop departures\n- Operational Hours: 07:06:15 to 19:06:15\n\n### Variant Route ID: 3559 — THALAMBUR To M.G.R.KOYAMBEDU\n- Terminal Path: THALAMBUR To M.G.R.KOYAMBEDU\n- Scheduled Daily Trips: 4 trips\n- Departures Serving Sholinganallur: 4 stop departures\n- Operational Hours: 08:39:15 to 20:39:15\n\n## Static Schedule Disclaimer\n- All timetable benchmarks are derived from official static Chennai MTC GTFS data. Times indicate scheduled timetable departures and do not reflect real-time traffic conditions or live vehicle tracking.",
+  "chunk_hash": "af1570341842ae4130bb944417787a2fc720d6d97d31ca7244f527d1ff0f8487",
+  "token_count": 471,
+  "pipeline_version": "v1.0.0-chunking",
+  "source_start_char": 0,
+  "source_end_char": 1284,
+  "injected_context_header": "",
+  "overlap_text": "",
+  "has_overlap": false,
+  "overlap_tokens": 0,
+  "metadata": {
+    "is_atomic": true,
+    "has_overlap": false,
+    "overlap_tokens": 0,
+    "source_start_char": 0,
+    "source_end_char": 1284,
+    "injected_context_header": "",
+    "overlap_text": "",
+    "source_tokens": 471,
+    "document_id": "doc_route_570T_2facc23d",
+    "document_type": "route_profile",
+    "route_number": "570T",
+    "route_hash_suffix": "2facc23d",
+    "variant_count": 2,
+    "variant_route_ids": [
+      "3558",
+      "3559"
+    ],
+    "total_daily_trips": 8,
+    "total_area_departures": 8,
+    "earliest_departure_time": "07:06:15",
+    "latest_departure_time": "20:39:15",
+    "earliest_departure_seconds": 25575,
+    "latest_departure_seconds": 74355,
+    "terminals": [
+      "M.G.R.KOYAMBEDU",
+      "THALAMBUR"
+    ]
+  }
+}

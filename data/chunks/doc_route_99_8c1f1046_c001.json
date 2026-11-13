@@ -1,0 +1,53 @@
+{
+  "chunk_id": "doc_route_99_8c1f1046_c001",
+  "document_id": "doc_route_99_8c1f1046",
+  "chunk_index": 1,
+  "document_type": "route_profile",
+  "title": "Route Profile: Route 99 (4 Service Variants) - Variants Part 2",
+  "source_dataset": "route_service_summary.json",
+  "dataset_version": "v1.0.0-sholinganallur",
+  "section_heading": "Operational Variants (Part 2)",
+  "chunk_text": "# MTC BUS ROUTE PROFILE: ROUTE 99 (Continued)\n\n## Operational Service Variants (Continued - Part 2)\n\n### Variant Route ID: 635 — SHOLINGANALLUR To ADYAR B.T\n- Terminal Path: SHOLINGANALLUR To ADYAR B.T\n- Scheduled Daily Trips: 14 trips\n- Departures Serving Sholinganallur: 14 stop departures\n- Operational Hours: 10:47:15 to 19:25:15\n\n### Variant Route ID: 636 — TAMBARAM WEST BUS STAND To ADYAR B.T\n- Terminal Path: TAMBARAM WEST BUS STAND To ADYAR B.T\n- Scheduled Daily Trips: 91 trips\n- Departures Serving Sholinganallur: 182 stop departures\n- Operational Hours: 04:52:45 to 22:10:00\n\n## Static Schedule Disclaimer\n- All timetable benchmarks are derived from official static Chennai MTC GTFS data. Times indicate scheduled timetable departures and do not reflect real-time traffic conditions or live vehicle tracking.",
+  "chunk_hash": "4e8d01ac6ed3e67526ea6fe7f938f9d930c2d47d6a1e878b64aaf94c1e768967",
+  "token_count": 287,
+  "pipeline_version": "v1.0.0-chunking",
+  "source_start_char": 1325,
+  "source_end_char": 1810,
+  "injected_context_header": "# MTC BUS ROUTE PROFILE: ROUTE 99 (Continued)\n\n## Operational Service Variants (Continued - Part 2)\n\n",
+  "overlap_text": "### Variant Route ID: 635 — SHOLINGANALLUR To ADYAR B.T\n- Terminal Path: SHOLINGANALLUR To ADYAR B.T\n- Scheduled Daily Trips: 14 trips\n- Departures Serving Sholinganallur: 14 stop departures\n- Operational Hours: 10:47:15 to 19:25:15\n\n",
+  "has_overlap": true,
+  "overlap_tokens": 85,
+  "metadata": {
+    "is_atomic": false,
+    "has_overlap": true,
+    "overlap_tokens": 85,
+    "source_start_char": 1325,
+    "source_end_char": 1810,
+    "injected_context_header": "# MTC BUS ROUTE PROFILE: ROUTE 99 (Continued)\n\n## Operational Service Variants (Continued - Part 2)\n\n",
+    "overlap_text": "### Variant Route ID: 635 — SHOLINGANALLUR To ADYAR B.T\n- Terminal Path: SHOLINGANALLUR To ADYAR B.T\n- Scheduled Daily Trips: 14 trips\n- Departures Serving Sholinganallur: 14 stop departures\n- Operational Hours: 10:47:15 to 19:25:15\n\n",
+    "source_tokens": 645,
+    "document_id": "doc_route_99_8c1f1046",
+    "document_type": "route_profile",
+    "route_number": "99",
+    "route_hash_suffix": "8c1f1046",
+    "variant_count": 4,
+    "variant_route_ids": [
+      "633",
+      "634",
+      "635",
+      "636"
+    ],
+    "total_daily_trips": 213,
+    "total_area_departures": 398,
+    "earliest_departure_time": "04:14:30",
+    "latest_departure_time": "22:26:45",
+    "earliest_departure_seconds": 15270,
+    "latest_departure_seconds": 80805,
+    "terminals": [
+      "ADYAR B.T",
+      "SHOLINGANALLUR",
+      "TAMBARAM WEST BUS STAND"
+    ],
+    "variant_count_in_chunk": 1
+  }
+}

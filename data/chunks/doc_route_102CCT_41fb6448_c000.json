@@ -1,0 +1,49 @@
+{
+  "chunk_id": "doc_route_102CCT_41fb6448_c000",
+  "document_id": "doc_route_102CCT_41fb6448",
+  "chunk_index": 0,
+  "document_type": "route_profile",
+  "title": "Route Profile: Route 102CCT (2 Service Variants)",
+  "source_dataset": "route_service_summary.json",
+  "dataset_version": "v1.0.0-sholinganallur",
+  "section_heading": "Complete Route Profile & Service Variants",
+  "chunk_text": "# MTC BUS ROUTE PROFILE: ROUTE 102CCT\n\n## Public Transit Line Overview\n- Public Route Number: 102CCT\n- Total Operational Variants in Feed: 2 service profiles\n- Total Scheduled Daily Trips: 2 trips\n- Total Sholinganallur Stop Departures: 2 recorded departures\n- Key Terminals & Hubs Served: SEMMANCHERI TNUHDB, YMCA HR.SCHOOL\n\n## Timetable Service Window\n- Earliest Scheduled Departure in Area: 07:52:00 (Variant ID: 5824)\n- Latest Scheduled Departure in Area: 16:06:30 (Variant ID: 5825)\n- Span of Operation: From 07:52:00 to 16:06:30\n\n## Operational Service Variants (2 GTFS Service Profiles)\n### Variant Route ID: 5824 — SEMMANCHERI TNUHDB To YMCA HR.SCHOOL\n- Terminal Path: SEMMANCHERI TNUHDB To YMCA HR.SCHOOL\n- Scheduled Daily Trips: 1 trips\n- Departures Serving Sholinganallur: 1 stop departures\n- Operational Hours: 07:52:00 to 07:52:00\n\n### Variant Route ID: 5825 — YMCA HR.SCHOOL To SEMMANCHERI TNUHDB\n- Terminal Path: YMCA HR.SCHOOL To SEMMANCHERI TNUHDB\n- Scheduled Daily Trips: 1 trips\n- Departures Serving Sholinganallur: 1 stop departures\n- Operational Hours: 16:06:30 to 16:06:30\n\n## Static Schedule Disclaimer\n- All timetable benchmarks are derived from official static Chennai MTC GTFS data. Times indicate scheduled timetable departures and do not reflect real-time traffic conditions or live vehicle tracking.",
+  "chunk_hash": "94c0173c1697b988a2e88c634f97380cd78803c11eb65e118cfcf44a3f6ee0b6",
+  "token_count": 466,
+  "pipeline_version": "v1.0.0-chunking",
+  "source_start_char": 0,
+  "source_end_char": 1328,
+  "injected_context_header": "",
+  "overlap_text": "",
+  "has_overlap": false,
+  "overlap_tokens": 0,
+  "metadata": {
+    "is_atomic": true,
+    "has_overlap": false,
+    "overlap_tokens": 0,
+    "source_start_char": 0,
+    "source_end_char": 1328,
+    "injected_context_header": "",
+    "overlap_text": "",
+    "source_tokens": 466,
+    "document_id": "doc_route_102CCT_41fb6448",
+    "document_type": "route_profile",
+    "route_number": "102CCT",
+    "route_hash_suffix": "41fb6448",
+    "variant_count": 2,
+    "variant_route_ids": [
+      "5824",
+      "5825"
+    ],
+    "total_daily_trips": 2,
+    "total_area_departures": 2,
+    "earliest_departure_time": "07:52:00",
+    "latest_departure_time": "16:06:30",
+    "earliest_departure_seconds": 28320,
+    "latest_departure_seconds": 57990,
+    "terminals": [
+      "SEMMANCHERI TNUHDB",
+      "YMCA HR.SCHOOL"
+    ]
+  }
+}

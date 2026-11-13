@@ -1,0 +1,45 @@
+{
+  "document_id": "doc_route_102X_19066bd4",
+  "document_type": "route_profile",
+  "title": "Route Profile: Route 102X (9 Service Variants)",
+  "source_file": "route_service_summary.json",
+  "dataset_version": "v1.0.0-sholinganallur",
+  "metadata": {
+    "document_id": "doc_route_102X_19066bd4",
+    "document_type": "route_profile",
+    "route_number": "102X",
+    "route_hash_suffix": "19066bd4",
+    "variant_count": 9,
+    "variant_route_ids": [
+      "1884",
+      "1885",
+      "1965",
+      "1970",
+      "45",
+      "46",
+      "49",
+      "50",
+      "5464"
+    ],
+    "total_daily_trips": 148,
+    "total_area_departures": 688,
+    "earliest_departure_time": "04:23:45",
+    "latest_departure_time": "24:22:45",
+    "earliest_departure_seconds": 15825,
+    "latest_departure_seconds": 87765,
+    "terminals": [
+      "ADYAR DEPOT",
+      "BROADWAY",
+      "KCBT - KILAMBAKKAM",
+      "KELAMBAKKAM",
+      "M.G.R.CENTRAL",
+      "M.G.R.CENTRAL R.S",
+      "PERUMBAKKAM TNUHDB",
+      "THIRUPORUR",
+      "THIRUPORUR BUS STAND",
+      "THIRUVANMIYUR B.T"
+    ]
+  },
+  "content": "# MTC BUS ROUTE PROFILE: ROUTE 102X\n\n## Public Transit Line Overview\n- Public Route Number: 102X\n- Total Operational Variants in Feed: 9 service profiles\n- Total Scheduled Daily Trips: 148 trips\n- Total Sholinganallur Stop Departures: 688 recorded departures\n- Key Terminals & Hubs Served: ADYAR DEPOT, BROADWAY, KCBT - KILAMBAKKAM, KELAMBAKKAM, M.G.R.CENTRAL, M.G.R.CENTRAL R.S, PERUMBAKKAM TNUHDB, THIRUPORUR, THIRUPORUR BUS STAND, THIRUVANMIYUR B.T\n\n## Timetable Service Window\n- Earliest Scheduled Departure in Area: 04:23:45 (Variant ID: 5464)\n- Latest Scheduled Departure in Area: 24:22:45 (Variant ID: 1884)\n- Span of Operation: From 04:23:45 to 24:22:45\n\n## Operational Service Variants (9 GTFS Service Profiles)\n### Variant Route ID: 1884 — THIRUPORUR BUS STAND To THIRUVANMIYUR B.T\n- Terminal Path: THIRUPORUR BUS STAND To THIRUVANMIYUR B.T\n- Scheduled Daily Trips: 10 trips\n- Departures Serving Sholinganallur: 50 stop departures\n- Operational Hours: 11:26:30 to 24:22:45\n\n### Variant Route ID: 1885 — THIRUVANMIYUR B.T To THIRUPORUR BUS STAND\n- Terminal Path: THIRUVANMIYUR B.T To THIRUPORUR BUS STAND\n- Scheduled Daily Trips: 11 trips\n- Departures Serving Sholinganallur: 55 stop departures\n- Operational Hours: 08:41:45 to 16:43:00\n\n### Variant Route ID: 1965 — BROADWAY To KELAMBAKKAM\n- Terminal Path: BROADWAY To KELAMBAKKAM\n- Scheduled Daily Trips: 1 trips\n- Departures Serving Sholinganallur: 1 stop departures\n- Operational Hours: 18:09:30 to 18:09:30\n\n### Variant Route ID: 1970 — PERUMBAKKAM TNUHDB To KCBT - KILAMBAKKAM\n- Terminal Path: PERUMBAKKAM TNUHDB To KCBT - KILAMBAKKAM\n- Scheduled Daily Trips: 1 trips\n- Departures Serving Sholinganallur: 1 stop departures\n- Operational Hours: 04:27:00 to 04:27:00\n\n### Variant Route ID: 45 — BROADWAY To THIRUPORUR BUS STAND\n- Terminal Path: BROADWAY To THIRUPORUR BUS STAND\n- Scheduled Daily Trips: 53 trips\n- Departures Serving Sholinganallur: 265 stop departures\n- Operational Hours: 07:40:00 to 22:21:15\n\n### Variant Route ID: 46 — THIRUPORUR BUS STAND To BROADWAY\n- Terminal Path: THIRUPORUR BUS STAND To BROADWAY\n- Scheduled Daily Trips: 53 trips\n- Departures Serving Sholinganallur: 265 stop departures\n- Operational Hours: 06:28:45 to 19:50:00\n\n### Variant Route ID: 49 — M.G.R.CENTRAL R.S To THIRUPORUR BUS STAND\n- Terminal Path: M.G.R.CENTRAL R.S To THIRUPORUR BUS STAND\n- Scheduled Daily Trips: 8 trips\n- Departures Serving Sholinganallur: 40 stop departures\n- Operational Hours: 06:41:15 to 08:42:30\n\n### Variant Route ID: 50 — THIRUPORUR To M.G.R.CENTRAL\n- Terminal Path: THIRUPORUR To M.G.R.CENTRAL\n- Scheduled Daily Trips: 7 trips\n- Departures Serving Sholinganallur: 7 stop departures\n- Operational Hours: 19:45:00 to 21:30:00\n\n### Variant Route ID: 5464 — ADYAR DEPOT To THIRUPORUR\n- Terminal Path: ADYAR DEPOT To THIRUPORUR\n- Scheduled Daily Trips: 4 trips\n- Departures Serving Sholinganallur: 4 stop departures\n- Operational Hours: 04:23:45 to 07:18:45\n\n## Static Schedule Disclaimer\n- All timetable benchmarks are derived from official static Chennai MTC GTFS data. Times indicate scheduled timetable departures and do not reflect real-time traffic conditions or live vehicle tracking.",
+  "document_hash": "8f1304947fab3d3d6f02c3f4944a7e2f8d3aaaf207bb12beccb03b45456f8758"
+}

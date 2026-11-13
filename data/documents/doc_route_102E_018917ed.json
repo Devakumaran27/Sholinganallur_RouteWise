@@ -1,0 +1,30 @@
+{
+  "document_id": "doc_route_102E_018917ed",
+  "document_type": "route_profile",
+  "title": "Route Profile: Route 102E (2 Service Variants)",
+  "source_file": "route_service_summary.json",
+  "dataset_version": "v1.0.0-sholinganallur",
+  "metadata": {
+    "document_id": "doc_route_102E_018917ed",
+    "document_type": "route_profile",
+    "route_number": "102E",
+    "route_hash_suffix": "018917ed",
+    "variant_count": 2,
+    "variant_route_ids": [
+      "5915",
+      "5916"
+    ],
+    "total_daily_trips": 90,
+    "total_area_departures": 90,
+    "earliest_departure_time": "05:38:45",
+    "latest_departure_time": "20:51:30",
+    "earliest_departure_seconds": 20325,
+    "latest_departure_seconds": 75090,
+    "terminals": [
+      "SIRUSERI I.T PARK",
+      "THIRUVANMIYUR"
+    ]
+  },
+  "content": "# MTC BUS ROUTE PROFILE: ROUTE 102E\n\n## Public Transit Line Overview\n- Public Route Number: 102E\n- Total Operational Variants in Feed: 2 service profiles\n- Total Scheduled Daily Trips: 90 trips\n- Total Sholinganallur Stop Departures: 90 recorded departures\n- Key Terminals & Hubs Served: SIRUSERI I.T PARK, THIRUVANMIYUR\n\n## Timetable Service Window\n- Earliest Scheduled Departure in Area: 05:38:45 (Variant ID: 5916)\n- Latest Scheduled Departure in Area: 20:51:30 (Variant ID: 5915)\n- Span of Operation: From 05:38:45 to 20:51:30\n\n## Operational Service Variants (2 GTFS Service Profiles)\n### Variant Route ID: 5915 — SIRUSERI I.T PARK To THIRUVANMIYUR\n- Terminal Path: SIRUSERI I.T PARK To THIRUVANMIYUR\n- Scheduled Daily Trips: 45 trips\n- Departures Serving Sholinganallur: 45 stop departures\n- Operational Hours: 06:51:30 to 20:51:30\n\n### Variant Route ID: 5916 — THIRUVANMIYUR To SIRUSERI I.T PARK\n- Terminal Path: THIRUVANMIYUR To SIRUSERI I.T PARK\n- Scheduled Daily Trips: 45 trips\n- Departures Serving Sholinganallur: 45 stop departures\n- Operational Hours: 05:38:45 to 19:43:45\n\n## Static Schedule Disclaimer\n- All timetable benchmarks are derived from official static Chennai MTC GTFS data. Times indicate scheduled timetable departures and do not reflect real-time traffic conditions or live vehicle tracking.",
+  "document_hash": "f54c64b5cfc23038e9ad0fe38f00dce9696d547b3201fe7631eaf425823f942d"
+}

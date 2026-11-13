@@ -1,0 +1,31 @@
+{
+  "document_id": "doc_stop_BMDeXhVp",
+  "document_type": "stop_profile",
+  "title": "Bus Stop Profile: SHOLINGANALLUR HCL COMPANY (Stop ID: BMDeXhVp)",
+  "source_file": "bus_stops.json",
+  "dataset_version": "v1.0.0-sholinganallur",
+  "metadata": {
+    "document_type": "stop_profile",
+    "stop_id": "BMDeXhVp",
+    "stop_code": "BMDeXhVp",
+    "stop_name": "SHOLINGANALLUR HCL COMPANY",
+    "map_eligible": true,
+    "has_coordinates": true,
+    "latitude": 12.90163,
+    "longitude": 80.21826,
+    "total_departures": 671,
+    "connecting_route_count": 8,
+    "connecting_routes": [
+      "552K",
+      "95",
+      "95X",
+      "95XCT",
+      "99",
+      "99A",
+      "99X",
+      "M51"
+    ]
+  },
+  "content": "# BUS STOP DIRECTORY: SHOLINGANALLUR HCL COMPANY\n\n## Stop Identification & Locality\n- Official Stop Name: SHOLINGANALLUR HCL COMPANY\n- Stop Identifier (GTFS stop_id): BMDeXhVp\n- Stop Code: BMDeXhVp\n- Locality: Sholinganallur, Chennai (MTC Transit Zone)\n\n## Geographic Coordinates & Mapping Eligibility\n- Latitude: 12.90163\n- Longitude: 80.21826\n- Map Display Eligible: Yes\n- Coordinate Status: WITHIN_CONFIGURED_BOUNDS_NOT_INDEPENDENTLY_GROUND_TRUTH_VERIFIED\n\n## Bus Services & Operational Departures\n- Total Recorded Stop Departures: 671 scheduled departures\n- Number of Connecting Route Lines: 8 lines\n- Serving Bus Lines: 552K, 95, 95X, 95XCT, 99, 99A, 99X, M51\n\n## Important Notice\n- All departure times and schedules represent official static Chennai MTC GTFS timetable feeds. Real-time GPS tracking and live bus arrival times are not provided.",
+  "document_hash": "a6de8e025ca714265f69129603d6eb989c2eaea5f801f9127de79bb14e55c091"
+}

@@ -1,0 +1,48 @@
+{
+  "chunk_id": "doc_route_102K_8bd479ca_c000",
+  "document_id": "doc_route_102K_8bd479ca",
+  "chunk_index": 0,
+  "document_type": "route_profile",
+  "title": "Route Profile: Route 102K (1 Service Variants)",
+  "source_dataset": "route_service_summary.json",
+  "dataset_version": "v1.0.0-sholinganallur",
+  "section_heading": "Complete Route Profile & Service Variants",
+  "chunk_text": "# MTC BUS ROUTE PROFILE: ROUTE 102K\n\n## Public Transit Line Overview\n- Public Route Number: 102K\n- Total Operational Variants in Feed: 1 service profiles\n- Total Scheduled Daily Trips: 2 trips\n- Total Sholinganallur Stop Departures: 2 recorded departures\n- Key Terminals & Hubs Served: BROADWAY, PERUMBAKKAM TNUHDB\n\n## Timetable Service Window\n- Earliest Scheduled Departure in Area: 15:31:30 (Variant ID: 794)\n- Latest Scheduled Departure in Area: 16:31:30 (Variant ID: 794)\n- Span of Operation: From 15:31:30 to 16:31:30\n\n## Operational Service Variants (1 GTFS Service Profiles)\n### Variant Route ID: 794 — BROADWAY To PERUMBAKKAM TNUHDB\n- Terminal Path: BROADWAY To PERUMBAKKAM TNUHDB\n- Scheduled Daily Trips: 2 trips\n- Departures Serving Sholinganallur: 2 stop departures\n- Operational Hours: 15:31:30 to 16:31:30\n\n## Static Schedule Disclaimer\n- All timetable benchmarks are derived from official static Chennai MTC GTFS data. Times indicate scheduled timetable departures and do not reflect real-time traffic conditions or live vehicle tracking.",
+  "chunk_hash": "6a8d091f0cc6d17fab7b3ddc50508810a7d04a2d0d66839c663ed94f5f059661",
+  "token_count": 364,
+  "pipeline_version": "v1.0.0-chunking",
+  "source_start_char": 0,
+  "source_end_char": 1052,
+  "injected_context_header": "",
+  "overlap_text": "",
+  "has_overlap": false,
+  "overlap_tokens": 0,
+  "metadata": {
+    "is_atomic": true,
+    "has_overlap": false,
+    "overlap_tokens": 0,
+    "source_start_char": 0,
+    "source_end_char": 1052,
+    "injected_context_header": "",
+    "overlap_text": "",
+    "source_tokens": 364,
+    "document_id": "doc_route_102K_8bd479ca",
+    "document_type": "route_profile",
+    "route_number": "102K",
+    "route_hash_suffix": "8bd479ca",
+    "variant_count": 1,
+    "variant_route_ids": [
+      "794"
+    ],
+    "total_daily_trips": 2,
+    "total_area_departures": 2,
+    "earliest_departure_time": "15:31:30",
+    "latest_departure_time": "16:31:30",
+    "earliest_departure_seconds": 55890,
+    "latest_departure_seconds": 59490,
+    "terminals": [
+      "BROADWAY",
+      "PERUMBAKKAM TNUHDB"
+    ]
+  }
+}

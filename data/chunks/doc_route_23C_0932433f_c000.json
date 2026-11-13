@@ -1,0 +1,53 @@
+{
+  "chunk_id": "doc_route_23C_0932433f_c000",
+  "document_id": "doc_route_23C_0932433f",
+  "chunk_index": 0,
+  "document_type": "route_profile",
+  "title": "Route Profile: Route 23C (4 Service Variants) - Overview & Variants Part 1",
+  "source_dataset": "route_service_summary.json",
+  "dataset_version": "v1.0.0-sholinganallur",
+  "section_heading": "Overview & Initial Operational Variants",
+  "chunk_text": "# MTC BUS ROUTE PROFILE: ROUTE 23C\n\n## Public Transit Line Overview\n- Public Route Number: 23C\n- Total Operational Variants in Feed: 4 service profiles\n- Total Scheduled Daily Trips: 4 trips\n- Total Sholinganallur Stop Departures: 4 recorded departures\n- Key Terminals & Hubs Served: AYANAVARAM B.T, MOUNT ROAD T.V.S, PERUMBAKKAM TNUHDB\n\n## Timetable Service Window\n- Earliest Scheduled Departure in Area: 06:11:15 (Variant ID: 447)\n- Latest Scheduled Departure in Area: 17:37:00 (Variant ID: 455)\n- Span of Operation: From 06:11:15 to 17:37:00\n\n## Operational Service Variants (4 GTFS Service Profiles)\n### Variant Route ID: 447 — AYANAVARAM B.T To PERUMBAKKAM TNUHDB\n- Terminal Path: AYANAVARAM B.T To PERUMBAKKAM TNUHDB\n- Scheduled Daily Trips: 1 trips\n- Departures Serving Sholinganallur: 1 stop departures\n- Operational Hours: 06:11:15 to 06:11:15\n\n### Variant Route ID: 454 — MOUNT ROAD T.V.S To PERUMBAKKAM TNUHDB\n- Terminal Path: MOUNT ROAD T.V.S To PERUMBAKKAM TNUHDB\n- Scheduled Daily Trips: 1 trips\n- Departures Serving Sholinganallur: 1 stop departures\n- Operational Hours: 16:35:00 to 16:35:00\n\n### Variant Route ID: 455 — PERUMBAKKAM TNUHDB To AYANAVARAM B.T\n- Terminal Path: PERUMBAKKAM TNUHDB To AYANAVARAM B.T\n- Scheduled Daily Trips: 1 trips\n- Departures Serving Sholinganallur: 1 stop departures\n- Operational Hours: 17:37:00 to 17:37:00\n\n",
+  "chunk_hash": "337f7f9ddda5eaa309f5dc45c5b3334684d8a80096466986f3402364b7ec5bc5",
+  "token_count": 491,
+  "pipeline_version": "v1.0.0-chunking",
+  "source_start_char": 0,
+  "source_end_char": 1358,
+  "injected_context_header": "",
+  "overlap_text": "",
+  "has_overlap": false,
+  "overlap_tokens": 0,
+  "metadata": {
+    "is_atomic": false,
+    "has_overlap": false,
+    "overlap_tokens": 0,
+    "source_start_char": 0,
+    "source_end_char": 1358,
+    "injected_context_header": "",
+    "overlap_text": "",
+    "source_tokens": 660,
+    "document_id": "doc_route_23C_0932433f",
+    "document_type": "route_profile",
+    "route_number": "23C",
+    "route_hash_suffix": "0932433f",
+    "variant_count": 4,
+    "variant_route_ids": [
+      "447",
+      "454",
+      "455",
+      "456"
+    ],
+    "total_daily_trips": 4,
+    "total_area_departures": 4,
+    "earliest_departure_time": "06:11:15",
+    "latest_departure_time": "17:37:00",
+    "earliest_departure_seconds": 22275,
+    "latest_departure_seconds": 63420,
+    "terminals": [
+      "AYANAVARAM B.T",
+      "MOUNT ROAD T.V.S",
+      "PERUMBAKKAM TNUHDB"
+    ],
+    "variant_count_in_chunk": 3
+  }
+}
